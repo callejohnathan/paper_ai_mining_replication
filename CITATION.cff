@@ -3,6 +3,14 @@ message: "If you use these materials, please cite this deposit and the associate
 title: "Replication materials for: Fragmented Trust, Uneven Returns: A Mixed-Methods Analysis of Water Governance and Socio-Ecological System Performance in Gold-Mining Territories"
 version: 1.0.0
 date-released: 2026-10-20
+doi: 10.5281/zenodo.23504944
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23504943
+    description: Concept DOI (all versions, resolves to the latest)
+  - type: doi
+    value: 10.5281/zenodo.23504944
+    description: Version 1.0.0
 license: MIT
 repository-code: "https://github.com/callejohnathan/paper_ai_mining_replication"
 authors:

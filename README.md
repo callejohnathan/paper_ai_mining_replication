@@ -1,5 +1,7 @@
 # Replication materials — Fragmented Trust, Uneven Returns
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23504943.svg)](https://doi.org/10.5281/zenodo.23504943)
+
 Analysis code and results for:
 
 > Polanco, J.-A., Calle Gallego, J. M., & Hernández-Díaz, P. M. *Fragmented
@@ -95,4 +97,12 @@ Code under the MIT License; tables and figures under CC BY 4.0. See `LICENSE`.
 
 ## How to cite
 
-See `CITATION.cff`. Please cite both this deposit (DOI) and the article.
+Please cite both this deposit and the article:
+
+> Polanco, J.-A., Calle Gallego, J. M., & Hernández-Díaz, P. M. (2026).
+> *Replication materials for: Fragmented Trust, Uneven Returns* (Version
+> 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.23504944
+
+`10.5281/zenodo.23504944` identifies version 1.0.0;
+`10.5281/zenodo.23504943` always resolves to the latest version. See also
+`CITATION.cff`.
