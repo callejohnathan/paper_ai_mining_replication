@@ -1,0 +1,4 @@
+actor,CB-SEM,fsQCA,NCA (necessity),Multilevel
+Company Trust,"Significant (cluster-robust, t14), 2/4 facets",Present in 6/7 configurations,d=0.0125,ICC=0.206; heterogeneous in 1/4 tested
+Community Trust,"Significant (cluster-robust, t14), 2/4 facets",Present in 4/7 configurations,d=0.0000,ICC=0.217; heterogeneous in 1/4 tested
+External Institution Trust,"Not significant (cluster-robust, t14), 0/4 facets",Present in 5/7 configurations,d=0.0000,ICC=0.326; heterogeneous in 2/4 tested

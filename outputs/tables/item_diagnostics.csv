@@ -1,0 +1,35 @@
+bloque,item,media,sd,asimetria,%min,%max,%punto_medio_3,r_item_total_corr,excluido,motivo_exclusion
+GOB,GOB_1,3.56,1.16,-0.55,8.5,25.2,36.1,0.578,False,
+GOB,GOB_2,3.15,0.68,0.56,3.0,6.9,81.1,0.306,False,
+GOB,GOB_3,3.21,0.62,1.44,0.8,7.0,81.2,0.364,True,81.2% de respuestas en el punto medio (3) — probable 'no conozco este programa de la empresa' usado como respuesta por defecto
+GOB,GOB_4,3.3,0.79,0.61,2.0,11.7,70.3,0.518,True,"70.3% de respuestas en el punto medio (3) — mismo patrón que GOB_3, otro programa específico de la empresa"
+GOB,GOB_5,3.15,0.85,0.23,4.7,10.2,69.5,0.402,False,
+GOB,GOB_6,3.28,1.38,-0.37,18.3,24.3,29.8,0.59,False,
+GOB,GOB_7,2.92,1.45,-0.12,28.8,15.6,22.9,0.447,False,
+GOB,GOB_8,2.73,1.65,0.16,41.6,21.2,9.2,0.297,False,
+GOB,GOB_9,3.27,1.31,-0.32,13.0,19.9,19.2,0.583,False,
+GOB,GOB_10,3.27,1.28,-0.33,11.9,18.0,20.1,0.579,False,
+GOB,GOB_11,3.86,1.23,-0.88,8.0,41.6,24.3,0.59,False,
+GOB,GOB_12,3.71,1.14,-0.65,6.6,31.2,32.3,0.627,False,
+GOB,GOB_13,3.71,1.11,-0.69,6.5,28.7,31.5,0.669,False,
+GOB,GOB_14,3.2,1.04,-0.4,8.7,8.9,40.4,0.583,False,
+SOS,SOS_1,4.82,0.61,-4.34,1.0,88.3,0.0,0.013,True,r item-total ~0 (.013); 88% de respuestas en el máximo (efecto techo)
+SOS,SOS_2,2.33,1.42,0.59,42.6,9.3,10.5,0.132,True,no correlaciona con el resto del bloque de sostenibilidad (r~.13); decisión del equipo de descartarlo
+SOS,SOS_3,3.93,1.43,-1.09,12.0,51.7,1.8,0.674,False,
+SOS,SOS_4,3.94,1.3,-1.12,8.3,44.6,1.0,0.496,False,
+SOS,SOS_5,3.8,1.45,-0.92,13.3,45.6,2.0,0.686,False,
+DES,DES_1,3.69,1.27,-0.57,7.9,38.4,30.1,0.252,False,
+DES,DES_2,4.38,1.1,-1.97,6.0,66.1,6.8,0.249,False,
+DES,DES_3,3.45,1.73,-0.42,24.9,49.1,2.4,0.285,False,
+DES,DES_4,2.27,1.75,0.74,63.0,23.6,0.6,0.229,False,
+DES,DES_5,4.37,1.16,-1.93,6.4,69.0,2.4,0.457,False,
+DES,DES_6,4.36,1.17,-1.91,6.5,68.5,2.1,0.46,False,
+DES,DES_7,4.37,1.18,-1.92,6.7,69.4,2.1,0.467,False,
+DES,DES_8,4.98,0.14,-10.06,0.2,98.7,0.2,0.091,True,"varianza casi nula (SD=.14, 98.7% responde el máximo)"
+DES,DES_9,4.5,0.98,-2.39,4.7,70.1,4.3,0.181,False,
+DES,DES_10,2.91,1.57,-0.0,31.7,21.9,13.2,0.289,False,
+DES,DES_11,2.35,1.5,0.6,45.6,12.4,7.6,0.119,False,
+DES,DES_12,3.57,1.39,-0.58,10.8,32.9,6.5,0.456,False,
+DES,DES_13,3.62,1.4,-0.64,10.8,35.5,4.5,0.446,False,
+DES,DES_14,3.56,1.52,-0.59,15.8,39.4,4.1,0.413,False,
+DES,DES_15,3.46,0.83,0.96,0.6,19.4,70.4,-0.028,True,"r item-total negativo (-.028); ítem 'global/puente', no reflectivo del resto"

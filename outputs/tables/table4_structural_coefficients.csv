@@ -1,0 +1,21 @@
+outcome_es,outcome_en,predictor_es,predictor_en,beta,p,sig
+DES_relacional,Relational Performance,GOB_empresa,Company Trust,0.138,0.0008371745073860737,***
+DES_relacional,Relational Performance,GOB_confianza,Community Trust,0.126,0.0016774116565103636,**
+DES_relacional,Relational Performance,GOB_externo,External Institution Trust,0.062,0.27347773748774973,
+DES_relacional,Relational Performance,SOS_ambiental,Environmental Sustainability,0.054,0.12221930948486581,
+DES_relacional,Relational Performance,vulnerabilidad_hidrica,Water-Source Vulnerability,-0.067,0.02943991523960543,*
+DES_regulacion,Ecological Regulation,GOB_empresa,Company Trust,-0.03,0.46171819756272603,
+DES_regulacion,Ecological Regulation,GOB_confianza,Community Trust,0.165,2.989813699727506e-05,***
+DES_regulacion,Ecological Regulation,GOB_externo,External Institution Trust,0.06,0.28452285244308406,
+DES_regulacion,Ecological Regulation,SOS_ambiental,Environmental Sustainability,0.116,0.0008208947558179247,***
+DES_regulacion,Ecological Regulation,vulnerabilidad_hidrica,Water-Source Vulnerability,-0.257,0.0,***
+DES_estructural,Structural Performance,GOB_empresa,Company Trust,0.233,2.0356840390256536e-05,***
+DES_estructural,Structural Performance,GOB_confianza,Community Trust,0.241,5.89401456196903e-06,***
+DES_estructural,Structural Performance,GOB_externo,External Institution Trust,0.073,0.3080441138891252,
+DES_estructural,Structural Performance,SOS_ambiental,Environmental Sustainability,0.189,4.377457969395593e-05,***
+DES_estructural,Structural Performance,vulnerabilidad_hidrica,Water-Source Vulnerability,-0.303,7.172706872893286e-12,***
+DES_agencia,Individual Agency,GOB_empresa,Company Trust,0.143,0.0031246455863171985,**
+DES_agencia,Individual Agency,GOB_confianza,Community Trust,0.005,0.9108864950686772,
+DES_agencia,Individual Agency,GOB_externo,External Institution Trust,0.109,0.10264372700741409,
+DES_agencia,Individual Agency,SOS_ambiental,Environmental Sustainability,0.11,0.007657853142754689,**
+DES_agencia,Individual Agency,vulnerabilidad_hidrica,Water-Source Vulnerability,0.118,0.0011943943146952574,**

@@ -1,0 +1,24 @@
+{
+  "title": "Replication materials for: Fragmented Trust, Uneven Returns: A Mixed-Methods Analysis of Water Governance and Socio-Ecological System Performance in Gold-Mining Territories",
+  "upload_type": "software",
+  "description": "<p>Analysis code (Python and R) and results (tables and figures) for the article <em>Fragmented Trust, Uneven Returns: A Mixed-Methods Analysis of Water Governance and Socio-Ecological System Performance in Gold-Mining Territories</em>, submitted to Resources Policy. The study combines CB-SEM, fsQCA, NCA and multilevel models on a household survey (N = 980) in 15 veredas of a gold-mining territory in Antioquia, Colombia.</p><p>The survey microdata and questionnaire are not included for confidentiality reasons; access may be requested from the corresponding author. The repository documents the structure of the analysis dataset (DATA_DICTIONARY.md) so that the pipeline can be run once access is granted.</p><p>Code: MIT License. Tables and figures: CC BY 4.0.</p>",
+  "creators": [
+    {"name": "Polanco, Jorge-Andrés", "affiliation": "Universidad de Medellín"},
+    {"name": "Calle Gallego, Johnathan Mauricio", "affiliation": "Universidad de Medellín"},
+    {"name": "Hernández-Díaz, Paula M.", "affiliation": "Universidad EAFIT"}
+  ],
+  "keywords": [
+    "water governance",
+    "gold mining",
+    "social-ecological systems",
+    "CB-SEM",
+    "fsQCA",
+    "necessary condition analysis",
+    "multilevel models",
+    "Colombia"
+  ],
+  "license": "mit",
+  "access_right": "open",
+  "language": "eng",
+  "notes": "Funded by Universidad de Medellín, Universidad EAFIT, Universidad Pontificia Bolivariana and B2Gold Corp. (Gramalote Colombia) through the G8 R+D+i 2023 call."
+}

@@ -1,0 +1,22 @@
+grupo,categoria,n,pct
+Muestra,N total,980,100.0
+Muestra,N veredas,15,
+Género,mujer,501,51.1
+Género,hombre,479,48.9
+Acueducto,si,548,55.9
+Acueducto,no,432,44.1
+Actividad,hogar,375,38.3
+Actividad,otro,137,14.0
+Actividad,agricultura,131,13.4
+Actividad,mineria,117,11.9
+Actividad,Comerciante,99,10.1
+Actividad,trapiche,80,8.2
+Actividad,ganaderia,19,1.9
+Actividad,Construcción,12,1.2
+Actividad,Lider,8,0.8
+Actividad,ider,1,0.1
+Actividad,Docente,1,0.1
+Fuente de agua,segura,600,61.2
+Fuente de agua,informal,331,33.8
+Fuente de agua,otro,31,3.2
+Fuente de agua,comprada,18,1.8

@@ -1,0 +1,9 @@
+construct_es,construct_en,n_items,loading_min,loading_max,CR,AVE,below_threshold
+GOB_empresa,Company Trust,5,0.611,0.864,0.872,0.581,False
+GOB_confianza,Community Trust,2,0.978,0.99,0.984,0.969,False
+GOB_externo,External Institution Trust,3,0.447,0.698,0.546,0.296,True
+SOS_ambiental,Environmental Sustainability,3,0.655,0.938,0.88,0.714,False
+DES_relacional,Relational Performance,3,0.946,0.978,0.976,0.933,False
+DES_regulacion,Ecological Regulation,3,0.679,0.964,0.906,0.766,False
+DES_estructural,Structural Performance,2,0.589,0.626,0.54,0.37,True
+DES_agencia,Individual Agency,2,0.555,1.0,0.777,0.654,False

@@ -1,0 +1,21 @@
+outcome,outcome_en,predictor,predictor_en,beta_observed,beta_disattenuated_CR,beta_disattenuated_alpha
+DES_relacional,Relational Performance,GOB_empresa,Company Trust,0.181,0.2069,0.2094
+DES_relacional,Relational Performance,GOB_confianza,Community Trust,0.1328,0.1292,0.1302
+DES_relacional,Relational Performance,GOB_externo,External Institution Trust,-0.0007,-0.0187,-0.0223
+DES_relacional,Relational Performance,SOS_ambiental,Environmental Sustainability,0.0656,0.0711,0.0719
+DES_relacional,Relational Performance,vulnerabilidad_hidrica,Water-Source Vulnerability,-0.0564,-0.0481,-0.0467
+DES_regulacion,Ecological Regulation,GOB_empresa,Company Trust,-0.0297,-0.0495,-0.0546
+DES_regulacion,Ecological Regulation,GOB_confianza,Community Trust,0.1823,0.1777,0.1742
+DES_regulacion,Ecological Regulation,GOB_externo,External Institution Trust,0.0349,0.0628,0.0717
+DES_regulacion,Ecological Regulation,SOS_ambiental,Environmental Sustainability,0.1094,0.1204,0.121
+DES_regulacion,Ecological Regulation,vulnerabilidad_hidrica,Water-Source Vulnerability,-0.2894,-0.3105,-0.3157
+DES_estructural,Structural Performance,GOB_empresa,Company Trust,0.1939,0.2669,0.2652
+DES_estructural,Structural Performance,GOB_confianza,Community Trust,0.1723,0.192,0.1857
+DES_estructural,Structural Performance,GOB_externo,External Institution Trust,0.0618,0.1215,0.1388
+DES_estructural,Structural Performance,SOS_ambiental,Environmental Sustainability,0.1174,0.1633,0.1651
+DES_estructural,Structural Performance,vulnerabilidad_hidrica,Water-Source Vulnerability,-0.2144,-0.2969,-0.3069
+DES_agencia,Individual Agency,GOB_empresa,Company Trust,0.1448,0.1801,0.1889
+DES_agencia,Individual Agency,GOB_confianza,Community Trust,0.0387,0.0301,0.0302
+DES_agencia,Individual Agency,GOB_externo,External Institution Trust,0.0127,0.0093,0.0099
+DES_agencia,Individual Agency,SOS_ambiental,Environmental Sustainability,0.1054,0.1277,0.1342
+DES_agencia,Individual Agency,vulnerabilidad_hidrica,Water-Source Vulnerability,0.1113,0.1317,0.1379

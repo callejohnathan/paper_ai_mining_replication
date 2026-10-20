@@ -1,0 +1,17 @@
+outcome_en,slope_en,outcome_es,slope_es,LR,p,heterogeneous,heterogeneous_bh
+Relational Performance,Community Trust,DES_relacional,GOB_confianza,4.58,0.0668,No,No
+Structural Performance,Community Trust,DES_estructural,GOB_confianza,9.8,0.0046,Yes,Yes
+Ecological Regulation,Environmental Sustainability,DES_regulacion,SOS_ambiental,12.16,0.0014,Yes,Yes
+Individual Agency,Environmental Sustainability,DES_agencia,SOS_ambiental,9.37,0.0057,Yes,Yes
+Structural Performance,Environmental Sustainability,DES_estructural,SOS_ambiental,8.44,0.0092,Yes,Yes
+Ecological Regulation,Community Trust,DES_regulacion,GOB_confianza,0.72,0.5464,No,No
+Individual Agency,Community Trust,DES_agencia,GOB_confianza,0.23,0.7609,No,No
+Relational Performance,Environmental Sustainability,DES_relacional,SOS_ambiental,3.06,0.1487,No,No
+Relational Performance,Company Trust,DES_relacional,GOB_empresa,20.01,0.0,Yes,Yes
+Ecological Regulation,Company Trust,DES_regulacion,GOB_empresa,0.12,0.8375,No,No
+Structural Performance,Company Trust,DES_estructural,GOB_empresa,2.54,0.1957,No,No
+Individual Agency,Company Trust,DES_agencia,GOB_empresa,3.65,0.1088,No,No
+Relational Performance,External Institution Trust,DES_relacional,GOB_externo,11.41,0.002,Yes,Yes
+Ecological Regulation,External Institution Trust,DES_regulacion,GOB_externo,6.91,0.02,Yes,Yes
+Structural Performance,External Institution Trust,DES_estructural,GOB_externo,1.1,0.4349,No,No
+Individual Agency,External Institution Trust,DES_agencia,GOB_externo,0.0,1.0,No,No

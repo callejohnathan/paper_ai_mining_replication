@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite this deposit and the associated article."
+title: "Replication materials for: Fragmented Trust, Uneven Returns: A Mixed-Methods Analysis of Water Governance and Socio-Ecological System Performance in Gold-Mining Territories"
+version: 1.0.0
+date-released: 2026-10-20
+license: MIT
+repository-code: "https://github.com/callejohnathan/paper_ai_mining_replication"
+authors:
+  - family-names: Polanco
+    given-names: Jorge-Andrés
+    affiliation: Universidad de Medellín
+  - family-names: Calle Gallego
+    given-names: Johnathan Mauricio
+    affiliation: Universidad de Medellín
+  - family-names: Hernández-Díaz
+    given-names: Paula M.
+    affiliation: Universidad EAFIT
+keywords:
+  - water governance
+  - gold mining
+  - social-ecological systems
+  - CB-SEM
+  - fsQCA
+  - necessary condition analysis
+  - multilevel models
+  - Colombia

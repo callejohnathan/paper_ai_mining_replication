@@ -1,0 +1,4 @@
+bloque,n_items,KMO,bartlett_chi2,n_factores_sugeridos
+GOB,12,0.825,6742.5,3
+SOS,3,0.675,1593.4,1
+DES,13,0.729,7963.2,4

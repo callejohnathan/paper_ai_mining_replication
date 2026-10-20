@@ -1,0 +1,9 @@
+,GOB_empresa,GOB_confianza,GOB_externo,SOS_ambiental,DES_relacional,DES_regulacion,DES_estructural,DES_agencia
+GOB_empresa,,0.412,0.491,0.204,0.272,0.145,0.504,0.2
+GOB_confianza,0.412,,0.491,0.323,0.24,0.302,0.487,0.126
+GOB_externo,0.491,0.491,,0.295,0.19,0.145,0.385,0.214
+SOS_ambiental,0.204,0.323,0.295,,0.16,0.242,0.36,0.162
+DES_relacional,0.272,0.24,0.19,0.16,,0.111,0.258,0.349
+DES_regulacion,0.145,0.302,0.145,0.242,0.111,,0.349,0.063
+DES_estructural,0.504,0.487,0.385,0.36,0.258,0.349,,0.11
+DES_agencia,0.2,0.126,0.214,0.162,0.349,0.063,0.11,
