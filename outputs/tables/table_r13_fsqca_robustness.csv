@@ -1,0 +1,757 @@
+calibracion,empuje_0.5,resultado,cons,PRI_min,freq,Company,Community,External,Sustainability,Security,filas_positivas,casos_en_tabla,terminos,modelos_alternativos,solucion,parsimoniosa,sol_consistencia,sol_PRI,sol_cobertura
+p10-50-90,1,DES_estructural,0.75,0.5,5,2+/0-/2n,1+/0-/1n,1+/0-/1n,2+/0-/2n,3+/0-/0n,8,970.0,3.0,1.0,Company*Sustainability*Security + Community*Sustainability*Security + Company*External*Security,Community*Sustainability + Company*External + Company*Sustainability,0.713,0.565,0.698
+p10-50-90,1,DES_estructural,0.75,0.5,10,2+/0-/2n,1+/0-/1n,1+/0-/1n,2+/0-/2n,3+/0-/0n,8,962.0,3.0,1.0,Company*Sustainability*Security + Community*Sustainability*Security + Company*External*Security,Community*Sustainability + Company*External + Company*Sustainability,0.713,0.565,0.698
+p10-50-90,1,DES_estructural,0.75,0.5,20,2+/0-/2n,1+/0-/1n,1+/0-/1n,2+/0-/2n,3+/0-/0n,8,962.0,3.0,1.0,Company*Sustainability*Security + Community*Sustainability*Security + Company*External*Security,Community*Sustainability + Company*External + Company*Sustainability,0.713,0.565,0.698
+p10-50-90,1,DES_estructural,0.75,0.65,5,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/0n,1,970.0,1.0,1.0,Company*Community*External*Sustainability*Security,Company*Community*External*Sustainability,0.837,0.681,0.366
+p10-50-90,1,DES_estructural,0.75,0.65,10,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/0n,1,962.0,1.0,1.0,Company*Community*External*Sustainability*Security,Company*Community*External*Sustainability,0.837,0.681,0.366
+p10-50-90,1,DES_estructural,0.75,0.65,20,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/0n,1,962.0,1.0,1.0,Company*Community*External*Sustainability*Security,Company*Community*External*Sustainability,0.837,0.681,0.366
+p10-50-90,1,DES_estructural,0.75,0.7,5,,,,,,0,,,,,,,,
+p10-50-90,1,DES_estructural,0.75,0.7,10,,,,,,0,,,,,,,,
+p10-50-90,1,DES_estructural,0.75,0.7,20,,,,,,0,,,,,,,,
+p10-50-90,1,DES_estructural,0.8,0.5,5,2+/0-/2n,1+/0-/1n,2+/0-/2n,2+/0-/2n,3+/0-/0n,7,970.0,3.0,1.0,Community*External*Sustainability*Security + Company*Sustainability*Security + Company*External*Security,Company*Sustainability + Community*External*Sustainability + Company*External,0.729,0.579,0.659
+p10-50-90,1,DES_estructural,0.8,0.5,10,2+/0-/2n,1+/0-/1n,2+/0-/2n,2+/0-/2n,3+/0-/0n,7,962.0,3.0,1.0,Community*External*Sustainability*Security + Company*Sustainability*Security + Company*External*Security,Company*External + Company*Sustainability + Community*External*Sustainability,0.729,0.579,0.659
+p10-50-90,1,DES_estructural,0.8,0.5,20,2+/0-/2n,1+/0-/1n,2+/0-/2n,2+/0-/2n,3+/0-/0n,7,962.0,3.0,1.0,Community*External*Sustainability*Security + Company*Sustainability*Security + Company*External*Security,Company*External + Company*Sustainability + Community*External*Sustainability,0.729,0.579,0.659
+p10-50-90,1,DES_estructural,0.8,0.65,5,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/0n,1,970.0,1.0,1.0,Company*Community*External*Sustainability*Security,Company*Community*External*Sustainability,0.837,0.681,0.366
+p10-50-90,1,DES_estructural,0.8,0.65,10,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/0n,1,962.0,1.0,1.0,Company*Community*External*Sustainability*Security,Company*Community*External*Sustainability,0.837,0.681,0.366
+p10-50-90,1,DES_estructural,0.8,0.65,20,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/0n,1,962.0,1.0,1.0,Company*Community*External*Sustainability*Security,Company*Community*External*Sustainability,0.837,0.681,0.366
+p10-50-90,1,DES_estructural,0.8,0.7,5,,,,,,0,,,,,,,,
+p10-50-90,1,DES_estructural,0.8,0.7,10,,,,,,0,,,,,,,,
+p10-50-90,1,DES_estructural,0.8,0.7,20,,,,,,0,,,,,,,,
+p10-50-90,1,DES_estructural,0.85,0.5,5,,,,,,0,,,,,,,,
+p10-50-90,1,DES_estructural,0.85,0.5,10,,,,,,0,,,,,,,,
+p10-50-90,1,DES_estructural,0.85,0.5,20,,,,,,0,,,,,,,,
+p10-50-90,1,DES_estructural,0.85,0.65,5,,,,,,0,,,,,,,,
+p10-50-90,1,DES_estructural,0.85,0.65,10,,,,,,0,,,,,,,,
+p10-50-90,1,DES_estructural,0.85,0.65,20,,,,,,0,,,,,,,,
+p10-50-90,1,DES_estructural,0.85,0.7,5,,,,,,0,,,,,,,,
+p10-50-90,1,DES_estructural,0.85,0.7,10,,,,,,0,,,,,,,,
+p10-50-90,1,DES_estructural,0.85,0.7,20,,,,,,0,,,,,,,,
+p10-50-90,1,~DES_estructural,0.75,0.5,5,0+/2-/2n,0+/1-/1n,0+/1-/1n,0+/2-/2n,0+/0-/0n,9,970.0,3.0,1.0,~Company*~Sustainability + ~External*~Sustainability + ~Company*~Community,~Company*~Sustainability + ~External*~Sustainability + ~Company*~Community,0.741,0.635,0.684
+p10-50-90,1,~DES_estructural,0.75,0.5,10,0+/2-/2n,0+/1-/1n,0+/1-/1n,0+/2-/2n,0+/0-/0n,8,962.0,3.0,1.0,~Company*~Sustainability + ~External*~Sustainability + ~Company*~Community,~Company*~Sustainability + ~External*~Sustainability + ~Company*~Community,0.741,0.635,0.684
+p10-50-90,1,~DES_estructural,0.75,0.5,20,0+/2-/2n,0+/1-/1n,0+/1-/1n,0+/2-/2n,0+/0-/0n,8,962.0,3.0,1.0,~Company*~Sustainability + ~External*~Sustainability + ~Company*~Community,~Company*~Sustainability + ~External*~Sustainability + ~Company*~Community,0.741,0.635,0.684
+p10-50-90,1,~DES_estructural,0.75,0.65,5,0+/1-/1n,0+/1-/1n,0+/0-/0n,0+/1-/1n,0+/0-/0n,3,970.0,1.0,1.0,~Company*~Community*~Sustainability,~Company*~Community*~Sustainability,0.833,0.736,0.383
+p10-50-90,1,~DES_estructural,0.75,0.65,10,0+/1-/1n,0+/1-/1n,0+/0-/0n,0+/1-/1n,0+/0-/0n,2,962.0,1.0,1.0,~Company*~Community*~Sustainability,~Company*~Community*~Sustainability,0.833,0.736,0.383
+p10-50-90,1,~DES_estructural,0.75,0.65,20,0+/1-/1n,0+/1-/1n,0+/0-/0n,0+/1-/1n,0+/0-/0n,2,962.0,1.0,1.0,~Company*~Community*~Sustainability,~Company*~Community*~Sustainability,0.833,0.736,0.383
+p10-50-90,1,~DES_estructural,0.75,0.7,5,0+/1-/1n,0+/1-/1n,0+/1-/1n,0+/1-/1n,0+/0-/0n,2,970.0,1.0,1.0,~Company*~Community*~External*~Sustainability,~Company*~Community*~External*~Sustainability,0.847,0.749,0.322
+p10-50-90,1,~DES_estructural,0.75,0.7,10,0+/1-/1n,0+/1-/1n,0+/1-/1n,0+/1-/1n,0+/0-/0n,1,962.0,1.0,1.0,~Company*~Community*~External*~Sustainability,~Company*~Community*~External*~Sustainability,0.847,0.749,0.322
+p10-50-90,1,~DES_estructural,0.75,0.7,20,0+/1-/1n,0+/1-/1n,0+/1-/1n,0+/1-/1n,0+/0-/0n,1,962.0,1.0,1.0,~Company*~Community*~External*~Sustainability,~Company*~Community*~External*~Sustainability,0.847,0.749,0.322
+p10-50-90,1,~DES_estructural,0.8,0.5,5,0+/2-/2n,0+/1-/1n,0+/1-/1n,0+/2-/2n,0+/0-/0n,9,970.0,3.0,1.0,~Company*~Sustainability + ~External*~Sustainability + ~Company*~Community,~Company*~Sustainability + ~External*~Sustainability + ~Company*~Community,0.741,0.635,0.684
+p10-50-90,1,~DES_estructural,0.8,0.5,10,0+/2-/2n,0+/1-/1n,0+/1-/1n,0+/2-/2n,0+/0-/0n,8,962.0,3.0,1.0,~Company*~Sustainability + ~External*~Sustainability + ~Company*~Community,~Company*~Sustainability + ~External*~Sustainability + ~Company*~Community,0.741,0.635,0.684
+p10-50-90,1,~DES_estructural,0.8,0.5,20,0+/2-/2n,0+/1-/1n,0+/1-/1n,0+/2-/2n,0+/0-/0n,8,962.0,3.0,1.0,~Company*~Sustainability + ~External*~Sustainability + ~Company*~Community,~Company*~Sustainability + ~External*~Sustainability + ~Company*~Community,0.741,0.635,0.684
+p10-50-90,1,~DES_estructural,0.8,0.65,5,0+/1-/1n,0+/1-/1n,0+/0-/0n,0+/1-/1n,0+/0-/0n,3,970.0,1.0,1.0,~Company*~Community*~Sustainability,~Company*~Community*~Sustainability,0.833,0.736,0.383
+p10-50-90,1,~DES_estructural,0.8,0.65,10,0+/1-/1n,0+/1-/1n,0+/0-/0n,0+/1-/1n,0+/0-/0n,2,962.0,1.0,1.0,~Company*~Community*~Sustainability,~Company*~Community*~Sustainability,0.833,0.736,0.383
+p10-50-90,1,~DES_estructural,0.8,0.65,20,0+/1-/1n,0+/1-/1n,0+/0-/0n,0+/1-/1n,0+/0-/0n,2,962.0,1.0,1.0,~Company*~Community*~Sustainability,~Company*~Community*~Sustainability,0.833,0.736,0.383
+p10-50-90,1,~DES_estructural,0.8,0.7,5,0+/1-/1n,0+/1-/1n,0+/1-/1n,0+/1-/1n,0+/0-/0n,2,970.0,1.0,1.0,~Company*~Community*~External*~Sustainability,~Company*~Community*~External*~Sustainability,0.847,0.749,0.322
+p10-50-90,1,~DES_estructural,0.8,0.7,10,0+/1-/1n,0+/1-/1n,0+/1-/1n,0+/1-/1n,0+/0-/0n,1,962.0,1.0,1.0,~Company*~Community*~External*~Sustainability,~Company*~Community*~External*~Sustainability,0.847,0.749,0.322
+p10-50-90,1,~DES_estructural,0.8,0.7,20,0+/1-/1n,0+/1-/1n,0+/1-/1n,0+/1-/1n,0+/0-/0n,1,962.0,1.0,1.0,~Company*~Community*~External*~Sustainability,~Company*~Community*~External*~Sustainability,0.847,0.749,0.322
+p10-50-90,1,~DES_estructural,0.85,0.5,5,0+/1-/0n,0+/1-/0n,0+/1-/0n,0+/1-/0n,0+/1-/1n,1,970.0,1.0,1.0,~Company*~Community*~External*~Sustainability*~Security,~Security,0.918,0.834,0.181
+p10-50-90,1,~DES_estructural,0.85,0.5,10,,,,,,0,,,,,,,,
+p10-50-90,1,~DES_estructural,0.85,0.5,20,,,,,,0,,,,,,,,
+p10-50-90,1,~DES_estructural,0.85,0.65,5,0+/1-/0n,0+/1-/0n,0+/1-/0n,0+/1-/0n,0+/1-/1n,1,970.0,1.0,1.0,~Company*~Community*~External*~Sustainability*~Security,~Security,0.918,0.834,0.181
+p10-50-90,1,~DES_estructural,0.85,0.65,10,,,,,,0,,,,,,,,
+p10-50-90,1,~DES_estructural,0.85,0.65,20,,,,,,0,,,,,,,,
+p10-50-90,1,~DES_estructural,0.85,0.7,5,0+/1-/0n,0+/1-/0n,0+/1-/0n,0+/1-/0n,0+/1-/1n,1,970.0,1.0,1.0,~Company*~Community*~External*~Sustainability*~Security,~Security,0.918,0.834,0.181
+p10-50-90,1,~DES_estructural,0.85,0.7,10,,,,,,0,,,,,,,,
+p10-50-90,1,~DES_estructural,0.85,0.7,20,,,,,,0,,,,,,,,
+p10-50-90,1,DES_regulacion,0.75,0.5,5,0+/0-/0n,1+/0-/1n,1+/0-/1n,1+/0-/1n,2+/0-/0n,10,970.0,2.0,1.0,External*Sustainability*Security + Community*Security,Community + External*Sustainability,0.705,0.573,0.726
+p10-50-90,1,DES_regulacion,0.75,0.5,10,0+/0-/0n,1+/0-/1n,1+/0-/1n,1+/0-/1n,2+/0-/0n,10,962.0,2.0,1.0,External*Sustainability*Security + Community*Security,External*Sustainability + Community,0.705,0.573,0.726
+p10-50-90,1,DES_regulacion,0.75,0.5,20,0+/0-/0n,1+/0-/1n,1+/0-/1n,1+/0-/1n,2+/0-/0n,10,962.0,2.0,1.0,External*Sustainability*Security + Community*Security,External*Sustainability + Community,0.705,0.573,0.726
+p10-50-90,1,DES_regulacion,0.75,0.65,5,1+/0-/1n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/0n,2,970.0,1.0,1.0,Company*Community*Sustainability*Security,Company*Community*Sustainability,0.799,0.65,0.412
+p10-50-90,1,DES_regulacion,0.75,0.65,10,1+/0-/1n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/0n,2,962.0,1.0,1.0,Company*Community*Sustainability*Security,Company*Community*Sustainability,0.799,0.65,0.412
+p10-50-90,1,DES_regulacion,0.75,0.65,20,1+/0-/1n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/0n,2,962.0,1.0,1.0,Company*Community*Sustainability*Security,Company*Community*Sustainability,0.799,0.65,0.412
+p10-50-90,1,DES_regulacion,0.75,0.7,5,,,,,,0,,,,,,,,
+p10-50-90,1,DES_regulacion,0.75,0.7,10,,,,,,0,,,,,,,,
+p10-50-90,1,DES_regulacion,0.75,0.7,20,,,,,,0,,,,,,,,
+p10-50-90,1,DES_regulacion,0.8,0.5,5,1+/1-/2n,3+/0-/3n,2+/1-/3n,2+/0-/2n,4+/0-/0n,8,970.0,4.0,1.0,~Company*Community*External*Security + Company*Community*~External*Security + External*Sustainability*Security + Community*Sustainability*Security,Community*Sustainability + External*Sustainability + Company*Community*~External + ~Company*Community*External,0.731,0.592,0.669
+p10-50-90,1,DES_regulacion,0.8,0.5,10,1+/1-/2n,3+/0-/3n,2+/1-/3n,2+/0-/2n,4+/0-/0n,8,962.0,4.0,1.0,~Company*Community*External*Security + Company*Community*~External*Security + External*Sustainability*Security + Community*Sustainability*Security,Community*Sustainability + Company*Community*~External + ~Company*Community*External + External*Sustainability,0.731,0.592,0.669
+p10-50-90,1,DES_regulacion,0.8,0.5,20,1+/1-/2n,3+/0-/3n,2+/1-/3n,2+/0-/2n,4+/0-/0n,8,962.0,4.0,1.0,~Company*Community*External*Security + Company*Community*~External*Security + External*Sustainability*Security + Community*Sustainability*Security,Community*Sustainability + Company*Community*~External + ~Company*Community*External + External*Sustainability,0.731,0.592,0.669
+p10-50-90,1,DES_regulacion,0.8,0.65,5,1+/0-/1n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/0n,2,970.0,1.0,1.0,Company*Community*Sustainability*Security,Company*Community*Sustainability,0.799,0.65,0.412
+p10-50-90,1,DES_regulacion,0.8,0.65,10,1+/0-/1n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/0n,2,962.0,1.0,1.0,Company*Community*Sustainability*Security,Company*Community*Sustainability,0.799,0.65,0.412
+p10-50-90,1,DES_regulacion,0.8,0.65,20,1+/0-/1n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/0n,2,962.0,1.0,1.0,Company*Community*Sustainability*Security,Company*Community*Sustainability,0.799,0.65,0.412
+p10-50-90,1,DES_regulacion,0.8,0.7,5,,,,,,0,,,,,,,,
+p10-50-90,1,DES_regulacion,0.8,0.7,10,,,,,,0,,,,,,,,
+p10-50-90,1,DES_regulacion,0.8,0.7,20,,,,,,0,,,,,,,,
+p10-50-90,1,DES_regulacion,0.85,0.5,5,,,,,,0,,,,,,,,
+p10-50-90,1,DES_regulacion,0.85,0.5,10,,,,,,0,,,,,,,,
+p10-50-90,1,DES_regulacion,0.85,0.5,20,,,,,,0,,,,,,,,
+p10-50-90,1,DES_regulacion,0.85,0.65,5,,,,,,0,,,,,,,,
+p10-50-90,1,DES_regulacion,0.85,0.65,10,,,,,,0,,,,,,,,
+p10-50-90,1,DES_regulacion,0.85,0.65,20,,,,,,0,,,,,,,,
+p10-50-90,1,DES_regulacion,0.85,0.7,5,,,,,,0,,,,,,,,
+p10-50-90,1,DES_regulacion,0.85,0.7,10,,,,,,0,,,,,,,,
+p10-50-90,1,DES_regulacion,0.85,0.7,20,,,,,,0,,,,,,,,
+p10-50-90,1,~DES_regulacion,0.75,0.5,5,0+/0-/0n,0+/2-/2n,0+/1-/1n,0+/1-/1n,0+/0-/0n,7,970.0,2.0,1.0,~Community*~Sustainability + ~Community*~External,~Community*~Sustainability + ~Community*~External,0.72,0.589,0.609
+p10-50-90,1,~DES_regulacion,0.75,0.5,10,0+/0-/0n,0+/2-/2n,0+/1-/1n,0+/1-/1n,0+/0-/0n,6,962.0,2.0,1.0,~Community*~Sustainability + ~Community*~External,~Community*~Sustainability + ~Community*~External,0.72,0.589,0.609
+p10-50-90,1,~DES_regulacion,0.75,0.5,20,0+/0-/0n,0+/2-/2n,0+/1-/1n,0+/1-/1n,0+/0-/0n,6,962.0,2.0,1.0,~Community*~Sustainability + ~Community*~External,~Community*~Sustainability + ~Community*~External,0.72,0.589,0.609
+p10-50-90,1,~DES_regulacion,0.75,0.65,5,0+/1-/0n,0+/1-/0n,0+/1-/0n,0+/1-/0n,0+/1-/1n,1,970.0,1.0,1.0,~Company*~Community*~External*~Sustainability*~Security,~Security,0.917,0.805,0.19
+p10-50-90,1,~DES_regulacion,0.75,0.65,10,,,,,,0,,,,,,,,
+p10-50-90,1,~DES_regulacion,0.75,0.65,20,,,,,,0,,,,,,,,
+p10-50-90,1,~DES_regulacion,0.75,0.7,5,0+/1-/0n,0+/1-/0n,0+/1-/0n,0+/1-/0n,0+/1-/1n,1,970.0,1.0,1.0,~Company*~Community*~External*~Sustainability*~Security,~Security,0.917,0.805,0.19
+p10-50-90,1,~DES_regulacion,0.75,0.7,10,,,,,,0,,,,,,,,
+p10-50-90,1,~DES_regulacion,0.75,0.7,20,,,,,,0,,,,,,,,
+p10-50-90,1,~DES_regulacion,0.8,0.5,5,1+/0-/1n,0+/2-/2n,0+/1-/1n,0+/1-/1n,0+/0-/0n,6,970.0,2.0,1.0,~Community*~Sustainability + Company*~Community*~External,~Community*~Sustainability + Company*~Community*~External,0.739,0.594,0.529
+p10-50-90,1,~DES_regulacion,0.8,0.5,10,1+/0-/1n,0+/2-/2n,0+/1-/1n,0+/1-/1n,0+/0-/0n,5,962.0,2.0,1.0,~Community*~Sustainability + Company*~Community*~External,~Community*~Sustainability + Company*~Community*~External,0.739,0.594,0.529
+p10-50-90,1,~DES_regulacion,0.8,0.5,20,1+/0-/1n,0+/2-/2n,0+/1-/1n,0+/1-/1n,0+/0-/0n,5,962.0,2.0,1.0,~Community*~Sustainability + Company*~Community*~External,~Community*~Sustainability + Company*~Community*~External,0.739,0.594,0.529
+p10-50-90,1,~DES_regulacion,0.8,0.65,5,0+/1-/0n,0+/1-/0n,0+/1-/0n,0+/1-/0n,0+/1-/1n,1,970.0,1.0,1.0,~Company*~Community*~External*~Sustainability*~Security,~Security,0.917,0.805,0.19
+p10-50-90,1,~DES_regulacion,0.8,0.65,10,,,,,,0,,,,,,,,
+p10-50-90,1,~DES_regulacion,0.8,0.65,20,,,,,,0,,,,,,,,
+p10-50-90,1,~DES_regulacion,0.8,0.7,5,0+/1-/0n,0+/1-/0n,0+/1-/0n,0+/1-/0n,0+/1-/1n,1,970.0,1.0,1.0,~Company*~Community*~External*~Sustainability*~Security,~Security,0.917,0.805,0.19
+p10-50-90,1,~DES_regulacion,0.8,0.7,10,,,,,,0,,,,,,,,
+p10-50-90,1,~DES_regulacion,0.8,0.7,20,,,,,,0,,,,,,,,
+p10-50-90,1,~DES_regulacion,0.85,0.5,5,0+/1-/0n,0+/1-/0n,0+/1-/0n,0+/1-/0n,0+/1-/1n,1,970.0,1.0,1.0,~Company*~Community*~External*~Sustainability*~Security,~Security,0.917,0.805,0.19
+p10-50-90,1,~DES_regulacion,0.85,0.5,10,,,,,,0,,,,,,,,
+p10-50-90,1,~DES_regulacion,0.85,0.5,20,,,,,,0,,,,,,,,
+p10-50-90,1,~DES_regulacion,0.85,0.65,5,0+/1-/0n,0+/1-/0n,0+/1-/0n,0+/1-/0n,0+/1-/1n,1,970.0,1.0,1.0,~Company*~Community*~External*~Sustainability*~Security,~Security,0.917,0.805,0.19
+p10-50-90,1,~DES_regulacion,0.85,0.65,10,,,,,,0,,,,,,,,
+p10-50-90,1,~DES_regulacion,0.85,0.65,20,,,,,,0,,,,,,,,
+p10-50-90,1,~DES_regulacion,0.85,0.7,5,0+/1-/0n,0+/1-/0n,0+/1-/0n,0+/1-/0n,0+/1-/1n,1,970.0,1.0,1.0,~Company*~Community*~External*~Sustainability*~Security,~Security,0.917,0.805,0.19
+p10-50-90,1,~DES_regulacion,0.85,0.7,10,,,,,,0,,,,,,,,
+p10-50-90,1,~DES_regulacion,0.85,0.7,20,,,,,,0,,,,,,,,
+p10-50-90,-1,DES_estructural,0.75,0.5,5,2+/0-/2n,1+/0-/1n,1+/0-/1n,2+/0-/2n,3+/0-/3n,8,977.0,3.0,1.0,Company*Sustainability*Security + Community*Sustainability*Security + Company*External*Security,Company*Sustainability*Security + Community*Sustainability*Security + Company*External*Security,0.713,0.565,0.697
+p10-50-90,-1,DES_estructural,0.75,0.5,10,2+/0-/2n,1+/0-/1n,1+/0-/1n,2+/0-/2n,3+/0-/3n,8,970.0,3.0,1.0,Company*Sustainability*Security + Community*Sustainability*Security + Company*External*Security,Company*Sustainability*Security + Community*Sustainability*Security + Company*External*Security,0.713,0.565,0.697
+p10-50-90,-1,DES_estructural,0.75,0.5,20,2+/0-/1n,2+/0-/1n,1+/0-/1n,2+/0-/1n,3+/0-/2n,7,817.0,3.0,1.0,Company*Sustainability*Security + Community*Sustainability*Security + Company*Community*External*Security,Community*Sustainability*Security + Company*~Community*Sustainability + Company*External*Security,0.72,0.57,0.671
+p10-50-90,-1,DES_estructural,0.75,0.65,5,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/1n,1,977.0,1.0,1.0,Company*Community*External*Sustainability*Security,Company*Community*External*Sustainability*Security,0.837,0.682,0.366
+p10-50-90,-1,DES_estructural,0.75,0.65,10,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/1n,1,970.0,1.0,1.0,Company*Community*External*Sustainability*Security,Company*Community*External*Sustainability*Security,0.837,0.682,0.366
+p10-50-90,-1,DES_estructural,0.75,0.65,20,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/1n,1,817.0,1.0,1.0,Company*Community*External*Sustainability*Security,Company*Community*External*Sustainability*Security,0.837,0.682,0.366
+p10-50-90,-1,DES_estructural,0.75,0.7,5,,,,,,0,,,,,,,,
+p10-50-90,-1,DES_estructural,0.75,0.7,10,,,,,,0,,,,,,,,
+p10-50-90,-1,DES_estructural,0.75,0.7,20,,,,,,0,,,,,,,,
+p10-50-90,-1,DES_estructural,0.8,0.5,5,2+/0-/2n,1+/0-/1n,2+/0-/2n,2+/0-/2n,3+/0-/3n,7,977.0,3.0,1.0,Community*External*Sustainability*Security + Company*Sustainability*Security + Company*External*Security,Community*External*Sustainability*Security + Company*Sustainability*Security + Company*External*Security,0.73,0.58,0.658
+p10-50-90,-1,DES_estructural,0.8,0.5,10,2+/0-/2n,1+/0-/1n,2+/0-/2n,2+/0-/2n,3+/0-/3n,7,970.0,3.0,1.0,Community*External*Sustainability*Security + Company*Sustainability*Security + Company*External*Security,Community*External*Sustainability*Security + Company*Sustainability*Security + Company*External*Security,0.73,0.58,0.658
+p10-50-90,-1,DES_estructural,0.8,0.5,20,2+/0-/1n,2+/0-/0n,2+/0-/1n,2+/0-/0n,3+/0-/1n,6,817.0,3.0,1.0,Community*External*Sustainability*Security + Company*Sustainability*Security + Company*Community*External*Security,~Company*External*Sustainability + Company*~External*Sustainability + Company*External*Security,0.739,0.586,0.632
+p10-50-90,-1,DES_estructural,0.8,0.65,5,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/1n,1,977.0,1.0,1.0,Company*Community*External*Sustainability*Security,Company*Community*External*Sustainability*Security,0.837,0.682,0.366
+p10-50-90,-1,DES_estructural,0.8,0.65,10,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/1n,1,970.0,1.0,1.0,Company*Community*External*Sustainability*Security,Company*Community*External*Sustainability*Security,0.837,0.682,0.366
+p10-50-90,-1,DES_estructural,0.8,0.65,20,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/1n,1,817.0,1.0,1.0,Company*Community*External*Sustainability*Security,Company*Community*External*Sustainability*Security,0.837,0.682,0.366
+p10-50-90,-1,DES_estructural,0.8,0.7,5,,,,,,0,,,,,,,,
+p10-50-90,-1,DES_estructural,0.8,0.7,10,,,,,,0,,,,,,,,
+p10-50-90,-1,DES_estructural,0.8,0.7,20,,,,,,0,,,,,,,,
+p10-50-90,-1,DES_estructural,0.85,0.5,5,,,,,,0,,,,,,,,
+p10-50-90,-1,DES_estructural,0.85,0.5,10,,,,,,0,,,,,,,,
+p10-50-90,-1,DES_estructural,0.85,0.5,20,,,,,,0,,,,,,,,
+p10-50-90,-1,DES_estructural,0.85,0.65,5,,,,,,0,,,,,,,,
+p10-50-90,-1,DES_estructural,0.85,0.65,10,,,,,,0,,,,,,,,
+p10-50-90,-1,DES_estructural,0.85,0.65,20,,,,,,0,,,,,,,,
+p10-50-90,-1,DES_estructural,0.85,0.7,5,,,,,,0,,,,,,,,
+p10-50-90,-1,DES_estructural,0.85,0.7,10,,,,,,0,,,,,,,,
+p10-50-90,-1,DES_estructural,0.85,0.7,20,,,,,,0,,,,,,,,
+p10-50-90,-1,~DES_estructural,0.75,0.5,5,0+/2-/2n,0+/1-/1n,0+/1-/1n,0+/2-/2n,0+/1-/1n,23,977.0,4.0,1.0,~Company*~Sustainability + ~Security + ~External*~Sustainability + ~Company*~Community,~Company*~Sustainability + ~Security + ~External*~Sustainability + ~Company*~Community,0.732,0.627,0.747
+p10-50-90,-1,~DES_estructural,0.75,0.5,10,0+/2-/2n,0+/1-/1n,0+/1-/1n,0+/2-/2n,0+/1-/1n,22,970.0,4.0,1.0,~Company*~Sustainability + ~Security + ~External*~Sustainability + ~Company*~Community,~Company*~Sustainability + ~Security + ~External*~Sustainability + ~Company*~Community,0.732,0.627,0.747
+p10-50-90,-1,~DES_estructural,0.75,0.5,20,0+/2-/2n,0+/1-/1n,0+/2-/1n,0+/2-/2n,0+/1-/1n,13,817.0,4.0,1.0,~Company*~Community*~External + ~Company*~Sustainability + ~Security + ~External*~Sustainability,~Company*~Sustainability + ~Security + ~Company*~Community + ~External*~Sustainability,0.734,0.626,0.713
+p10-50-90,-1,~DES_estructural,0.75,0.65,5,0+/3-/3n,0+/3-/3n,0+/1-/1n,0+/4-/4n,0+/4-/4n,11,977.0,5.0,1.0,~Community*~Sustainability*~Security + ~External*~Sustainability*~Security + ~Company*~Community*~Sustainability + ~Company*~Sustainability*~Security + ~Company*~Community*~Security,~Community*~Sustainability*~Security + ~Company*~Sustainability*~Security + ~External*~Sustainability*~Security + ~Company*~Community*~Sustainability + ~Company*~Community*~Security,0.808,0.711,0.479
+p10-50-90,-1,~DES_estructural,0.75,0.65,10,0+/3-/3n,0+/3-/3n,0+/1-/0n,0+/4-/3n,0+/4-/3n,11,970.0,5.0,1.0,~Community*~Sustainability*~Security + ~External*~Sustainability*~Security + ~Company*~Community*~Sustainability + ~Company*~Sustainability*~Security + ~Company*~Community*~Security,~Community*~Sustainability*~Security + Company*~External*~Security + ~Company*~Community*~Sustainability + ~Company*~Sustainability*~Security + ~Company*~Community*~Security,0.808,0.711,0.479
+p10-50-90,-1,~DES_estructural,0.75,0.65,20,0+/2-/1n,0+/3-/3n,0+/2-/0n,0+/2-/1n,0+/2-/2n,6,817.0,3.0,1.0,~Company*~Community*~Sustainability + ~Community*~External*~Sustainability*~Security + ~Company*~Community*~External*~Security,~Community*~Security + ~Company*~Community*~Sustainability,0.814,0.714,0.435
+p10-50-90,-1,~DES_estructural,0.75,0.7,5,0+/2-/2n,0+/2-/2n,0+/2-/2n,0+/3-/3n,0+/2-/2n,6,977.0,3.0,1.0,~Community*~External*~Sustainability*~Security + ~Company*~Sustainability*~Security + ~Company*~Community*~External*~Sustainability,~Community*~External*~Sustainability*~Security + ~Company*~Sustainability*~Security + ~Company*~Community*~External*~Sustainability,0.841,0.748,0.385
+p10-50-90,-1,~DES_estructural,0.75,0.7,10,0+/2-/2n,0+/2-/2n,0+/2-/2n,0+/3-/3n,0+/2-/2n,6,970.0,3.0,1.0,~Community*~External*~Sustainability*~Security + ~Company*~Sustainability*~Security + ~Company*~Community*~External*~Sustainability,~Community*~External*~Sustainability*~Security + ~Company*~Community*~External*~Sustainability + ~Company*~Sustainability*~Security,0.841,0.748,0.385
+p10-50-90,-1,~DES_estructural,0.75,0.7,20,0+/2-/1n,0+/3-/3n,0+/2-/1n,0+/3-/3n,0+/2-/2n,4,817.0,3.0,1.0,~Company*~Community*~Sustainability*~Security + ~Community*~External*~Sustainability*~Security + ~Company*~Community*~External*~Sustainability,~Community*~Sustainability*~Security + ~Company*~Community*~External*~Sustainability,0.839,0.742,0.369
+p10-50-90,-1,~DES_estructural,0.8,0.5,5,0+/2-/2n,0+/1-/1n,0+/1-/1n,0+/2-/2n,0+/1-/1n,23,977.0,4.0,1.0,~Company*~Sustainability + ~Security + ~External*~Sustainability + ~Company*~Community,~Company*~Sustainability + ~Security + ~External*~Sustainability + ~Company*~Community,0.732,0.627,0.747
+p10-50-90,-1,~DES_estructural,0.8,0.5,10,0+/2-/2n,0+/1-/1n,0+/1-/1n,0+/2-/2n,0+/1-/1n,22,970.0,4.0,1.0,~Company*~Sustainability + ~Security + ~External*~Sustainability + ~Company*~Community,~Company*~Sustainability + ~Security + ~External*~Sustainability + ~Company*~Community,0.732,0.627,0.747
+p10-50-90,-1,~DES_estructural,0.8,0.5,20,0+/2-/2n,0+/1-/1n,0+/2-/1n,0+/2-/2n,0+/1-/1n,13,817.0,4.0,1.0,~Company*~Community*~External + ~Company*~Sustainability + ~Security + ~External*~Sustainability,~Company*~Sustainability + ~Security + ~Company*~Community + ~External*~Sustainability,0.734,0.626,0.713
+p10-50-90,-1,~DES_estructural,0.8,0.65,5,0+/3-/3n,0+/3-/3n,0+/1-/1n,0+/4-/4n,0+/4-/4n,11,977.0,5.0,1.0,~Community*~Sustainability*~Security + ~External*~Sustainability*~Security + ~Company*~Community*~Sustainability + ~Company*~Sustainability*~Security + ~Company*~Community*~Security,~Community*~Sustainability*~Security + ~Company*~Sustainability*~Security + ~External*~Sustainability*~Security + ~Company*~Community*~Sustainability + ~Company*~Community*~Security,0.808,0.711,0.479
+p10-50-90,-1,~DES_estructural,0.8,0.65,10,0+/3-/3n,0+/3-/3n,0+/1-/0n,0+/4-/3n,0+/4-/3n,11,970.0,5.0,1.0,~Community*~Sustainability*~Security + ~External*~Sustainability*~Security + ~Company*~Community*~Sustainability + ~Company*~Sustainability*~Security + ~Company*~Community*~Security,~Community*~Sustainability*~Security + Company*~External*~Security + ~Company*~Community*~Sustainability + ~Company*~Sustainability*~Security + ~Company*~Community*~Security,0.808,0.711,0.479
+p10-50-90,-1,~DES_estructural,0.8,0.65,20,0+/2-/1n,0+/3-/3n,0+/2-/0n,0+/2-/1n,0+/2-/2n,6,817.0,3.0,1.0,~Company*~Community*~Sustainability + ~Community*~External*~Sustainability*~Security + ~Company*~Community*~External*~Security,~Community*~Security + ~Company*~Community*~Sustainability,0.814,0.714,0.435
+p10-50-90,-1,~DES_estructural,0.8,0.7,5,0+/2-/2n,0+/2-/2n,0+/2-/2n,0+/3-/3n,0+/2-/2n,6,977.0,3.0,1.0,~Community*~External*~Sustainability*~Security + ~Company*~Sustainability*~Security + ~Company*~Community*~External*~Sustainability,~Community*~External*~Sustainability*~Security + ~Company*~Sustainability*~Security + ~Company*~Community*~External*~Sustainability,0.841,0.748,0.385
+p10-50-90,-1,~DES_estructural,0.8,0.7,10,0+/2-/2n,0+/2-/2n,0+/2-/2n,0+/3-/3n,0+/2-/2n,6,970.0,3.0,1.0,~Community*~External*~Sustainability*~Security + ~Company*~Sustainability*~Security + ~Company*~Community*~External*~Sustainability,~Community*~External*~Sustainability*~Security + ~Company*~Community*~External*~Sustainability + ~Company*~Sustainability*~Security,0.841,0.748,0.385
+p10-50-90,-1,~DES_estructural,0.8,0.7,20,0+/2-/1n,0+/3-/3n,0+/2-/1n,0+/3-/3n,0+/2-/2n,4,817.0,3.0,1.0,~Company*~Community*~Sustainability*~Security + ~Community*~External*~Sustainability*~Security + ~Company*~Community*~External*~Sustainability,~Community*~Sustainability*~Security + ~Company*~Community*~External*~Sustainability,0.839,0.742,0.369
+p10-50-90,-1,~DES_estructural,0.85,0.5,5,0+/1-/1n,0+/1-/1n,0+/0-/0n,0+/1-/1n,0+/3-/3n,14,977.0,3.0,1.0,~Company*~Security + ~Community*~Security + ~Sustainability*~Security,~Company*~Security + ~Community*~Security + ~Sustainability*~Security,0.81,0.704,0.336
+p10-50-90,-1,~DES_estructural,0.85,0.5,10,0+/1-/1n,0+/1-/1n,0+/0-/0n,0+/1-/1n,0+/3-/3n,13,970.0,3.0,1.0,~Company*~Security + ~Community*~Security + ~Sustainability*~Security,~Company*~Security + ~Community*~Security + ~Sustainability*~Security,0.81,0.704,0.336
+p10-50-90,-1,~DES_estructural,0.85,0.5,20,0+/1-/1n,0+/1-/0n,0+/1-/0n,0+/1-/1n,0+/2-/2n,5,817.0,2.0,1.0,~Company*~Community*~External*~Security + ~Sustainability*~Security,~Company*~Security + ~Sustainability*~Security,0.839,0.738,0.302
+p10-50-90,-1,~DES_estructural,0.85,0.65,5,0+/2-/2n,0+/2-/2n,0+/1-/1n,0+/3-/3n,0+/4-/4n,9,977.0,4.0,1.0,~Community*~Sustainability*~Security + ~Company*~Sustainability*~Security + ~External*~Sustainability*~Security + ~Company*~Community*~Security,~Community*~Sustainability*~Security + ~Company*~Sustainability*~Security + ~External*~Sustainability*~Security + ~Company*~Community*~Security,0.84,0.74,0.304
+p10-50-90,-1,~DES_estructural,0.85,0.65,10,0+/2-/2n,0+/2-/2n,0+/1-/0n,0+/3-/2n,0+/4-/3n,9,970.0,4.0,1.0,~Community*~Sustainability*~Security + ~Company*~Sustainability*~Security + ~External*~Sustainability*~Security + ~Company*~Community*~Security,~Community*~Sustainability*~Security + Company*~External*~Security + ~Company*~Sustainability*~Security + ~Company*~Community*~Security,0.84,0.74,0.304
+p10-50-90,-1,~DES_estructural,0.85,0.65,20,0+/2-/0n,0+/3-/3n,0+/2-/0n,0+/2-/0n,0+/3-/3n,4,817.0,3.0,1.0,~Company*~Community*~Sustainability*~Security + ~Community*~External*~Sustainability*~Security + ~Company*~Community*~External*~Security,~Community*~Security,0.856,0.753,0.26
+p10-50-90,-1,~DES_estructural,0.85,0.7,5,0+/1-/1n,0+/1-/1n,0+/1-/1n,0+/2-/2n,0+/2-/2n,5,977.0,2.0,1.0,~Community*~External*~Sustainability*~Security + ~Company*~Sustainability*~Security,~Community*~External*~Sustainability*~Security + ~Company*~Sustainability*~Security,0.888,0.802,0.245
+p10-50-90,-1,~DES_estructural,0.85,0.7,10,0+/1-/1n,0+/1-/1n,0+/1-/1n,0+/2-/2n,0+/2-/2n,5,970.0,2.0,1.0,~Community*~External*~Sustainability*~Security + ~Company*~Sustainability*~Security,~Community*~External*~Sustainability*~Security + ~Company*~Sustainability*~Security,0.888,0.802,0.245
+p10-50-90,-1,~DES_estructural,0.85,0.7,20,0+/1-/0n,0+/2-/2n,0+/1-/0n,0+/2-/2n,0+/2-/2n,3,817.0,2.0,1.0,~Company*~Community*~Sustainability*~Security + ~Community*~External*~Sustainability*~Security,~Community*~Sustainability*~Security,0.888,0.794,0.228
+p10-50-90,-1,DES_regulacion,0.75,0.5,5,0+/0-/0n,1+/0-/1n,1+/0-/1n,1+/0-/1n,2+/0-/2n,10,977.0,2.0,1.0,External*Sustainability*Security + Community*Security,Community*Security + External*Sustainability*Security,0.706,0.573,0.726
+p10-50-90,-1,DES_regulacion,0.75,0.5,10,0+/0-/0n,1+/0-/1n,1+/0-/1n,1+/0-/1n,2+/0-/2n,10,970.0,2.0,1.0,External*Sustainability*Security + Community*Security,Community*Security + External*Sustainability*Security,0.706,0.573,0.726
+p10-50-90,-1,DES_regulacion,0.75,0.5,20,1+/0-/0n,1+/0-/1n,1+/0-/0n,1+/0-/0n,2+/0-/1n,9,817.0,2.0,1.0,Company*External*Sustainability*Security + Community*Security,Company*~Community*External + Community*Security,0.711,0.575,0.696
+p10-50-90,-1,DES_regulacion,0.75,0.65,5,1+/0-/1n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/1n,2,977.0,1.0,1.0,Company*Community*Sustainability*Security,Company*Community*Sustainability*Security,0.799,0.65,0.412
+p10-50-90,-1,DES_regulacion,0.75,0.65,10,1+/0-/1n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/1n,2,970.0,1.0,1.0,Company*Community*Sustainability*Security,Company*Community*Sustainability*Security,0.799,0.65,0.412
+p10-50-90,-1,DES_regulacion,0.75,0.65,20,1+/0-/1n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/1n,2,817.0,1.0,1.0,Company*Community*Sustainability*Security,Company*Community*Sustainability*Security,0.799,0.65,0.412
+p10-50-90,-1,DES_regulacion,0.75,0.7,5,,,,,,0,,,,,,,,
+p10-50-90,-1,DES_regulacion,0.75,0.7,10,,,,,,0,,,,,,,,
+p10-50-90,-1,DES_regulacion,0.75,0.7,20,,,,,,0,,,,,,,,
+p10-50-90,-1,DES_regulacion,0.8,0.5,5,1+/1-/2n,3+/0-/3n,2+/1-/3n,2+/0-/2n,4+/0-/4n,8,977.0,4.0,1.0,~Company*Community*External*Security + Company*Community*~External*Security + External*Sustainability*Security + Community*Sustainability*Security,~Company*Community*External*Security + Community*Sustainability*Security + Company*Community*~External*Security + External*Sustainability*Security,0.731,0.592,0.669
+p10-50-90,-1,DES_regulacion,0.8,0.5,10,1+/1-/2n,3+/0-/3n,2+/1-/3n,2+/0-/2n,4+/0-/4n,8,970.0,4.0,1.0,~Company*Community*External*Security + Company*Community*~External*Security + External*Sustainability*Security + Community*Sustainability*Security,~Company*Community*External*Security + Community*Sustainability*Security + Company*Community*~External*Security + External*Sustainability*Security,0.731,0.592,0.669
+p10-50-90,-1,DES_regulacion,0.8,0.5,20,2+/1-/2n,3+/0-/3n,2+/1-/2n,2+/0-/1n,4+/0-/1n,7,817.0,4.0,1.0,~Company*Community*External*Security + Company*External*Sustainability*Security + Company*Community*~External*Security + Community*Sustainability*Security,Community*Sustainability*Security + Company*~Community*External + Company*Community*~External + ~Company*Community*External,0.739,0.595,0.639
+p10-50-90,-1,DES_regulacion,0.8,0.65,5,1+/0-/1n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/1n,2,977.0,1.0,1.0,Company*Community*Sustainability*Security,Company*Community*Sustainability*Security,0.799,0.65,0.412
+p10-50-90,-1,DES_regulacion,0.8,0.65,10,1+/0-/1n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/1n,2,970.0,1.0,1.0,Company*Community*Sustainability*Security,Company*Community*Sustainability*Security,0.799,0.65,0.412
+p10-50-90,-1,DES_regulacion,0.8,0.65,20,1+/0-/1n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/1n,2,817.0,1.0,1.0,Company*Community*Sustainability*Security,Company*Community*Sustainability*Security,0.799,0.65,0.412
+p10-50-90,-1,DES_regulacion,0.8,0.7,5,,,,,,0,,,,,,,,
+p10-50-90,-1,DES_regulacion,0.8,0.7,10,,,,,,0,,,,,,,,
+p10-50-90,-1,DES_regulacion,0.8,0.7,20,,,,,,0,,,,,,,,
+p10-50-90,-1,DES_regulacion,0.85,0.5,5,,,,,,0,,,,,,,,
+p10-50-90,-1,DES_regulacion,0.85,0.5,10,,,,,,0,,,,,,,,
+p10-50-90,-1,DES_regulacion,0.85,0.5,20,,,,,,0,,,,,,,,
+p10-50-90,-1,DES_regulacion,0.85,0.65,5,,,,,,0,,,,,,,,
+p10-50-90,-1,DES_regulacion,0.85,0.65,10,,,,,,0,,,,,,,,
+p10-50-90,-1,DES_regulacion,0.85,0.65,20,,,,,,0,,,,,,,,
+p10-50-90,-1,DES_regulacion,0.85,0.7,5,,,,,,0,,,,,,,,
+p10-50-90,-1,DES_regulacion,0.85,0.7,10,,,,,,0,,,,,,,,
+p10-50-90,-1,DES_regulacion,0.85,0.7,20,,,,,,0,,,,,,,,
+p10-50-90,-1,~DES_regulacion,0.75,0.5,5,0+/0-/0n,0+/2-/2n,0+/1-/1n,0+/1-/1n,0+/1-/1n,21,977.0,3.0,1.0,~Community*~Sustainability + ~Community*~External + ~Security,~Community*~Sustainability + ~Community*~External + ~Security,0.718,0.588,0.698
+p10-50-90,-1,~DES_regulacion,0.75,0.5,10,0+/0-/0n,0+/2-/2n,0+/1-/1n,0+/1-/1n,0+/1-/1n,20,970.0,3.0,1.0,~Community*~Sustainability + ~Community*~External + ~Security,~Community*~Sustainability + ~Community*~External + ~Security,0.718,0.588,0.698
+p10-50-90,-1,~DES_regulacion,0.75,0.5,20,0+/1-/0n,0+/2-/2n,0+/1-/1n,0+/1-/1n,0+/1-/1n,11,817.0,3.0,1.0,~Company*~Community*~Sustainability + ~Community*~External + ~Security,~Community*~Sustainability + ~Community*~External + ~Security,0.73,0.6,0.677
+p10-50-90,-1,~DES_regulacion,0.75,0.65,5,0+/1-/1n,0+/1-/1n,0+/0-/0n,0+/1-/1n,0+/3-/3n,14,977.0,3.0,1.0,~Company*~Security + ~Community*~Security + ~Sustainability*~Security,~Company*~Security + ~Community*~Security + ~Sustainability*~Security,0.862,0.757,0.376
+p10-50-90,-1,~DES_regulacion,0.75,0.65,10,0+/1-/1n,0+/1-/1n,0+/0-/0n,0+/1-/1n,0+/3-/3n,13,970.0,3.0,1.0,~Company*~Security + ~Community*~Security + ~Sustainability*~Security,~Company*~Security + ~Community*~Security + ~Sustainability*~Security,0.862,0.757,0.376
+p10-50-90,-1,~DES_regulacion,0.75,0.65,20,0+/1-/1n,0+/1-/0n,0+/1-/0n,0+/1-/1n,0+/2-/2n,5,817.0,2.0,1.0,~Company*~Community*~External*~Security + ~Sustainability*~Security,~Company*~Security + ~Sustainability*~Security,0.877,0.776,0.332
+p10-50-90,-1,~DES_regulacion,0.75,0.7,5,0+/1-/1n,0+/1-/1n,0+/0-/0n,0+/1-/1n,0+/3-/3n,14,977.0,3.0,1.0,~Company*~Security + ~Community*~Security + ~Sustainability*~Security,~Company*~Security + ~Community*~Security + ~Sustainability*~Security,0.862,0.757,0.376
+p10-50-90,-1,~DES_regulacion,0.75,0.7,10,0+/1-/1n,0+/1-/1n,0+/0-/0n,0+/1-/1n,0+/3-/3n,13,970.0,3.0,1.0,~Company*~Security + ~Community*~Security + ~Sustainability*~Security,~Company*~Security + ~Community*~Security + ~Sustainability*~Security,0.862,0.757,0.376
+p10-50-90,-1,~DES_regulacion,0.75,0.7,20,0+/1-/1n,0+/1-/0n,0+/1-/0n,0+/1-/1n,0+/2-/2n,5,817.0,2.0,1.0,~Company*~Community*~External*~Security + ~Sustainability*~Security,~Company*~Security + ~Sustainability*~Security,0.877,0.776,0.332
+p10-50-90,-1,~DES_regulacion,0.8,0.5,5,1+/0-/1n,0+/2-/2n,0+/1-/1n,0+/1-/1n,0+/1-/1n,20,977.0,3.0,1.0,~Community*~Sustainability + ~Security + Company*~Community*~External,~Community*~Sustainability + ~Security + Company*~Community*~External,0.739,0.602,0.646
+p10-50-90,-1,~DES_regulacion,0.8,0.5,10,1+/0-/1n,0+/2-/2n,0+/1-/1n,0+/1-/1n,0+/1-/1n,19,970.0,3.0,1.0,~Community*~Sustainability + ~Security + Company*~Community*~External,~Community*~Sustainability + ~Security + Company*~Community*~External,0.739,0.602,0.646
+p10-50-90,-1,~DES_regulacion,0.8,0.5,20,1+/1-/1n,0+/2-/2n,0+/1-/1n,0+/1-/1n,0+/1-/1n,10,817.0,3.0,1.0,~Company*~Community*~Sustainability + ~Security + Company*~Community*~External,~Community*~Sustainability + ~Security + Company*~Community*~External,0.756,0.618,0.621
+p10-50-90,-1,~DES_regulacion,0.8,0.65,5,0+/1-/1n,0+/1-/1n,0+/0-/0n,0+/1-/1n,0+/3-/3n,14,977.0,3.0,1.0,~Company*~Security + ~Community*~Security + ~Sustainability*~Security,~Company*~Security + ~Community*~Security + ~Sustainability*~Security,0.862,0.757,0.376
+p10-50-90,-1,~DES_regulacion,0.8,0.65,10,0+/1-/1n,0+/1-/1n,0+/0-/0n,0+/1-/1n,0+/3-/3n,13,970.0,3.0,1.0,~Company*~Security + ~Community*~Security + ~Sustainability*~Security,~Company*~Security + ~Community*~Security + ~Sustainability*~Security,0.862,0.757,0.376
+p10-50-90,-1,~DES_regulacion,0.8,0.65,20,0+/1-/1n,0+/1-/0n,0+/1-/0n,0+/1-/1n,0+/2-/2n,5,817.0,2.0,1.0,~Company*~Community*~External*~Security + ~Sustainability*~Security,~Company*~Security + ~Sustainability*~Security,0.877,0.776,0.332
+p10-50-90,-1,~DES_regulacion,0.8,0.7,5,0+/1-/1n,0+/1-/1n,0+/0-/0n,0+/1-/1n,0+/3-/3n,14,977.0,3.0,1.0,~Company*~Security + ~Community*~Security + ~Sustainability*~Security,~Company*~Security + ~Community*~Security + ~Sustainability*~Security,0.862,0.757,0.376
+p10-50-90,-1,~DES_regulacion,0.8,0.7,10,0+/1-/1n,0+/1-/1n,0+/0-/0n,0+/1-/1n,0+/3-/3n,13,970.0,3.0,1.0,~Company*~Security + ~Community*~Security + ~Sustainability*~Security,~Company*~Security + ~Community*~Security + ~Sustainability*~Security,0.862,0.757,0.376
+p10-50-90,-1,~DES_regulacion,0.8,0.7,20,0+/1-/1n,0+/1-/0n,0+/1-/0n,0+/1-/1n,0+/2-/2n,5,817.0,2.0,1.0,~Company*~Community*~External*~Security + ~Sustainability*~Security,~Company*~Security + ~Sustainability*~Security,0.877,0.776,0.332
+p10-50-90,-1,~DES_regulacion,0.85,0.5,5,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/1-/1n,15,977.0,1.0,1.0,~Security,~Security,0.845,0.728,0.394
+p10-50-90,-1,~DES_regulacion,0.85,0.5,10,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/1-/1n,14,970.0,1.0,1.0,~Security,~Security,0.845,0.728,0.394
+p10-50-90,-1,~DES_regulacion,0.85,0.5,20,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/1-/1n,6,817.0,1.0,1.0,~Security,~Security,0.845,0.728,0.394
+p10-50-90,-1,~DES_regulacion,0.85,0.65,5,0+/1-/1n,0+/1-/1n,0+/0-/0n,0+/1-/1n,0+/3-/3n,14,977.0,3.0,1.0,~Company*~Security + ~Community*~Security + ~Sustainability*~Security,~Company*~Security + ~Community*~Security + ~Sustainability*~Security,0.862,0.757,0.376
+p10-50-90,-1,~DES_regulacion,0.85,0.65,10,0+/1-/1n,0+/1-/1n,0+/0-/0n,0+/1-/1n,0+/3-/3n,13,970.0,3.0,1.0,~Company*~Security + ~Community*~Security + ~Sustainability*~Security,~Company*~Security + ~Community*~Security + ~Sustainability*~Security,0.862,0.757,0.376
+p10-50-90,-1,~DES_regulacion,0.85,0.65,20,0+/1-/1n,0+/1-/0n,0+/1-/0n,0+/1-/1n,0+/2-/2n,5,817.0,2.0,1.0,~Company*~Community*~External*~Security + ~Sustainability*~Security,~Company*~Security + ~Sustainability*~Security,0.877,0.776,0.332
+p10-50-90,-1,~DES_regulacion,0.85,0.7,5,0+/1-/1n,0+/1-/1n,0+/0-/0n,0+/1-/1n,0+/3-/3n,14,977.0,3.0,1.0,~Company*~Security + ~Community*~Security + ~Sustainability*~Security,~Company*~Security + ~Community*~Security + ~Sustainability*~Security,0.862,0.757,0.376
+p10-50-90,-1,~DES_regulacion,0.85,0.7,10,0+/1-/1n,0+/1-/1n,0+/0-/0n,0+/1-/1n,0+/3-/3n,13,970.0,3.0,1.0,~Company*~Security + ~Community*~Security + ~Sustainability*~Security,~Company*~Security + ~Community*~Security + ~Sustainability*~Security,0.862,0.757,0.376
+p10-50-90,-1,~DES_regulacion,0.85,0.7,20,0+/1-/1n,0+/1-/0n,0+/1-/0n,0+/1-/1n,0+/2-/2n,5,817.0,2.0,1.0,~Company*~Community*~External*~Security + ~Sustainability*~Security,~Company*~Security + ~Sustainability*~Security,0.877,0.776,0.332
+p20-50-80,1,DES_estructural,0.75,0.5,5,2+/0-/2n,3+/0-/3n,2+/0-/2n,2+/0-/2n,3+/0-/0n,4,970.0,3.0,1.0,Community*External*Sustainability*Security + Company*Community*Sustainability*Security + Company*Community*External*Security,Community*External*Sustainability + Company*Community*External + Company*Community*Sustainability,0.735,0.605,0.522
+p20-50-80,1,DES_estructural,0.75,0.5,10,2+/0-/2n,3+/0-/3n,2+/0-/2n,2+/0-/2n,3+/0-/0n,4,962.0,3.0,1.0,Community*External*Sustainability*Security + Company*Community*Sustainability*Security + Company*Community*External*Security,Community*External*Sustainability + Company*Community*External + Company*Community*Sustainability,0.735,0.605,0.522
+p20-50-80,1,DES_estructural,0.75,0.5,20,2+/0-/2n,3+/0-/3n,2+/0-/2n,2+/0-/2n,3+/0-/0n,4,962.0,3.0,1.0,Community*External*Sustainability*Security + Company*Community*Sustainability*Security + Company*Community*External*Security,Community*External*Sustainability + Company*Community*External + Company*Community*Sustainability,0.735,0.605,0.522
+p20-50-80,1,DES_estructural,0.75,0.65,5,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/0n,1,970.0,1.0,1.0,Company*Community*External*Sustainability*Security,Company*Community*External*Sustainability,0.808,0.673,0.292
+p20-50-80,1,DES_estructural,0.75,0.65,10,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/0n,1,962.0,1.0,1.0,Company*Community*External*Sustainability*Security,Company*Community*External*Sustainability,0.808,0.673,0.292
+p20-50-80,1,DES_estructural,0.75,0.65,20,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/0n,1,962.0,1.0,1.0,Company*Community*External*Sustainability*Security,Company*Community*External*Sustainability,0.808,0.673,0.292
+p20-50-80,1,DES_estructural,0.75,0.7,5,,,,,,0,,,,,,,,
+p20-50-80,1,DES_estructural,0.75,0.7,10,,,,,,0,,,,,,,,
+p20-50-80,1,DES_estructural,0.75,0.7,20,,,,,,0,,,,,,,,
+p20-50-80,1,DES_estructural,0.8,0.5,5,1+/0-/1n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/0n,2,970.0,1.0,1.0,Company*Community*Sustainability*Security,Company*Community*Sustainability,0.765,0.621,0.364
+p20-50-80,1,DES_estructural,0.8,0.5,10,1+/0-/1n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/0n,2,962.0,1.0,1.0,Company*Community*Sustainability*Security,Company*Community*Sustainability,0.765,0.621,0.364
+p20-50-80,1,DES_estructural,0.8,0.5,20,1+/0-/1n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/0n,2,962.0,1.0,1.0,Company*Community*Sustainability*Security,Company*Community*Sustainability,0.765,0.621,0.364
+p20-50-80,1,DES_estructural,0.8,0.65,5,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/0n,1,970.0,1.0,1.0,Company*Community*External*Sustainability*Security,Company*Community*External*Sustainability,0.808,0.673,0.292
+p20-50-80,1,DES_estructural,0.8,0.65,10,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/0n,1,962.0,1.0,1.0,Company*Community*External*Sustainability*Security,Company*Community*External*Sustainability,0.808,0.673,0.292
+p20-50-80,1,DES_estructural,0.8,0.65,20,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/0n,1,962.0,1.0,1.0,Company*Community*External*Sustainability*Security,Company*Community*External*Sustainability,0.808,0.673,0.292
+p20-50-80,1,DES_estructural,0.8,0.7,5,,,,,,0,,,,,,,,
+p20-50-80,1,DES_estructural,0.8,0.7,10,,,,,,0,,,,,,,,
+p20-50-80,1,DES_estructural,0.8,0.7,20,,,,,,0,,,,,,,,
+p20-50-80,1,DES_estructural,0.85,0.5,5,,,,,,0,,,,,,,,
+p20-50-80,1,DES_estructural,0.85,0.5,10,,,,,,0,,,,,,,,
+p20-50-80,1,DES_estructural,0.85,0.5,20,,,,,,0,,,,,,,,
+p20-50-80,1,DES_estructural,0.85,0.65,5,,,,,,0,,,,,,,,
+p20-50-80,1,DES_estructural,0.85,0.65,10,,,,,,0,,,,,,,,
+p20-50-80,1,DES_estructural,0.85,0.65,20,,,,,,0,,,,,,,,
+p20-50-80,1,DES_estructural,0.85,0.7,5,,,,,,0,,,,,,,,
+p20-50-80,1,DES_estructural,0.85,0.7,10,,,,,,0,,,,,,,,
+p20-50-80,1,DES_estructural,0.85,0.7,20,,,,,,0,,,,,,,,
+p20-50-80,1,~DES_estructural,0.75,0.5,5,0+/2-/2n,0+/3-/3n,0+/2-/2n,0+/3-/3n,0+/0-/0n,11,970.0,5.0,1.0,~Company*~Sustainability + ~Company*~Community + ~Community*~Sustainability + ~Community*~External + ~External*~Sustainability,~Company*~Sustainability + ~Company*~Community + ~Community*~Sustainability + ~Community*~External + ~External*~Sustainability,0.707,0.626,0.714
+p20-50-80,1,~DES_estructural,0.75,0.5,10,0+/2-/2n,0+/3-/3n,0+/2-/2n,0+/3-/3n,0+/0-/0n,10,962.0,5.0,1.0,~Company*~Sustainability + ~Company*~Community + ~Community*~Sustainability + ~Community*~External + ~External*~Sustainability,~Company*~Sustainability + ~Company*~Community + ~Community*~Sustainability + ~Community*~External + ~External*~Sustainability,0.707,0.626,0.714
+p20-50-80,1,~DES_estructural,0.75,0.5,20,0+/2-/2n,0+/3-/3n,0+/2-/2n,0+/3-/3n,0+/0-/0n,10,962.0,5.0,1.0,~Company*~Sustainability + ~Company*~Community + ~Community*~Sustainability + ~Community*~External + ~External*~Sustainability,~Company*~Sustainability + ~Company*~Community + ~Community*~Sustainability + ~Community*~External + ~External*~Sustainability,0.707,0.626,0.714
+p20-50-80,1,~DES_estructural,0.75,0.65,5,0+/1-/1n,0+/1-/1n,0+/0-/0n,0+/0-/0n,0+/0-/0n,5,970.0,1.0,1.0,~Company*~Community,~Company*~Community,0.782,0.725,0.46
+p20-50-80,1,~DES_estructural,0.75,0.65,10,0+/1-/1n,0+/1-/1n,0+/0-/0n,0+/0-/0n,0+/0-/0n,4,962.0,1.0,1.0,~Company*~Community,~Company*~Community,0.782,0.725,0.46
+p20-50-80,1,~DES_estructural,0.75,0.65,20,0+/1-/1n,0+/1-/1n,0+/0-/0n,0+/0-/0n,0+/0-/0n,4,962.0,1.0,1.0,~Company*~Community,~Company*~Community,0.782,0.725,0.46
+p20-50-80,1,~DES_estructural,0.75,0.7,5,0+/2-/2n,0+/2-/2n,1+/0-/1n,0+/1-/1n,0+/0-/0n,4,970.0,2.0,1.0,~Company*~Community*External + ~Company*~Community*~Sustainability,~Company*~Community*~Sustainability + ~Company*~Community*External,0.823,0.764,0.378
+p20-50-80,1,~DES_estructural,0.75,0.7,10,0+/2-/2n,0+/2-/2n,1+/0-/1n,0+/1-/1n,0+/0-/0n,3,962.0,2.0,1.0,~Company*~Community*External + ~Company*~Community*~Sustainability,~Company*~Community*~Sustainability + ~Company*~Community*External,0.823,0.764,0.378
+p20-50-80,1,~DES_estructural,0.75,0.7,20,0+/2-/2n,0+/2-/2n,1+/0-/1n,0+/1-/1n,0+/0-/0n,3,962.0,2.0,1.0,~Company*~Community*External + ~Company*~Community*~Sustainability,~Company*~Community*~Sustainability + ~Company*~Community*External,0.823,0.764,0.378
+p20-50-80,1,~DES_estructural,0.8,0.5,5,0+/2-/2n,0+/2-/2n,0+/0-/0n,0+/2-/2n,0+/0-/0n,9,970.0,3.0,1.0,~Community*~Sustainability + ~Company*~Sustainability + ~Company*~Community,~Community*~Sustainability + ~Company*~Sustainability + ~Company*~Community,0.728,0.653,0.644
+p20-50-80,1,~DES_estructural,0.8,0.5,10,0+/2-/2n,0+/2-/2n,0+/0-/0n,0+/2-/2n,0+/0-/0n,8,962.0,3.0,1.0,~Community*~Sustainability + ~Company*~Sustainability + ~Company*~Community,~Community*~Sustainability + ~Company*~Sustainability + ~Company*~Community,0.728,0.653,0.644
+p20-50-80,1,~DES_estructural,0.8,0.5,20,0+/2-/2n,0+/2-/2n,0+/0-/0n,0+/2-/2n,0+/0-/0n,8,962.0,3.0,1.0,~Community*~Sustainability + ~Company*~Sustainability + ~Company*~Community,~Community*~Sustainability + ~Company*~Sustainability + ~Company*~Community,0.728,0.653,0.644
+p20-50-80,1,~DES_estructural,0.8,0.65,5,0+/1-/1n,0+/1-/1n,0+/0-/0n,0+/0-/0n,0+/0-/0n,5,970.0,1.0,1.0,~Company*~Community,~Company*~Community,0.782,0.725,0.46
+p20-50-80,1,~DES_estructural,0.8,0.65,10,0+/1-/1n,0+/1-/1n,0+/0-/0n,0+/0-/0n,0+/0-/0n,4,962.0,1.0,1.0,~Company*~Community,~Company*~Community,0.782,0.725,0.46
+p20-50-80,1,~DES_estructural,0.8,0.65,20,0+/1-/1n,0+/1-/1n,0+/0-/0n,0+/0-/0n,0+/0-/0n,4,962.0,1.0,1.0,~Company*~Community,~Company*~Community,0.782,0.725,0.46
+p20-50-80,1,~DES_estructural,0.8,0.7,5,0+/2-/2n,0+/2-/2n,1+/0-/1n,0+/1-/1n,0+/0-/0n,4,970.0,2.0,1.0,~Company*~Community*External + ~Company*~Community*~Sustainability,~Company*~Community*~Sustainability + ~Company*~Community*External,0.823,0.764,0.378
+p20-50-80,1,~DES_estructural,0.8,0.7,10,0+/2-/2n,0+/2-/2n,1+/0-/1n,0+/1-/1n,0+/0-/0n,3,962.0,2.0,1.0,~Company*~Community*External + ~Company*~Community*~Sustainability,~Company*~Community*~Sustainability + ~Company*~Community*External,0.823,0.764,0.378
+p20-50-80,1,~DES_estructural,0.8,0.7,20,0+/2-/2n,0+/2-/2n,1+/0-/1n,0+/1-/1n,0+/0-/0n,3,962.0,2.0,1.0,~Company*~Community*External + ~Company*~Community*~Sustainability,~Company*~Community*~Sustainability + ~Company*~Community*External,0.823,0.764,0.378
+p20-50-80,1,~DES_estructural,0.85,0.5,5,0+/2-/1n,0+/2-/1n,1+/0-/1n,0+/1-/0n,0+/1-/1n,3,970.0,2.0,1.0,~Company*~Community*~Sustainability*~Security + ~Company*~Community*External,~Company*~Community*External + ~Security,0.845,0.771,0.269
+p20-50-80,1,~DES_estructural,0.85,0.5,10,0+/1-/1n,0+/1-/1n,1+/0-/1n,0+/0-/0n,0+/0-/0n,2,962.0,1.0,1.0,~Company*~Community*External,~Company*~Community*External,0.827,0.724,0.201
+p20-50-80,1,~DES_estructural,0.85,0.5,20,0+/1-/1n,0+/1-/1n,1+/0-/1n,0+/0-/0n,0+/0-/0n,2,962.0,1.0,1.0,~Company*~Community*External,~Company*~Community*External,0.827,0.724,0.201
+p20-50-80,1,~DES_estructural,0.85,0.65,5,0+/2-/1n,0+/2-/1n,1+/0-/1n,0+/1-/0n,0+/1-/1n,3,970.0,2.0,1.0,~Company*~Community*~Sustainability*~Security + ~Company*~Community*External,~Company*~Community*External + ~Security,0.845,0.771,0.269
+p20-50-80,1,~DES_estructural,0.85,0.65,10,0+/1-/1n,0+/1-/1n,1+/0-/1n,0+/0-/0n,0+/0-/0n,2,962.0,1.0,1.0,~Company*~Community*External,~Company*~Community*External,0.827,0.724,0.201
+p20-50-80,1,~DES_estructural,0.85,0.65,20,0+/1-/1n,0+/1-/1n,1+/0-/1n,0+/0-/0n,0+/0-/0n,2,962.0,1.0,1.0,~Company*~Community*External,~Company*~Community*External,0.827,0.724,0.201
+p20-50-80,1,~DES_estructural,0.85,0.7,5,0+/2-/1n,0+/2-/1n,1+/0-/1n,0+/1-/0n,0+/1-/1n,3,970.0,2.0,1.0,~Company*~Community*~Sustainability*~Security + ~Company*~Community*External,~Company*~Community*External + ~Security,0.845,0.771,0.269
+p20-50-80,1,~DES_estructural,0.85,0.7,10,0+/1-/1n,0+/1-/1n,1+/0-/1n,0+/0-/0n,0+/0-/0n,2,962.0,1.0,1.0,~Company*~Community*External,~Company*~Community*External,0.827,0.724,0.201
+p20-50-80,1,~DES_estructural,0.85,0.7,20,0+/1-/1n,0+/1-/1n,1+/0-/1n,0+/0-/0n,0+/0-/0n,2,962.0,1.0,1.0,~Company*~Community*External,~Company*~Community*External,0.827,0.724,0.201
+p20-50-80,1,DES_regulacion,0.75,0.5,5,0+/1-/1n,2+/0-/2n,1+/1-/2n,1+/0-/1n,3+/0-/0n,9,970.0,3.0,1.0,~Company*Community*Security + Community*~External*Security + External*Sustainability*Security,~Company*Community + External*Sustainability + Community*~External,0.712,0.589,0.674
+p20-50-80,1,DES_regulacion,0.75,0.5,10,0+/1-/1n,2+/0-/2n,1+/1-/2n,1+/0-/1n,3+/0-/0n,9,962.0,3.0,1.0,~Company*Community*Security + Community*~External*Security + External*Sustainability*Security,~Company*Community + Community*~External + External*Sustainability,0.712,0.589,0.674
+p20-50-80,1,DES_regulacion,0.75,0.5,20,0+/1-/1n,2+/0-/2n,1+/1-/2n,1+/0-/1n,3+/0-/0n,9,962.0,3.0,1.0,~Company*Community*Security + Community*~External*Security + External*Sustainability*Security,~Company*Community + Community*~External + External*Sustainability,0.712,0.589,0.674
+p20-50-80,1,DES_regulacion,0.75,0.65,5,1+/0-/1n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/0n,2,970.0,1.0,1.0,Company*Community*Sustainability*Security,Company*Community*Sustainability,0.779,0.648,0.345
+p20-50-80,1,DES_regulacion,0.75,0.65,10,1+/0-/1n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/0n,2,962.0,1.0,1.0,Company*Community*Sustainability*Security,Company*Community*Sustainability,0.779,0.648,0.345
+p20-50-80,1,DES_regulacion,0.75,0.65,20,1+/0-/1n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/0n,2,962.0,1.0,1.0,Company*Community*Sustainability*Security,Company*Community*Sustainability,0.779,0.648,0.345
+p20-50-80,1,DES_regulacion,0.75,0.7,5,,,,,,0,,,,,,,,
+p20-50-80,1,DES_regulacion,0.75,0.7,10,,,,,,0,,,,,,,,
+p20-50-80,1,DES_regulacion,0.75,0.7,20,,,,,,0,,,,,,,,
+p20-50-80,1,DES_regulacion,0.8,0.5,5,1+/1-/2n,3+/0-/3n,1+/1-/2n,2+/1-/3n,3+/0-/0n,4,970.0,3.0,1.0,Company*Community*Sustainability*Security + ~Company*Community*External*~Sustainability*Security + Community*~External*Sustainability*Security,Company*Community*Sustainability + ~Company*Community*External*~Sustainability + Community*~External*Sustainability,0.761,0.621,0.482
+p20-50-80,1,DES_regulacion,0.8,0.5,10,1+/1-/2n,3+/0-/3n,1+/1-/2n,2+/1-/3n,3+/0-/0n,4,962.0,3.0,1.0,Company*Community*Sustainability*Security + ~Company*Community*External*~Sustainability*Security + Community*~External*Sustainability*Security,~Company*Community*External*~Sustainability + Community*~External*Sustainability + Company*Community*Sustainability,0.761,0.621,0.482
+p20-50-80,1,DES_regulacion,0.8,0.5,20,1+/1-/2n,3+/0-/3n,1+/1-/2n,2+/1-/3n,3+/0-/0n,4,962.0,3.0,1.0,Company*Community*Sustainability*Security + ~Company*Community*External*~Sustainability*Security + Community*~External*Sustainability*Security,~Company*Community*External*~Sustainability + Community*~External*Sustainability + Company*Community*Sustainability,0.761,0.621,0.482
+p20-50-80,1,DES_regulacion,0.8,0.65,5,1+/0-/1n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/0n,2,970.0,1.0,1.0,Company*Community*Sustainability*Security,Company*Community*Sustainability,0.779,0.648,0.345
+p20-50-80,1,DES_regulacion,0.8,0.65,10,1+/0-/1n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/0n,2,962.0,1.0,1.0,Company*Community*Sustainability*Security,Company*Community*Sustainability,0.779,0.648,0.345
+p20-50-80,1,DES_regulacion,0.8,0.65,20,1+/0-/1n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/0n,2,962.0,1.0,1.0,Company*Community*Sustainability*Security,Company*Community*Sustainability,0.779,0.648,0.345
+p20-50-80,1,DES_regulacion,0.8,0.7,5,,,,,,0,,,,,,,,
+p20-50-80,1,DES_regulacion,0.8,0.7,10,,,,,,0,,,,,,,,
+p20-50-80,1,DES_regulacion,0.8,0.7,20,,,,,,0,,,,,,,,
+p20-50-80,1,DES_regulacion,0.85,0.5,5,,,,,,0,,,,,,,,
+p20-50-80,1,DES_regulacion,0.85,0.5,10,,,,,,0,,,,,,,,
+p20-50-80,1,DES_regulacion,0.85,0.5,20,,,,,,0,,,,,,,,
+p20-50-80,1,DES_regulacion,0.85,0.65,5,,,,,,0,,,,,,,,
+p20-50-80,1,DES_regulacion,0.85,0.65,10,,,,,,0,,,,,,,,
+p20-50-80,1,DES_regulacion,0.85,0.65,20,,,,,,0,,,,,,,,
+p20-50-80,1,DES_regulacion,0.85,0.7,5,,,,,,0,,,,,,,,
+p20-50-80,1,DES_regulacion,0.85,0.7,10,,,,,,0,,,,,,,,
+p20-50-80,1,DES_regulacion,0.85,0.7,20,,,,,,0,,,,,,,,
+p20-50-80,1,~DES_regulacion,0.75,0.5,5,0+/0-/0n,0+/2-/2n,0+/1-/1n,0+/1-/1n,0+/0-/0n,7,970.0,2.0,1.0,~Community*~Sustainability + ~Community*~External,~Community*~Sustainability + ~Community*~External,0.714,0.619,0.534
+p20-50-80,1,~DES_regulacion,0.75,0.5,10,0+/0-/0n,0+/2-/2n,0+/1-/1n,0+/1-/1n,0+/0-/0n,6,962.0,2.0,1.0,~Community*~Sustainability + ~Community*~External,~Community*~Sustainability + ~Community*~External,0.714,0.619,0.534
+p20-50-80,1,~DES_regulacion,0.75,0.5,20,0+/0-/0n,0+/2-/2n,0+/1-/1n,0+/1-/1n,0+/0-/0n,6,962.0,2.0,1.0,~Community*~Sustainability + ~Community*~External,~Community*~Sustainability + ~Community*~External,0.714,0.619,0.534
+p20-50-80,1,~DES_regulacion,0.75,0.65,5,1+/1-/2n,0+/2-/2n,0+/1-/1n,0+/1-/1n,0+/0-/0n,5,970.0,2.0,1.0,~Company*~Community*~Sustainability + Company*~Community*~External,~Company*~Community*~Sustainability + Company*~Community*~External,0.765,0.664,0.411
+p20-50-80,1,~DES_regulacion,0.75,0.65,10,1+/1-/2n,0+/2-/2n,0+/1-/1n,0+/1-/1n,0+/0-/0n,4,962.0,2.0,1.0,~Company*~Community*~Sustainability + Company*~Community*~External,~Company*~Community*~Sustainability + Company*~Community*~External,0.765,0.664,0.411
+p20-50-80,1,~DES_regulacion,0.75,0.65,20,1+/1-/2n,0+/2-/2n,0+/1-/1n,0+/1-/1n,0+/0-/0n,4,962.0,2.0,1.0,~Company*~Community*~Sustainability + Company*~Community*~External,~Company*~Community*~Sustainability + Company*~Community*~External,0.765,0.664,0.411
+p20-50-80,1,~DES_regulacion,0.75,0.7,5,0+/1-/0n,0+/1-/0n,0+/1-/0n,0+/1-/0n,0+/1-/1n,1,970.0,1.0,1.0,~Company*~Community*~External*~Sustainability*~Security,~Security,0.907,0.811,0.146
+p20-50-80,1,~DES_regulacion,0.75,0.7,10,,,,,,0,,,,,,,,
+p20-50-80,1,~DES_regulacion,0.75,0.7,20,,,,,,0,,,,,,,,
+p20-50-80,1,~DES_regulacion,0.8,0.5,5,0+/0-/0n,0+/2-/2n,0+/1-/1n,0+/1-/1n,0+/0-/0n,7,970.0,2.0,1.0,~Community*~Sustainability + ~Community*~External,~Community*~Sustainability + ~Community*~External,0.714,0.619,0.534
+p20-50-80,1,~DES_regulacion,0.8,0.5,10,0+/0-/0n,0+/2-/2n,0+/1-/1n,0+/1-/1n,0+/0-/0n,6,962.0,2.0,1.0,~Community*~Sustainability + ~Community*~External,~Community*~Sustainability + ~Community*~External,0.714,0.619,0.534
+p20-50-80,1,~DES_regulacion,0.8,0.5,20,0+/0-/0n,0+/2-/2n,0+/1-/1n,0+/1-/1n,0+/0-/0n,6,962.0,2.0,1.0,~Community*~Sustainability + ~Community*~External,~Community*~Sustainability + ~Community*~External,0.714,0.619,0.534
+p20-50-80,1,~DES_regulacion,0.8,0.65,5,1+/1-/2n,0+/2-/2n,0+/1-/1n,0+/1-/1n,0+/0-/0n,5,970.0,2.0,1.0,~Company*~Community*~Sustainability + Company*~Community*~External,~Company*~Community*~Sustainability + Company*~Community*~External,0.765,0.664,0.411
+p20-50-80,1,~DES_regulacion,0.8,0.65,10,1+/1-/2n,0+/2-/2n,0+/1-/1n,0+/1-/1n,0+/0-/0n,4,962.0,2.0,1.0,~Company*~Community*~Sustainability + Company*~Community*~External,~Company*~Community*~Sustainability + Company*~Community*~External,0.765,0.664,0.411
+p20-50-80,1,~DES_regulacion,0.8,0.65,20,1+/1-/2n,0+/2-/2n,0+/1-/1n,0+/1-/1n,0+/0-/0n,4,962.0,2.0,1.0,~Company*~Community*~Sustainability + Company*~Community*~External,~Company*~Community*~Sustainability + Company*~Community*~External,0.765,0.664,0.411
+p20-50-80,1,~DES_regulacion,0.8,0.7,5,0+/1-/0n,0+/1-/0n,0+/1-/0n,0+/1-/0n,0+/1-/1n,1,970.0,1.0,1.0,~Company*~Community*~External*~Sustainability*~Security,~Security,0.907,0.811,0.146
+p20-50-80,1,~DES_regulacion,0.8,0.7,10,,,,,,0,,,,,,,,
+p20-50-80,1,~DES_regulacion,0.8,0.7,20,,,,,,0,,,,,,,,
+p20-50-80,1,~DES_regulacion,0.85,0.5,5,1+/1-/2n,0+/3-/2n,1+/2-/2n,0+/3-/2n,0+/1-/1n,3,970.0,3.0,2.0,Company*~Community*~External*~Sustainability + ~Company*~Community*External*~Sustainability + ~Community*~External*~Sustainability*~Security,Company*~Community*~External*~Sustainability + ~Company*~Community*External*~Sustainability + ~Security,0.838,0.73,0.29
+p20-50-80,1,~DES_regulacion,0.85,0.5,10,1+/1-/2n,0+/2-/2n,1+/1-/2n,0+/2-/2n,0+/0-/0n,2,962.0,2.0,1.0,Company*~Community*~External*~Sustainability + ~Company*~Community*External*~Sustainability,Company*~Community*~External*~Sustainability + ~Company*~Community*External*~Sustainability,0.838,0.708,0.231
+p20-50-80,1,~DES_regulacion,0.85,0.5,20,1+/1-/2n,0+/2-/2n,1+/1-/2n,0+/2-/2n,0+/0-/0n,2,962.0,2.0,1.0,Company*~Community*~External*~Sustainability + ~Company*~Community*External*~Sustainability,Company*~Community*~External*~Sustainability + ~Company*~Community*External*~Sustainability,0.838,0.708,0.231
+p20-50-80,1,~DES_regulacion,0.85,0.65,5,1+/1-/2n,0+/3-/2n,1+/2-/2n,0+/3-/2n,0+/1-/1n,3,970.0,3.0,2.0,Company*~Community*~External*~Sustainability + ~Company*~Community*External*~Sustainability + ~Community*~External*~Sustainability*~Security,Company*~Community*~External*~Sustainability + ~Company*~Community*External*~Sustainability + ~Security,0.838,0.73,0.29
+p20-50-80,1,~DES_regulacion,0.85,0.65,10,1+/1-/2n,0+/2-/2n,1+/1-/2n,0+/2-/2n,0+/0-/0n,2,962.0,2.0,1.0,Company*~Community*~External*~Sustainability + ~Company*~Community*External*~Sustainability,Company*~Community*~External*~Sustainability + ~Company*~Community*External*~Sustainability,0.838,0.708,0.231
+p20-50-80,1,~DES_regulacion,0.85,0.65,20,1+/1-/2n,0+/2-/2n,1+/1-/2n,0+/2-/2n,0+/0-/0n,2,962.0,2.0,1.0,Company*~Community*~External*~Sustainability + ~Company*~Community*External*~Sustainability,Company*~Community*~External*~Sustainability + ~Company*~Community*External*~Sustainability,0.838,0.708,0.231
+p20-50-80,1,~DES_regulacion,0.85,0.7,5,0+/1-/0n,0+/1-/0n,0+/1-/0n,0+/1-/0n,0+/1-/1n,1,970.0,1.0,1.0,~Company*~Community*~External*~Sustainability*~Security,~Security,0.907,0.811,0.146
+p20-50-80,1,~DES_regulacion,0.85,0.7,10,,,,,,0,,,,,,,,
+p20-50-80,1,~DES_regulacion,0.85,0.7,20,,,,,,0,,,,,,,,
+teorica,1,DES_estructural,0.75,0.5,5,3+/0-/3n,3+/0-/3n,3+/0-/3n,3+/0-/3n,6+/0-/0n,11,969.0,6.0,1.0,Community*Sustainability*Security + Community*External*Security + Company*Community*Security + Company*Sustainability*Security + External*Sustainability*Security + Company*External*Security,Community*Sustainability + Company*Community + Community*External + External*Sustainability + Company*External + Company*Sustainability,0.779,0.73,0.77
+teorica,1,DES_estructural,0.75,0.5,10,3+/0-/3n,2+/0-/2n,2+/0-/2n,3+/0-/3n,5+/0-/0n,10,956.0,5.0,1.0,Community*Sustainability*Security + Company*Community*Security + Company*Sustainability*Security + External*Sustainability*Security + Company*External*Security,Community*Sustainability + Company*Community + External*Sustainability + Company*External + Company*Sustainability,0.781,0.732,0.767
+teorica,1,DES_estructural,0.75,0.5,20,3+/0-/2n,2+/0-/2n,2+/0-/2n,3+/0-/2n,5+/0-/0n,10,938.0,5.0,1.0,Community*Sustainability*Security + Company*Community*Security + Company*Sustainability*Security + External*Sustainability*Security + Company*External*Security,Community + External*Sustainability + Company*External + Company*Sustainability,0.781,0.732,0.767
+teorica,1,DES_estructural,0.75,0.65,5,2+/0-/2n,2+/0-/2n,1+/0-/1n,2+/0-/2n,3+/0-/0n,7,969.0,3.0,1.0,Company*Sustainability*Security + Community*Sustainability*Security + Company*Community*External*Security,Community*Sustainability + Company*Community*External + Company*Sustainability,0.801,0.754,0.713
+teorica,1,DES_estructural,0.75,0.65,10,2+/0-/1n,2+/0-/2n,1+/0-/1n,2+/0-/2n,3+/0-/0n,7,956.0,3.0,1.0,Company*Sustainability*Security + Community*Sustainability*Security + Company*Community*External*Security,Community*Sustainability + Community*External + Company*Sustainability,0.801,0.754,0.713
+teorica,1,DES_estructural,0.75,0.65,20,2+/0-/1n,2+/0-/2n,1+/0-/1n,2+/0-/2n,3+/0-/0n,7,938.0,3.0,1.0,Company*Sustainability*Security + Community*Sustainability*Security + Company*Community*External*Security,Community*Sustainability + Community*External + Company*Sustainability,0.801,0.754,0.713
+teorica,1,DES_estructural,0.75,0.7,5,0+/0-/0n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/0n,4,969.0,1.0,1.0,Community*Sustainability*Security,Community*Sustainability,0.839,0.797,0.545
+teorica,1,DES_estructural,0.75,0.7,10,0+/0-/0n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/0n,4,956.0,1.0,1.0,Community*Sustainability*Security,Community*Sustainability,0.839,0.797,0.545
+teorica,1,DES_estructural,0.75,0.7,20,0+/0-/0n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/0n,4,938.0,1.0,1.0,Community*Sustainability*Security,Community*Sustainability,0.839,0.797,0.545
+teorica,1,DES_estructural,0.8,0.5,5,1+/0-/1n,2+/0-/2n,2+/0-/2n,1+/0-/1n,3+/0-/0n,8,969.0,3.0,1.0,Community*Sustainability*Security + Community*External*Security + Company*External*Security,Community*Sustainability + Company*External + Community*External,0.817,0.77,0.658
+teorica,1,DES_estructural,0.8,0.5,10,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/1n,2+/0-/0n,7,956.0,2.0,1.0,Community*Sustainability*Security + Company*External*Security,Community*Sustainability + Company*External,0.82,0.773,0.654
+teorica,1,DES_estructural,0.8,0.5,20,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/1n,2+/0-/0n,7,938.0,2.0,1.0,Community*Sustainability*Security + Company*External*Security,Community*Sustainability + Company*External,0.82,0.773,0.654
+teorica,1,DES_estructural,0.8,0.65,5,2+/0-/2n,2+/0-/2n,2+/0-/2n,2+/0-/2n,3+/0-/0n,6,969.0,3.0,1.0,Community*Sustainability*Security + Company*External*Sustainability*Security + Company*Community*External*Security,Company*External*Sustainability + Community*Sustainability + Company*Community*External,0.824,0.778,0.635
+teorica,1,DES_estructural,0.8,0.65,10,2+/0-/1n,2+/0-/2n,2+/0-/2n,2+/0-/2n,3+/0-/0n,6,956.0,3.0,1.0,Community*Sustainability*Security + Company*External*Sustainability*Security + Company*Community*External*Security,Company*External*Sustainability + Community*External + Community*Sustainability,0.824,0.778,0.635
+teorica,1,DES_estructural,0.8,0.65,20,2+/0-/1n,2+/0-/2n,2+/0-/2n,2+/0-/2n,3+/0-/0n,6,938.0,3.0,1.0,Community*Sustainability*Security + Company*External*Sustainability*Security + Company*Community*External*Security,Company*External*Sustainability + Community*Sustainability + Community*External,0.824,0.778,0.635
+teorica,1,DES_estructural,0.8,0.7,5,0+/0-/0n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/0n,4,969.0,1.0,1.0,Community*Sustainability*Security,Community*Sustainability,0.839,0.797,0.545
+teorica,1,DES_estructural,0.8,0.7,10,0+/0-/0n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/0n,4,956.0,1.0,1.0,Community*Sustainability*Security,Community*Sustainability,0.839,0.797,0.545
+teorica,1,DES_estructural,0.8,0.7,20,0+/0-/0n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/0n,4,938.0,1.0,1.0,Community*Sustainability*Security,Community*Sustainability,0.839,0.797,0.545
+teorica,1,DES_estructural,0.85,0.5,5,1+/0-/1n,2+/0-/2n,1+/0-/1n,2+/0-/2n,2+/0-/0n,3,969.0,2.0,1.0,Community*External*Sustainability*Security + Company*Community*Sustainability*Security,Community*External*Sustainability + Company*Community*Sustainability,0.857,0.815,0.496
+teorica,1,DES_estructural,0.85,0.5,10,1+/0-/1n,2+/0-/1n,1+/0-/0n,2+/0-/1n,2+/0-/0n,3,956.0,2.0,1.0,Community*External*Sustainability*Security + Company*Community*Sustainability*Security,~Company*Community*External + Company*Community*Sustainability,0.857,0.815,0.496
+teorica,1,DES_estructural,0.85,0.5,20,1+/0-/1n,2+/0-/1n,1+/0-/0n,2+/0-/1n,2+/0-/0n,3,938.0,2.0,1.0,Community*External*Sustainability*Security + Company*Community*Sustainability*Security,~Company*Community*External + Company*Community*Sustainability,0.857,0.815,0.496
+teorica,1,DES_estructural,0.85,0.65,5,1+/0-/1n,2+/0-/2n,1+/0-/1n,2+/0-/2n,2+/0-/0n,3,969.0,2.0,1.0,Community*External*Sustainability*Security + Company*Community*Sustainability*Security,Community*External*Sustainability + Company*Community*Sustainability,0.857,0.815,0.496
+teorica,1,DES_estructural,0.85,0.65,10,1+/0-/1n,2+/0-/1n,1+/0-/0n,2+/0-/1n,2+/0-/0n,3,956.0,2.0,1.0,Community*External*Sustainability*Security + Company*Community*Sustainability*Security,~Company*Community*External + Company*Community*Sustainability,0.857,0.815,0.496
+teorica,1,DES_estructural,0.85,0.65,20,1+/0-/1n,2+/0-/1n,1+/0-/0n,2+/0-/1n,2+/0-/0n,3,938.0,2.0,1.0,Community*External*Sustainability*Security + Company*Community*Sustainability*Security,~Company*Community*External + Company*Community*Sustainability,0.857,0.815,0.496
+teorica,1,DES_estructural,0.85,0.7,5,1+/0-/1n,2+/0-/2n,1+/0-/1n,2+/0-/2n,2+/0-/0n,3,969.0,2.0,1.0,Community*External*Sustainability*Security + Company*Community*Sustainability*Security,Community*External*Sustainability + Company*Community*Sustainability,0.857,0.815,0.496
+teorica,1,DES_estructural,0.85,0.7,10,1+/0-/1n,2+/0-/1n,1+/0-/0n,2+/0-/1n,2+/0-/0n,3,956.0,2.0,1.0,Community*External*Sustainability*Security + Company*Community*Sustainability*Security,~Company*Community*External + Company*Community*Sustainability,0.857,0.815,0.496
+teorica,1,DES_estructural,0.85,0.7,20,1+/0-/1n,2+/0-/1n,1+/0-/0n,2+/0-/1n,2+/0-/0n,3,938.0,2.0,1.0,Community*External*Sustainability*Security + Company*Community*Sustainability*Security,~Company*Community*External + Company*Community*Sustainability,0.857,0.815,0.496
+teorica,1,~DES_estructural,0.75,0.5,5,0+/2-/2n,0+/1-/1n,0+/1-/1n,0+/2-/2n,0+/0-/0n,4,969.0,2.0,1.0,~Company*~Community*~Sustainability + ~Company*~External*~Sustainability,~Company*~Community*~Sustainability + ~Company*~External*~Sustainability,0.769,0.67,0.298
+teorica,1,~DES_estructural,0.75,0.5,10,0+/2-/2n,0+/1-/0n,0+/1-/0n,0+/2-/2n,0+/0-/0n,3,956.0,2.0,1.0,~Company*~Community*~Sustainability + ~Company*~External*~Sustainability,~Company*~Sustainability,0.769,0.67,0.298
+teorica,1,~DES_estructural,0.75,0.5,20,0+/1-/1n,0+/1-/0n,0+/0-/0n,0+/1-/1n,0+/0-/0n,2,938.0,1.0,1.0,~Company*~Community*~Sustainability,~Company*~Sustainability,0.793,0.695,0.273
+teorica,1,~DES_estructural,0.75,0.65,5,0+/1-/1n,0+/1-/1n,0+/1-/1n,0+/1-/1n,0+/0-/0n,2,969.0,1.0,1.0,~Company*~Community*~External*~Sustainability,~Company*~Community*~External*~Sustainability,0.792,0.683,0.253
+teorica,1,~DES_estructural,0.75,0.65,10,0+/1-/1n,0+/1-/1n,0+/1-/1n,0+/1-/1n,0+/0-/0n,1,956.0,1.0,1.0,~Company*~Community*~External*~Sustainability,~Company*~Community*~External*~Sustainability,0.792,0.683,0.253
+teorica,1,~DES_estructural,0.75,0.65,20,0+/1-/1n,0+/1-/0n,0+/1-/1n,0+/1-/1n,0+/0-/0n,1,938.0,1.0,1.0,~Company*~Community*~External*~Sustainability,~Company*~External*~Sustainability,0.792,0.683,0.253
+teorica,1,~DES_estructural,0.75,0.7,5,0+/1-/0n,0+/1-/0n,0+/1-/0n,0+/1-/0n,0+/1-/1n,1,969.0,1.0,1.0,~Company*~Community*~External*~Sustainability*~Security,~Security,0.854,0.744,0.166
+teorica,1,~DES_estructural,0.75,0.7,10,,,,,,0,,,,,,,,
+teorica,1,~DES_estructural,0.75,0.7,20,,,,,,0,,,,,,,,
+teorica,1,~DES_estructural,0.8,0.5,5,0+/1-/0n,0+/1-/0n,0+/1-/0n,0+/1-/0n,0+/1-/1n,1,969.0,1.0,1.0,~Company*~Community*~External*~Sustainability*~Security,~Security,0.854,0.744,0.166
+teorica,1,~DES_estructural,0.8,0.5,10,,,,,,0,,,,,,,,
+teorica,1,~DES_estructural,0.8,0.5,20,,,,,,0,,,,,,,,
+teorica,1,~DES_estructural,0.8,0.65,5,0+/1-/0n,0+/1-/0n,0+/1-/0n,0+/1-/0n,0+/1-/1n,1,969.0,1.0,1.0,~Company*~Community*~External*~Sustainability*~Security,~Security,0.854,0.744,0.166
+teorica,1,~DES_estructural,0.8,0.65,10,,,,,,0,,,,,,,,
+teorica,1,~DES_estructural,0.8,0.65,20,,,,,,0,,,,,,,,
+teorica,1,~DES_estructural,0.8,0.7,5,0+/1-/0n,0+/1-/0n,0+/1-/0n,0+/1-/0n,0+/1-/1n,1,969.0,1.0,1.0,~Company*~Community*~External*~Sustainability*~Security,~Security,0.854,0.744,0.166
+teorica,1,~DES_estructural,0.8,0.7,10,,,,,,0,,,,,,,,
+teorica,1,~DES_estructural,0.8,0.7,20,,,,,,0,,,,,,,,
+teorica,1,~DES_estructural,0.85,0.5,5,0+/1-/0n,0+/1-/0n,0+/1-/0n,0+/1-/0n,0+/1-/1n,1,969.0,1.0,1.0,~Company*~Community*~External*~Sustainability*~Security,~Security,0.854,0.744,0.166
+teorica,1,~DES_estructural,0.85,0.5,10,,,,,,0,,,,,,,,
+teorica,1,~DES_estructural,0.85,0.5,20,,,,,,0,,,,,,,,
+teorica,1,~DES_estructural,0.85,0.65,5,0+/1-/0n,0+/1-/0n,0+/1-/0n,0+/1-/0n,0+/1-/1n,1,969.0,1.0,1.0,~Company*~Community*~External*~Sustainability*~Security,~Security,0.854,0.744,0.166
+teorica,1,~DES_estructural,0.85,0.65,10,,,,,,0,,,,,,,,
+teorica,1,~DES_estructural,0.85,0.65,20,,,,,,0,,,,,,,,
+teorica,1,~DES_estructural,0.85,0.7,5,0+/1-/0n,0+/1-/0n,0+/1-/0n,0+/1-/0n,0+/1-/1n,1,969.0,1.0,1.0,~Company*~Community*~External*~Sustainability*~Security,~Security,0.854,0.744,0.166
+teorica,1,~DES_estructural,0.85,0.7,10,,,,,,0,,,,,,,,
+teorica,1,~DES_estructural,0.85,0.7,20,,,,,,0,,,,,,,,
+teorica,1,DES_regulacion,0.75,0.5,5,0+/1-/1n,2+/0-/2n,1+/1-/2n,1+/0-/1n,3+/0-/0n,9,969.0,3.0,1.0,~Company*Community*Security + Community*~External*Security + External*Sustainability*Security,~Company*Community + External*Sustainability + Community*~External,0.794,0.75,0.604
+teorica,1,DES_regulacion,0.75,0.5,10,0+/0-/0n,1+/0-/1n,1+/1-/2n,1+/0-/1n,2+/0-/0n,8,956.0,2.0,1.0,Community*~External*Security + External*Sustainability*Security,Community*~External + External*Sustainability,0.796,0.751,0.598
+teorica,1,DES_regulacion,0.75,0.5,20,1+/0-/0n,2+/0-/1n,1+/1-/2n,2+/0-/1n,3+/0-/0n,7,938.0,3.0,1.0,Community*Sustainability*Security + Company*Community*~External*Security + External*Sustainability*Security,Community*~External + External*Sustainability,0.801,0.76,0.632
+teorica,1,DES_regulacion,0.75,0.65,5,1+/0-/1n,1+/0-/1n,1+/0-/1n,2+/0-/2n,2+/0-/0n,5,969.0,2.0,1.0,Community*Sustainability*Security + Company*External*Sustainability*Security,Company*External*Sustainability + Community*Sustainability,0.812,0.772,0.577
+teorica,1,DES_regulacion,0.75,0.65,10,1+/0-/1n,1+/0-/1n,1+/0-/1n,2+/0-/2n,2+/0-/0n,5,956.0,2.0,1.0,Community*Sustainability*Security + Company*External*Sustainability*Security,Company*External*Sustainability + Community*Sustainability,0.812,0.772,0.577
+teorica,1,DES_regulacion,0.75,0.65,20,1+/0-/1n,1+/0-/1n,1+/0-/1n,2+/0-/2n,2+/0-/0n,5,938.0,2.0,1.0,Community*Sustainability*Security + Company*External*Sustainability*Security,Company*External*Sustainability + Community*Sustainability,0.812,0.772,0.577
+teorica,1,DES_regulacion,0.75,0.7,5,0+/0-/0n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/0n,4,969.0,1.0,1.0,Community*Sustainability*Security,Community*Sustainability,0.826,0.789,0.529
+teorica,1,DES_regulacion,0.75,0.7,10,0+/0-/0n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/0n,4,956.0,1.0,1.0,Community*Sustainability*Security,Community*Sustainability,0.826,0.789,0.529
+teorica,1,DES_regulacion,0.75,0.7,20,0+/0-/0n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/0n,4,938.0,1.0,1.0,Community*Sustainability*Security,Community*Sustainability,0.826,0.789,0.529
+teorica,1,DES_regulacion,0.8,0.5,5,0+/2-/2n,2+/0-/2n,2+/0-/2n,2+/0-/2n,3+/0-/0n,6,969.0,3.0,1.0,~Company*Community*External*Security + ~Company*External*Sustainability*Security + Community*Sustainability*Security,Community*Sustainability + ~Company*Community*External + ~Company*External*Sustainability,0.816,0.775,0.569
+teorica,1,DES_regulacion,0.8,0.5,10,0+/1-/1n,1+/0-/1n,1+/0-/1n,2+/0-/2n,2+/0-/0n,5,956.0,2.0,1.0,Community*Sustainability*Security + ~Company*External*Sustainability*Security,Community*Sustainability + ~Company*External*Sustainability,0.82,0.78,0.553
+teorica,1,DES_regulacion,0.8,0.5,20,0+/1-/1n,1+/0-/1n,1+/0-/1n,2+/0-/2n,2+/0-/0n,5,938.0,2.0,1.0,Community*Sustainability*Security + ~Company*External*Sustainability*Security,Community*Sustainability + ~Company*External*Sustainability,0.82,0.78,0.553
+teorica,1,DES_regulacion,0.8,0.65,5,0+/0-/0n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/0n,4,969.0,1.0,1.0,Community*Sustainability*Security,Community*Sustainability,0.826,0.789,0.529
+teorica,1,DES_regulacion,0.8,0.65,10,0+/0-/0n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/0n,4,956.0,1.0,1.0,Community*Sustainability*Security,Community*Sustainability,0.826,0.789,0.529
+teorica,1,DES_regulacion,0.8,0.65,20,0+/0-/0n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/0n,4,938.0,1.0,1.0,Community*Sustainability*Security,Community*Sustainability,0.826,0.789,0.529
+teorica,1,DES_regulacion,0.8,0.7,5,0+/0-/0n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/0n,4,969.0,1.0,1.0,Community*Sustainability*Security,Community*Sustainability,0.826,0.789,0.529
+teorica,1,DES_regulacion,0.8,0.7,10,0+/0-/0n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/0n,4,956.0,1.0,1.0,Community*Sustainability*Security,Community*Sustainability,0.826,0.789,0.529
+teorica,1,DES_regulacion,0.8,0.7,20,0+/0-/0n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/0n,4,938.0,1.0,1.0,Community*Sustainability*Security,Community*Sustainability,0.826,0.789,0.529
+teorica,1,DES_regulacion,0.85,0.5,5,,,,,,0,,,,,,,,
+teorica,1,DES_regulacion,0.85,0.5,10,,,,,,0,,,,,,,,
+teorica,1,DES_regulacion,0.85,0.5,20,,,,,,0,,,,,,,,
+teorica,1,DES_regulacion,0.85,0.65,5,,,,,,0,,,,,,,,
+teorica,1,DES_regulacion,0.85,0.65,10,,,,,,0,,,,,,,,
+teorica,1,DES_regulacion,0.85,0.65,20,,,,,,0,,,,,,,,
+teorica,1,DES_regulacion,0.85,0.7,5,,,,,,0,,,,,,,,
+teorica,1,DES_regulacion,0.85,0.7,10,,,,,,0,,,,,,,,
+teorica,1,DES_regulacion,0.85,0.7,20,,,,,,0,,,,,,,,
+teorica,1,~DES_regulacion,0.75,0.5,5,0+/2-/1n,0+/2-/1n,1+/0-/1n,0+/2-/1n,0+/1-/1n,2,969.0,2.0,1.0,~Company*~Community*External*~Sustainability + ~Company*~Community*~Sustainability*~Security,~Company*~Community*External*~Sustainability + ~Security,0.756,0.601,0.195
+teorica,1,~DES_regulacion,0.75,0.5,10,0+/1-/1n,0+/1-/0n,1+/0-/1n,0+/1-/1n,0+/0-/0n,1,956.0,1.0,1.0,~Company*~Community*External*~Sustainability,~Company*External*~Sustainability,0.796,0.582,0.134
+teorica,1,~DES_regulacion,0.75,0.5,20,0+/1-/1n,0+/1-/0n,1+/0-/1n,0+/1-/1n,0+/0-/0n,1,938.0,1.0,1.0,~Company*~Community*External*~Sustainability,~Company*External*~Sustainability,0.796,0.582,0.134
+teorica,1,~DES_regulacion,0.75,0.65,5,,,,,,0,,,,,,,,
+teorica,1,~DES_regulacion,0.75,0.65,10,,,,,,0,,,,,,,,
+teorica,1,~DES_regulacion,0.75,0.65,20,,,,,,0,,,,,,,,
+teorica,1,~DES_regulacion,0.75,0.7,5,,,,,,0,,,,,,,,
+teorica,1,~DES_regulacion,0.75,0.7,10,,,,,,0,,,,,,,,
+teorica,1,~DES_regulacion,0.75,0.7,20,,,,,,0,,,,,,,,
+teorica,1,~DES_regulacion,0.8,0.5,5,,,,,,0,,,,,,,,
+teorica,1,~DES_regulacion,0.8,0.5,10,,,,,,0,,,,,,,,
+teorica,1,~DES_regulacion,0.8,0.5,20,,,,,,0,,,,,,,,
+teorica,1,~DES_regulacion,0.8,0.65,5,,,,,,0,,,,,,,,
+teorica,1,~DES_regulacion,0.8,0.65,10,,,,,,0,,,,,,,,
+teorica,1,~DES_regulacion,0.8,0.65,20,,,,,,0,,,,,,,,
+teorica,1,~DES_regulacion,0.8,0.7,5,,,,,,0,,,,,,,,
+teorica,1,~DES_regulacion,0.8,0.7,10,,,,,,0,,,,,,,,
+teorica,1,~DES_regulacion,0.8,0.7,20,,,,,,0,,,,,,,,
+teorica,1,~DES_regulacion,0.85,0.5,5,,,,,,0,,,,,,,,
+teorica,1,~DES_regulacion,0.85,0.5,10,,,,,,0,,,,,,,,
+teorica,1,~DES_regulacion,0.85,0.5,20,,,,,,0,,,,,,,,
+teorica,1,~DES_regulacion,0.85,0.65,5,,,,,,0,,,,,,,,
+teorica,1,~DES_regulacion,0.85,0.65,10,,,,,,0,,,,,,,,
+teorica,1,~DES_regulacion,0.85,0.65,20,,,,,,0,,,,,,,,
+teorica,1,~DES_regulacion,0.85,0.7,5,,,,,,0,,,,,,,,
+teorica,1,~DES_regulacion,0.85,0.7,10,,,,,,0,,,,,,,,
+teorica,1,~DES_regulacion,0.85,0.7,20,,,,,,0,,,,,,,,
+teorica,1,DES_relacional,0.75,0.5,5,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,17,969.0,1.0,1.0,(tautología),(tautología),0.836,0.827,1.0
+teorica,1,DES_relacional,0.75,0.5,10,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,1+/0-/0n,15,956.0,1.0,1.0,Security,(tautología),0.878,0.87,0.806
+teorica,1,DES_relacional,0.75,0.5,20,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,1+/0-/0n,14,938.0,1.0,1.0,Security,(tautología),0.878,0.87,0.806
+teorica,1,DES_relacional,0.75,0.65,5,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,17,969.0,1.0,1.0,(tautología),(tautología),0.836,0.827,1.0
+teorica,1,DES_relacional,0.75,0.65,10,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,1+/0-/0n,15,956.0,1.0,1.0,Security,(tautología),0.878,0.87,0.806
+teorica,1,DES_relacional,0.75,0.65,20,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,1+/0-/0n,14,938.0,1.0,1.0,Security,(tautología),0.878,0.87,0.806
+teorica,1,DES_relacional,0.75,0.7,5,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,17,969.0,1.0,1.0,(tautología),(tautología),0.836,0.827,1.0
+teorica,1,DES_relacional,0.75,0.7,10,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,1+/0-/0n,15,956.0,1.0,1.0,Security,(tautología),0.878,0.87,0.806
+teorica,1,DES_relacional,0.75,0.7,20,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,1+/0-/0n,14,938.0,1.0,1.0,Security,(tautología),0.878,0.87,0.806
+teorica,1,DES_relacional,0.8,0.5,5,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,17,969.0,1.0,1.0,(tautología),(tautología),0.836,0.827,1.0
+teorica,1,DES_relacional,0.8,0.5,10,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,1+/0-/0n,15,956.0,1.0,1.0,Security,(tautología),0.878,0.87,0.806
+teorica,1,DES_relacional,0.8,0.5,20,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,1+/0-/0n,14,938.0,1.0,1.0,Security,(tautología),0.878,0.87,0.806
+teorica,1,DES_relacional,0.8,0.65,5,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,17,969.0,1.0,1.0,(tautología),(tautología),0.836,0.827,1.0
+teorica,1,DES_relacional,0.8,0.65,10,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,1+/0-/0n,15,956.0,1.0,1.0,Security,(tautología),0.878,0.87,0.806
+teorica,1,DES_relacional,0.8,0.65,20,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,1+/0-/0n,14,938.0,1.0,1.0,Security,(tautología),0.878,0.87,0.806
+teorica,1,DES_relacional,0.8,0.7,5,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,17,969.0,1.0,1.0,(tautología),(tautología),0.836,0.827,1.0
+teorica,1,DES_relacional,0.8,0.7,10,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,1+/0-/0n,15,956.0,1.0,1.0,Security,(tautología),0.878,0.87,0.806
+teorica,1,DES_relacional,0.8,0.7,20,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,1+/0-/0n,14,938.0,1.0,1.0,Security,(tautología),0.878,0.87,0.806
+teorica,1,DES_relacional,0.85,0.5,5,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/1n,4+/0-/0n,15,969.0,4.0,1.0,External*Security + Sustainability*Security + Company*Security + Community*Security,Sustainability + Company + Community + External,0.892,0.884,0.767
+teorica,1,DES_relacional,0.85,0.5,10,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/1n,4+/0-/0n,14,956.0,4.0,1.0,External*Security + Sustainability*Security + Company*Security + Community*Security,Sustainability + Company + Community + External,0.892,0.884,0.767
+teorica,1,DES_relacional,0.85,0.5,20,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/1n,3+/0-/0n,13,938.0,3.0,1.0,External*Security + Sustainability*Security + Company*Security,Sustainability + Company + External,0.892,0.884,0.756
+teorica,1,DES_relacional,0.85,0.65,5,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/1n,4+/0-/0n,15,969.0,4.0,1.0,External*Security + Sustainability*Security + Company*Security + Community*Security,Sustainability + Company + Community + External,0.892,0.884,0.767
+teorica,1,DES_relacional,0.85,0.65,10,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/1n,4+/0-/0n,14,956.0,4.0,1.0,External*Security + Sustainability*Security + Company*Security + Community*Security,Sustainability + Company + Community + External,0.892,0.884,0.767
+teorica,1,DES_relacional,0.85,0.65,20,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/1n,3+/0-/0n,13,938.0,3.0,1.0,External*Security + Sustainability*Security + Company*Security,Sustainability + Company + External,0.892,0.884,0.756
+teorica,1,DES_relacional,0.85,0.7,5,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/1n,4+/0-/0n,15,969.0,4.0,1.0,External*Security + Sustainability*Security + Company*Security + Community*Security,Sustainability + Company + Community + External,0.892,0.884,0.767
+teorica,1,DES_relacional,0.85,0.7,10,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/1n,4+/0-/0n,14,956.0,4.0,1.0,External*Security + Sustainability*Security + Company*Security + Community*Security,Sustainability + Company + Community + External,0.892,0.884,0.767
+teorica,1,DES_relacional,0.85,0.7,20,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/1n,3+/0-/0n,13,938.0,3.0,1.0,External*Security + Sustainability*Security + Company*Security,Sustainability + Company + External,0.892,0.884,0.756
+teorica,1,~DES_relacional,0.75,0.5,5,,,,,,0,,,,,,,,
+teorica,1,~DES_relacional,0.75,0.5,10,,,,,,0,,,,,,,,
+teorica,1,~DES_relacional,0.75,0.5,20,,,,,,0,,,,,,,,
+teorica,1,~DES_relacional,0.75,0.65,5,,,,,,0,,,,,,,,
+teorica,1,~DES_relacional,0.75,0.65,10,,,,,,0,,,,,,,,
+teorica,1,~DES_relacional,0.75,0.65,20,,,,,,0,,,,,,,,
+teorica,1,~DES_relacional,0.75,0.7,5,,,,,,0,,,,,,,,
+teorica,1,~DES_relacional,0.75,0.7,10,,,,,,0,,,,,,,,
+teorica,1,~DES_relacional,0.75,0.7,20,,,,,,0,,,,,,,,
+teorica,1,~DES_relacional,0.8,0.5,5,,,,,,0,,,,,,,,
+teorica,1,~DES_relacional,0.8,0.5,10,,,,,,0,,,,,,,,
+teorica,1,~DES_relacional,0.8,0.5,20,,,,,,0,,,,,,,,
+teorica,1,~DES_relacional,0.8,0.65,5,,,,,,0,,,,,,,,
+teorica,1,~DES_relacional,0.8,0.65,10,,,,,,0,,,,,,,,
+teorica,1,~DES_relacional,0.8,0.65,20,,,,,,0,,,,,,,,
+teorica,1,~DES_relacional,0.8,0.7,5,,,,,,0,,,,,,,,
+teorica,1,~DES_relacional,0.8,0.7,10,,,,,,0,,,,,,,,
+teorica,1,~DES_relacional,0.8,0.7,20,,,,,,0,,,,,,,,
+teorica,1,~DES_relacional,0.85,0.5,5,,,,,,0,,,,,,,,
+teorica,1,~DES_relacional,0.85,0.5,10,,,,,,0,,,,,,,,
+teorica,1,~DES_relacional,0.85,0.5,20,,,,,,0,,,,,,,,
+teorica,1,~DES_relacional,0.85,0.65,5,,,,,,0,,,,,,,,
+teorica,1,~DES_relacional,0.85,0.65,10,,,,,,0,,,,,,,,
+teorica,1,~DES_relacional,0.85,0.65,20,,,,,,0,,,,,,,,
+teorica,1,~DES_relacional,0.85,0.7,5,,,,,,0,,,,,,,,
+teorica,1,~DES_relacional,0.85,0.7,10,,,,,,0,,,,,,,,
+teorica,1,~DES_relacional,0.85,0.7,20,,,,,,0,,,,,,,,
+teorica,1,DES_agencia,0.75,0.5,5,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,17,969.0,1.0,1.0,(tautología),(tautología),0.856,0.846,1.0
+teorica,1,DES_agencia,0.75,0.5,10,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,1+/0-/0n,15,956.0,1.0,1.0,Security,(tautología),0.884,0.873,0.793
+teorica,1,DES_agencia,0.75,0.5,20,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,1+/0-/0n,14,938.0,1.0,1.0,Security,(tautología),0.884,0.873,0.793
+teorica,1,DES_agencia,0.75,0.65,5,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,17,969.0,1.0,1.0,(tautología),(tautología),0.856,0.846,1.0
+teorica,1,DES_agencia,0.75,0.65,10,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,1+/0-/0n,15,956.0,1.0,1.0,Security,(tautología),0.884,0.873,0.793
+teorica,1,DES_agencia,0.75,0.65,20,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,1+/0-/0n,14,938.0,1.0,1.0,Security,(tautología),0.884,0.873,0.793
+teorica,1,DES_agencia,0.75,0.7,5,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,17,969.0,1.0,1.0,(tautología),(tautología),0.856,0.846,1.0
+teorica,1,DES_agencia,0.75,0.7,10,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,1+/0-/0n,15,956.0,1.0,1.0,Security,(tautología),0.884,0.873,0.793
+teorica,1,DES_agencia,0.75,0.7,20,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,1+/0-/0n,14,938.0,1.0,1.0,Security,(tautología),0.884,0.873,0.793
+teorica,1,DES_agencia,0.8,0.5,5,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,17,969.0,1.0,1.0,(tautología),(tautología),0.856,0.846,1.0
+teorica,1,DES_agencia,0.8,0.5,10,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,1+/0-/0n,15,956.0,1.0,1.0,Security,(tautología),0.884,0.873,0.793
+teorica,1,DES_agencia,0.8,0.5,20,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,1+/0-/0n,14,938.0,1.0,1.0,Security,(tautología),0.884,0.873,0.793
+teorica,1,DES_agencia,0.8,0.65,5,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,17,969.0,1.0,1.0,(tautología),(tautología),0.856,0.846,1.0
+teorica,1,DES_agencia,0.8,0.65,10,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,1+/0-/0n,15,956.0,1.0,1.0,Security,(tautología),0.884,0.873,0.793
+teorica,1,DES_agencia,0.8,0.65,20,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,1+/0-/0n,14,938.0,1.0,1.0,Security,(tautología),0.884,0.873,0.793
+teorica,1,DES_agencia,0.8,0.7,5,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,17,969.0,1.0,1.0,(tautología),(tautología),0.856,0.846,1.0
+teorica,1,DES_agencia,0.8,0.7,10,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,1+/0-/0n,15,956.0,1.0,1.0,Security,(tautología),0.884,0.873,0.793
+teorica,1,DES_agencia,0.8,0.7,20,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,1+/0-/0n,14,938.0,1.0,1.0,Security,(tautología),0.884,0.873,0.793
+teorica,1,DES_agencia,0.85,0.5,5,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,17,969.0,1.0,1.0,(tautología),(tautología),0.856,0.846,1.0
+teorica,1,DES_agencia,0.85,0.5,10,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,1+/0-/0n,15,956.0,1.0,1.0,Security,(tautología),0.884,0.873,0.793
+teorica,1,DES_agencia,0.85,0.5,20,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,1+/0-/0n,14,938.0,1.0,1.0,Security,(tautología),0.884,0.873,0.793
+teorica,1,DES_agencia,0.85,0.65,5,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,17,969.0,1.0,1.0,(tautología),(tautología),0.856,0.846,1.0
+teorica,1,DES_agencia,0.85,0.65,10,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,1+/0-/0n,15,956.0,1.0,1.0,Security,(tautología),0.884,0.873,0.793
+teorica,1,DES_agencia,0.85,0.65,20,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,1+/0-/0n,14,938.0,1.0,1.0,Security,(tautología),0.884,0.873,0.793
+teorica,1,DES_agencia,0.85,0.7,5,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,17,969.0,1.0,1.0,(tautología),(tautología),0.856,0.846,1.0
+teorica,1,DES_agencia,0.85,0.7,10,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,1+/0-/0n,15,956.0,1.0,1.0,Security,(tautología),0.884,0.873,0.793
+teorica,1,DES_agencia,0.85,0.7,20,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,1+/0-/0n,14,938.0,1.0,1.0,Security,(tautología),0.884,0.873,0.793
+teorica,1,~DES_agencia,0.75,0.5,5,,,,,,0,,,,,,,,
+teorica,1,~DES_agencia,0.75,0.5,10,,,,,,0,,,,,,,,
+teorica,1,~DES_agencia,0.75,0.5,20,,,,,,0,,,,,,,,
+teorica,1,~DES_agencia,0.75,0.65,5,,,,,,0,,,,,,,,
+teorica,1,~DES_agencia,0.75,0.65,10,,,,,,0,,,,,,,,
+teorica,1,~DES_agencia,0.75,0.65,20,,,,,,0,,,,,,,,
+teorica,1,~DES_agencia,0.75,0.7,5,,,,,,0,,,,,,,,
+teorica,1,~DES_agencia,0.75,0.7,10,,,,,,0,,,,,,,,
+teorica,1,~DES_agencia,0.75,0.7,20,,,,,,0,,,,,,,,
+teorica,1,~DES_agencia,0.8,0.5,5,,,,,,0,,,,,,,,
+teorica,1,~DES_agencia,0.8,0.5,10,,,,,,0,,,,,,,,
+teorica,1,~DES_agencia,0.8,0.5,20,,,,,,0,,,,,,,,
+teorica,1,~DES_agencia,0.8,0.65,5,,,,,,0,,,,,,,,
+teorica,1,~DES_agencia,0.8,0.65,10,,,,,,0,,,,,,,,
+teorica,1,~DES_agencia,0.8,0.65,20,,,,,,0,,,,,,,,
+teorica,1,~DES_agencia,0.8,0.7,5,,,,,,0,,,,,,,,
+teorica,1,~DES_agencia,0.8,0.7,10,,,,,,0,,,,,,,,
+teorica,1,~DES_agencia,0.8,0.7,20,,,,,,0,,,,,,,,
+teorica,1,~DES_agencia,0.85,0.5,5,,,,,,0,,,,,,,,
+teorica,1,~DES_agencia,0.85,0.5,10,,,,,,0,,,,,,,,
+teorica,1,~DES_agencia,0.85,0.5,20,,,,,,0,,,,,,,,
+teorica,1,~DES_agencia,0.85,0.65,5,,,,,,0,,,,,,,,
+teorica,1,~DES_agencia,0.85,0.65,10,,,,,,0,,,,,,,,
+teorica,1,~DES_agencia,0.85,0.65,20,,,,,,0,,,,,,,,
+teorica,1,~DES_agencia,0.85,0.7,5,,,,,,0,,,,,,,,
+teorica,1,~DES_agencia,0.85,0.7,10,,,,,,0,,,,,,,,
+teorica,1,~DES_agencia,0.85,0.7,20,,,,,,0,,,,,,,,
+teorica,-1,DES_estructural,0.75,0.5,5,3+/0-/3n,2+/0-/2n,2+/0-/2n,3+/0-/3n,3+/0-/3n,16,974.0,5.0,1.0,Community*Sustainability + Company*Sustainability + Company*Community*Security + External*Sustainability*Security + Company*External*Security,Community*Sustainability + Company*Sustainability + Company*Community*Security + External*Sustainability*Security + Company*External*Security,0.753,0.704,0.823
+teorica,-1,DES_estructural,0.75,0.5,10,3+/0-/2n,2+/0-/1n,1+/0-/1n,2+/0-/2n,2+/0-/1n,14,930.0,4.0,1.0,Community*Sustainability + Company*Sustainability + Company*Community*Security + Company*External*Security,Community*Sustainability + Company*Sustainability + Community*~External + Company*External*Security,0.759,0.711,0.814
+teorica,-1,DES_estructural,0.75,0.5,20,2+/0-/1n,2+/0-/2n,0+/0-/0n,2+/0-/1n,2+/0-/0n,11,827.0,3.0,1.0,Community*Sustainability*Security + Company*Community*Security + Company*Sustainability,Community + Company*Sustainability,0.769,0.721,0.784
+teorica,-1,DES_estructural,0.75,0.65,5,3+/0-/2n,3+/0-/3n,1+/0-/1n,3+/0-/3n,3+/0-/3n,9,974.0,4.0,1.0,Company*Sustainability*Security + Community*Sustainability*Security + Company*Community*External*Security + Company*Community*Sustainability,Community*Sustainability*Security + Community*External*Security + Company*Community*Sustainability + Company*Sustainability*Security,0.786,0.739,0.742
+teorica,-1,DES_estructural,0.75,0.65,10,3+/0-/2n,3+/0-/2n,1+/0-/1n,3+/0-/2n,3+/0-/2n,9,930.0,4.0,1.0,Company*Sustainability*Security + Community*Sustainability*Security + Company*Community*External*Security + Company*Community*Sustainability,~Company*Community*Security + Community*External*Security + Company*Sustainability*Security + Company*Community*Sustainability,0.786,0.739,0.742
+teorica,-1,DES_estructural,0.75,0.65,20,3+/0-/0n,3+/0-/2n,2+/0-/1n,3+/0-/2n,3+/0-/1n,8,827.0,4.0,1.0,Company*Community*External*Sustainability + Community*Sustainability*Security + Company*Sustainability*Security + Company*Community*External*Security,Community*Sustainability + Company*~Community*Security + External*Security,0.79,0.742,0.731
+teorica,-1,DES_estructural,0.75,0.7,5,0+/0-/0n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/1n,4,974.0,1.0,1.0,Community*Sustainability*Security,Community*Sustainability*Security,0.84,0.797,0.544
+teorica,-1,DES_estructural,0.75,0.7,10,0+/0-/0n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/1n,4,930.0,1.0,1.0,Community*Sustainability*Security,Community*Sustainability*Security,0.84,0.797,0.544
+teorica,-1,DES_estructural,0.75,0.7,20,0+/0-/0n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/1n,4,827.0,1.0,1.0,Community*Sustainability*Security,Community*Sustainability*Security,0.84,0.797,0.544
+teorica,-1,DES_estructural,0.8,0.5,5,2+/0-/2n,1+/0-/1n,2+/0-/2n,2+/0-/2n,1+/0-/1n,12,974.0,3.0,1.0,Company*External*Sustainability + Community*Sustainability + Company*External*Security,Company*External*Sustainability + Community*Sustainability + Company*External*Security,0.787,0.739,0.699
+teorica,-1,DES_estructural,0.8,0.5,10,2+/0-/2n,1+/0-/1n,2+/0-/2n,2+/0-/2n,1+/0-/1n,11,930.0,3.0,1.0,Company*External*Sustainability + Community*Sustainability + Company*External*Security,Company*External*Sustainability + Community*Sustainability + Company*External*Security,0.787,0.739,0.699
+teorica,-1,DES_estructural,0.8,0.5,20,2+/0-/2n,2+/0-/1n,2+/0-/2n,2+/0-/1n,2+/0-/0n,8,827.0,3.0,1.0,Company*External*Sustainability + Community*Sustainability*Security + Company*Community*External*Security,Community*Sustainability + Company*External,0.806,0.758,0.658
+teorica,-1,DES_estructural,0.8,0.65,5,3+/0-/2n,3+/0-/3n,2+/0-/2n,3+/0-/3n,3+/0-/3n,8,974.0,4.0,1.0,Community*Sustainability*Security + Company*External*Sustainability*Security + Company*Community*External*Security + Company*Community*Sustainability,Community*Sustainability*Security + Community*External*Security + Company*Community*Sustainability + Company*External*Sustainability*Security,0.805,0.758,0.663
+teorica,-1,DES_estructural,0.8,0.65,10,3+/0-/1n,3+/0-/2n,2+/0-/2n,3+/0-/2n,3+/0-/2n,8,930.0,4.0,1.0,Community*Sustainability*Security + Company*External*Sustainability*Security + Company*Community*External*Security + Company*Community*Sustainability,~Company*Community*Security + Community*External*Security + Company*Community*Sustainability + External*Sustainability*Security,0.805,0.758,0.663
+teorica,-1,DES_estructural,0.8,0.65,20,3+/0-/0n,3+/0-/2n,3+/0-/2n,3+/0-/2n,3+/0-/2n,7,827.0,4.0,1.0,Company*Community*External*Sustainability + Community*Sustainability*Security + Company*External*Sustainability*Security + Company*Community*External*Security,Community*Sustainability + External*Security,0.81,0.762,0.653
+teorica,-1,DES_estructural,0.8,0.7,5,0+/0-/0n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/1n,4,974.0,1.0,1.0,Community*Sustainability*Security,Community*Sustainability*Security,0.84,0.797,0.544
+teorica,-1,DES_estructural,0.8,0.7,10,0+/0-/0n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/1n,4,930.0,1.0,1.0,Community*Sustainability*Security,Community*Sustainability*Security,0.84,0.797,0.544
+teorica,-1,DES_estructural,0.8,0.7,20,0+/0-/0n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/1n,4,827.0,1.0,1.0,Community*Sustainability*Security,Community*Sustainability*Security,0.84,0.797,0.544
+teorica,-1,DES_estructural,0.85,0.5,5,1+/0-/1n,2+/0-/2n,1+/0-/1n,2+/0-/2n,2+/0-/2n,3,974.0,2.0,1.0,Community*External*Sustainability*Security + Company*Community*Sustainability*Security,Community*External*Sustainability*Security + Company*Community*Sustainability*Security,0.857,0.815,0.496
+teorica,-1,DES_estructural,0.85,0.5,10,1+/0-/1n,2+/0-/1n,1+/0-/0n,2+/0-/1n,2+/0-/1n,3,930.0,2.0,1.0,Community*External*Sustainability*Security + Company*Community*Sustainability*Security,Company*Community*Sustainability*Security + ~Company*Community*External,0.857,0.815,0.496
+teorica,-1,DES_estructural,0.85,0.5,20,1+/0-/1n,2+/0-/1n,1+/0-/0n,2+/0-/1n,2+/0-/1n,3,827.0,2.0,1.0,Community*External*Sustainability*Security + Company*Community*Sustainability*Security,Company*Community*Sustainability*Security + ~Company*Community*External,0.857,0.815,0.496
+teorica,-1,DES_estructural,0.85,0.65,5,1+/0-/1n,2+/0-/2n,1+/0-/1n,2+/0-/2n,2+/0-/2n,3,974.0,2.0,1.0,Community*External*Sustainability*Security + Company*Community*Sustainability*Security,Community*External*Sustainability*Security + Company*Community*Sustainability*Security,0.857,0.815,0.496
+teorica,-1,DES_estructural,0.85,0.65,10,1+/0-/1n,2+/0-/1n,1+/0-/0n,2+/0-/1n,2+/0-/1n,3,930.0,2.0,1.0,Community*External*Sustainability*Security + Company*Community*Sustainability*Security,Company*Community*Sustainability*Security + ~Company*Community*External,0.857,0.815,0.496
+teorica,-1,DES_estructural,0.85,0.65,20,1+/0-/1n,2+/0-/1n,1+/0-/0n,2+/0-/1n,2+/0-/1n,3,827.0,2.0,1.0,Community*External*Sustainability*Security + Company*Community*Sustainability*Security,Company*Community*Sustainability*Security + ~Company*Community*External,0.857,0.815,0.496
+teorica,-1,DES_estructural,0.85,0.7,5,1+/0-/1n,2+/0-/2n,1+/0-/1n,2+/0-/2n,2+/0-/2n,3,974.0,2.0,1.0,Community*External*Sustainability*Security + Company*Community*Sustainability*Security,Community*External*Sustainability*Security + Company*Community*Sustainability*Security,0.857,0.815,0.496
+teorica,-1,DES_estructural,0.85,0.7,10,1+/0-/1n,2+/0-/1n,1+/0-/0n,2+/0-/1n,2+/0-/1n,3,930.0,2.0,1.0,Community*External*Sustainability*Security + Company*Community*Sustainability*Security,Company*Community*Sustainability*Security + ~Company*Community*External,0.857,0.815,0.496
+teorica,-1,DES_estructural,0.85,0.7,20,1+/0-/1n,2+/0-/1n,1+/0-/0n,2+/0-/1n,2+/0-/1n,3,827.0,2.0,1.0,Community*External*Sustainability*Security + Company*Community*Sustainability*Security,Company*Community*Sustainability*Security + ~Company*Community*External,0.857,0.815,0.496
+teorica,-1,~DES_estructural,0.75,0.5,5,0+/3-/3n,0+/2-/1n,0+/1-/0n,0+/3-/3n,0+/2-/2n,12,974.0,4.0,1.0,~Sustainability*~Security + ~Company*~Community*~Sustainability + ~Company*~External*~Sustainability + ~Company*~Community*~Security,~Sustainability*~Security + ~Company*~Sustainability + ~Company*~Community*~Security,0.731,0.621,0.432
+teorica,-1,~DES_estructural,0.75,0.5,10,0+/2-/2n,0+/2-/1n,0+/0-/0n,0+/2-/2n,0+/2-/2n,9,930.0,3.0,1.0,~Sustainability*~Security + ~Company*~Community*~Sustainability + ~Company*~Community*~Security,~Sustainability*~Security + ~Company*~Sustainability + ~Company*~Community*~Security,0.745,0.636,0.42
+teorica,-1,~DES_estructural,0.75,0.5,20,0+/2-/1n,0+/3-/2n,0+/2-/0n,0+/2-/2n,0+/2-/1n,5,827.0,3.0,1.0,~Community*~External*~Sustainability*~Security + ~Company*~Community*~External*~Sustainability + ~Company*~Community*~Security,~Company*~Security + ~Community*~Sustainability,0.743,0.625,0.367
+teorica,-1,~DES_estructural,0.75,0.65,5,0+/2-/1n,0+/1-/1n,0+/2-/1n,0+/2-/1n,0+/1-/0n,3,974.0,2.0,1.0,~Company*~Community*~External*~Sustainability + ~Company*~External*~Sustainability*~Security,~Company*Community*~Sustainability*~Security + ~Company*~Community*~External*~Sustainability,0.792,0.687,0.265
+teorica,-1,~DES_estructural,0.75,0.65,10,0+/1-/1n,0+/1-/0n,0+/1-/1n,0+/1-/1n,0+/0-/0n,2,930.0,1.0,1.0,~Company*~Community*~External*~Sustainability,~Company*~External*~Sustainability,0.792,0.683,0.253
+teorica,-1,~DES_estructural,0.75,0.65,20,0+/1-/1n,0+/1-/0n,0+/1-/0n,0+/1-/1n,0+/0-/0n,2,827.0,1.0,1.0,~Company*~Community*~External*~Sustainability,~Company*~Sustainability,0.792,0.683,0.253
+teorica,-1,~DES_estructural,0.75,0.7,5,0+/1-/1n,0+/1-/1n,0+/1-/1n,0+/1-/1n,0+/1-/1n,1,974.0,1.0,1.0,~Company*~Community*~External*~Sustainability*~Security,~Company*~Community*~External*~Sustainability*~Security,0.855,0.744,0.166
+teorica,-1,~DES_estructural,0.75,0.7,10,0+/1-/1n,0+/1-/0n,0+/1-/1n,0+/1-/1n,0+/1-/1n,1,930.0,1.0,1.0,~Company*~Community*~External*~Sustainability*~Security,~Company*~External*~Sustainability*~Security,0.855,0.744,0.166
+teorica,-1,~DES_estructural,0.75,0.7,20,0+/1-/1n,0+/1-/0n,0+/1-/0n,0+/1-/1n,0+/1-/1n,1,827.0,1.0,1.0,~Company*~Community*~External*~Sustainability*~Security,~Company*~Sustainability*~Security,0.855,0.744,0.166
+teorica,-1,~DES_estructural,0.8,0.5,5,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/1-/1n,0+/1-/1n,7,974.0,1.0,1.0,~Sustainability*~Security,~Sustainability*~Security,0.797,0.68,0.236
+teorica,-1,~DES_estructural,0.8,0.5,10,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/1-/1n,0+/1-/1n,5,930.0,1.0,1.0,~Sustainability*~Security,~Sustainability*~Security,0.797,0.68,0.236
+teorica,-1,~DES_estructural,0.8,0.5,20,0+/0-/0n,0+/1-/0n,0+/1-/0n,0+/1-/1n,0+/1-/1n,2,827.0,1.0,1.0,~Community*~External*~Sustainability*~Security,~Sustainability*~Security,0.813,0.684,0.191
+teorica,-1,~DES_estructural,0.8,0.65,5,0+/1-/1n,0+/0-/0n,0+/1-/1n,0+/1-/1n,0+/1-/1n,2,974.0,1.0,1.0,~Company*~External*~Sustainability*~Security,~Company*~External*~Sustainability*~Security,0.851,0.746,0.178
+teorica,-1,~DES_estructural,0.8,0.65,10,0+/1-/1n,0+/1-/0n,0+/1-/1n,0+/1-/1n,0+/1-/1n,1,930.0,1.0,1.0,~Company*~Community*~External*~Sustainability*~Security,~Company*~External*~Sustainability*~Security,0.855,0.744,0.166
+teorica,-1,~DES_estructural,0.8,0.65,20,0+/1-/1n,0+/1-/0n,0+/1-/0n,0+/1-/1n,0+/1-/1n,1,827.0,1.0,1.0,~Company*~Community*~External*~Sustainability*~Security,~Company*~Sustainability*~Security,0.855,0.744,0.166
+teorica,-1,~DES_estructural,0.8,0.7,5,0+/1-/1n,0+/1-/1n,0+/1-/1n,0+/1-/1n,0+/1-/1n,1,974.0,1.0,1.0,~Company*~Community*~External*~Sustainability*~Security,~Company*~Community*~External*~Sustainability*~Security,0.855,0.744,0.166
+teorica,-1,~DES_estructural,0.8,0.7,10,0+/1-/1n,0+/1-/0n,0+/1-/1n,0+/1-/1n,0+/1-/1n,1,930.0,1.0,1.0,~Company*~Community*~External*~Sustainability*~Security,~Company*~External*~Sustainability*~Security,0.855,0.744,0.166
+teorica,-1,~DES_estructural,0.8,0.7,20,0+/1-/1n,0+/1-/0n,0+/1-/0n,0+/1-/1n,0+/1-/1n,1,827.0,1.0,1.0,~Company*~Community*~External*~Sustainability*~Security,~Company*~Sustainability*~Security,0.855,0.744,0.166
+teorica,-1,~DES_estructural,0.85,0.5,5,0+/2-/2n,0+/1-/0n,0+/1-/0n,0+/2-/2n,0+/2-/2n,3,974.0,2.0,1.0,~Company*~Community*~Sustainability*~Security + ~Company*~External*~Sustainability*~Security,~Company*~Sustainability*~Security,0.847,0.746,0.184
+teorica,-1,~DES_estructural,0.85,0.5,10,0+/1-/1n,0+/1-/0n,0+/0-/0n,0+/1-/1n,0+/1-/1n,2,930.0,1.0,1.0,~Company*~Community*~Sustainability*~Security,~Company*~Sustainability*~Security,0.85,0.744,0.172
+teorica,-1,~DES_estructural,0.85,0.5,20,0+/1-/1n,0+/1-/0n,0+/1-/0n,0+/1-/1n,0+/1-/1n,1,827.0,1.0,1.0,~Company*~Community*~External*~Sustainability*~Security,~Company*~Sustainability*~Security,0.855,0.744,0.166
+teorica,-1,~DES_estructural,0.85,0.65,5,0+/1-/1n,0+/0-/0n,0+/1-/1n,0+/1-/1n,0+/1-/1n,2,974.0,1.0,1.0,~Company*~External*~Sustainability*~Security,~Company*~External*~Sustainability*~Security,0.851,0.746,0.178
+teorica,-1,~DES_estructural,0.85,0.65,10,0+/1-/1n,0+/1-/0n,0+/1-/1n,0+/1-/1n,0+/1-/1n,1,930.0,1.0,1.0,~Company*~Community*~External*~Sustainability*~Security,~Company*~External*~Sustainability*~Security,0.855,0.744,0.166
+teorica,-1,~DES_estructural,0.85,0.65,20,0+/1-/1n,0+/1-/0n,0+/1-/0n,0+/1-/1n,0+/1-/1n,1,827.0,1.0,1.0,~Company*~Community*~External*~Sustainability*~Security,~Company*~Sustainability*~Security,0.855,0.744,0.166
+teorica,-1,~DES_estructural,0.85,0.7,5,0+/1-/1n,0+/1-/1n,0+/1-/1n,0+/1-/1n,0+/1-/1n,1,974.0,1.0,1.0,~Company*~Community*~External*~Sustainability*~Security,~Company*~Community*~External*~Sustainability*~Security,0.855,0.744,0.166
+teorica,-1,~DES_estructural,0.85,0.7,10,0+/1-/1n,0+/1-/0n,0+/1-/1n,0+/1-/1n,0+/1-/1n,1,930.0,1.0,1.0,~Company*~Community*~External*~Sustainability*~Security,~Company*~External*~Sustainability*~Security,0.855,0.744,0.166
+teorica,-1,~DES_estructural,0.85,0.7,20,0+/1-/1n,0+/1-/0n,0+/1-/0n,0+/1-/1n,0+/1-/1n,1,827.0,1.0,1.0,~Company*~Community*~External*~Sustainability*~Security,~Company*~Sustainability*~Security,0.855,0.744,0.166
+teorica,-1,DES_regulacion,0.75,0.5,5,1+/1-/2n,3+/0-/3n,1+/2-/3n,2+/0-/2n,2+/0-/2n,12,974.0,4.0,1.0,~Company*Community*~External + Company*Community*Sustainability + Community*~External*Security + External*Sustainability*Security,Company*Community*Sustainability + External*Sustainability*Security + ~Company*Community*~External + Community*~External*Security,0.787,0.746,0.666
+teorica,-1,DES_regulacion,0.75,0.5,10,2+/0-/0n,2+/0-/2n,1+/1-/2n,2+/0-/2n,2+/0-/1n,9,930.0,3.0,1.0,Community*Sustainability + Company*External*Sustainability*Security + Company*Community*~External*Security,Community*~External + Community*Sustainability + External*Sustainability*Security,0.783,0.743,0.663
+teorica,-1,DES_regulacion,0.75,0.5,20,3+/0-/0n,3+/0-/3n,2+/1-/1n,3+/0-/2n,3+/0-/0n,7,827.0,4.0,1.0,Company*Community*External*Sustainability + Community*Sustainability*Security + Company*External*Sustainability*Security + Company*Community*~External*Security,Community*Sustainability + ~Community*External*Security + Community*~External,0.799,0.759,0.642
+teorica,-1,DES_regulacion,0.75,0.65,5,1+/0-/1n,1+/0-/1n,1+/0-/1n,2+/0-/2n,2+/0-/2n,5,974.0,2.0,1.0,Community*Sustainability*Security + Company*External*Sustainability*Security,Company*External*Sustainability*Security + Community*Sustainability*Security,0.812,0.772,0.576
+teorica,-1,DES_regulacion,0.75,0.65,10,1+/0-/0n,1+/0-/1n,1+/0-/1n,2+/0-/2n,2+/0-/2n,5,930.0,2.0,1.0,Community*Sustainability*Security + Company*External*Sustainability*Security,Community*Sustainability*Security + External*Sustainability*Security,0.812,0.772,0.576
+teorica,-1,DES_regulacion,0.75,0.65,20,1+/0-/0n,1+/0-/1n,1+/0-/0n,2+/0-/1n,2+/0-/1n,5,827.0,2.0,1.0,Community*Sustainability*Security + Company*External*Sustainability*Security,Community*Sustainability*Security + ~Community*External*Security,0.812,0.772,0.576
+teorica,-1,DES_regulacion,0.75,0.7,5,0+/0-/0n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/1n,4,974.0,1.0,1.0,Community*Sustainability*Security,Community*Sustainability*Security,0.827,0.789,0.529
+teorica,-1,DES_regulacion,0.75,0.7,10,0+/0-/0n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/1n,4,930.0,1.0,1.0,Community*Sustainability*Security,Community*Sustainability*Security,0.827,0.789,0.529
+teorica,-1,DES_regulacion,0.75,0.7,20,0+/0-/0n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/1n,4,827.0,1.0,1.0,Community*Sustainability*Security,Community*Sustainability*Security,0.827,0.789,0.529
+teorica,-1,DES_regulacion,0.8,0.5,5,0+/1-/1n,1+/0-/1n,1+/0-/1n,2+/0-/2n,2+/0-/2n,5,974.0,2.0,1.0,Community*Sustainability*Security + ~Company*External*Sustainability*Security,~Company*External*Sustainability*Security + Community*Sustainability*Security,0.82,0.78,0.553
+teorica,-1,DES_regulacion,0.8,0.5,10,0+/0-/0n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/1n,4,930.0,1.0,1.0,Community*Sustainability*Security,Community*Sustainability*Security,0.827,0.789,0.529
+teorica,-1,DES_regulacion,0.8,0.5,20,0+/0-/0n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/1n,4,827.0,1.0,1.0,Community*Sustainability*Security,Community*Sustainability*Security,0.827,0.789,0.529
+teorica,-1,DES_regulacion,0.8,0.65,5,0+/0-/0n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/1n,4,974.0,1.0,1.0,Community*Sustainability*Security,Community*Sustainability*Security,0.827,0.789,0.529
+teorica,-1,DES_regulacion,0.8,0.65,10,0+/0-/0n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/1n,4,930.0,1.0,1.0,Community*Sustainability*Security,Community*Sustainability*Security,0.827,0.789,0.529
+teorica,-1,DES_regulacion,0.8,0.65,20,0+/0-/0n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/1n,4,827.0,1.0,1.0,Community*Sustainability*Security,Community*Sustainability*Security,0.827,0.789,0.529
+teorica,-1,DES_regulacion,0.8,0.7,5,0+/0-/0n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/1n,4,974.0,1.0,1.0,Community*Sustainability*Security,Community*Sustainability*Security,0.827,0.789,0.529
+teorica,-1,DES_regulacion,0.8,0.7,10,0+/0-/0n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/1n,4,930.0,1.0,1.0,Community*Sustainability*Security,Community*Sustainability*Security,0.827,0.789,0.529
+teorica,-1,DES_regulacion,0.8,0.7,20,0+/0-/0n,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/1n,4,827.0,1.0,1.0,Community*Sustainability*Security,Community*Sustainability*Security,0.827,0.789,0.529
+teorica,-1,DES_regulacion,0.85,0.5,5,,,,,,0,,,,,,,,
+teorica,-1,DES_regulacion,0.85,0.5,10,,,,,,0,,,,,,,,
+teorica,-1,DES_regulacion,0.85,0.5,20,,,,,,0,,,,,,,,
+teorica,-1,DES_regulacion,0.85,0.65,5,,,,,,0,,,,,,,,
+teorica,-1,DES_regulacion,0.85,0.65,10,,,,,,0,,,,,,,,
+teorica,-1,DES_regulacion,0.85,0.65,20,,,,,,0,,,,,,,,
+teorica,-1,DES_regulacion,0.85,0.7,5,,,,,,0,,,,,,,,
+teorica,-1,DES_regulacion,0.85,0.7,10,,,,,,0,,,,,,,,
+teorica,-1,DES_regulacion,0.85,0.7,20,,,,,,0,,,,,,,,
+teorica,-1,~DES_regulacion,0.75,0.5,5,1+/2-/3n,0+/2-/1n,2+/0-/2n,0+/2-/2n,0+/3-/3n,12,974.0,4.0,1.0,Company*~Sustainability*~Security + ~Company*External*~Security + ~Company*~Community*External*~Sustainability + ~Community*~Security,~Company*External*~Sustainability + Company*~Sustainability*~Security + ~Company*External*~Security + ~Community*~Security,0.716,0.579,0.397
+teorica,-1,~DES_regulacion,0.75,0.5,10,0+/1-/1n,0+/2-/1n,1+/0-/1n,0+/2-/2n,0+/2-/2n,10,930.0,3.0,1.0,~Company*~Community*External*~Sustainability + ~Community*~Security + ~Sustainability*~Security,~Sustainability*~Security + ~Company*External*~Sustainability + ~Community*~Security,0.716,0.582,0.383
+teorica,-1,~DES_regulacion,0.75,0.5,20,0+/0-/0n,0+/1-/1n,0+/0-/0n,0+/0-/0n,0+/1-/1n,6,827.0,1.0,1.0,~Community*~Security,~Community*~Security,0.737,0.605,0.323
+teorica,-1,~DES_regulacion,0.75,0.65,5,0+/1-/1n,0+/2-/2n,1+/1-/2n,1+/1-/2n,0+/2-/2n,3,974.0,2.0,1.0,~Community*External*~Sustainability*~Security + ~Company*~Community*~External*Sustainability*~Security,~Community*External*~Sustainability*~Security + ~Company*~Community*~External*Sustainability*~Security,0.819,0.687,0.229
+teorica,-1,~DES_regulacion,0.75,0.65,10,0+/1-/1n,0+/2-/2n,1+/1-/2n,1+/1-/2n,0+/2-/2n,3,930.0,2.0,1.0,~Community*External*~Sustainability*~Security + ~Company*~Community*~External*Sustainability*~Security,~Company*~Community*~External*Sustainability*~Security + ~Community*External*~Sustainability*~Security,0.819,0.687,0.229
+teorica,-1,~DES_regulacion,0.75,0.65,20,0+/1-/1n,0+/1-/0n,0+/1-/1n,1+/0-/1n,0+/1-/1n,1,827.0,1.0,1.0,~Company*~Community*~External*Sustainability*~Security,~Company*~External*Sustainability*~Security,0.828,0.672,0.18
+teorica,-1,~DES_regulacion,0.75,0.7,5,0+/1-/1n,0+/1-/0n,1+/0-/1n,0+/1-/1n,0+/1-/1n,1,974.0,1.0,1.0,~Company*~Community*External*~Sustainability*~Security,~Company*External*~Sustainability*~Security,0.885,0.725,0.104
+teorica,-1,~DES_regulacion,0.75,0.7,10,0+/1-/1n,0+/1-/0n,1+/0-/1n,0+/1-/1n,0+/1-/1n,1,930.0,1.0,1.0,~Company*~Community*External*~Sustainability*~Security,~Company*External*~Sustainability*~Security,0.885,0.725,0.104
+teorica,-1,~DES_regulacion,0.75,0.7,20,,,,,,0,,,,,,,,
+teorica,-1,~DES_regulacion,0.8,0.5,5,1+/2-/2n,0+/2-/1n,1+/0-/0n,1+/1-/2n,0+/3-/2n,7,974.0,3.0,2.0,~Company*~Community*External*~Security + ~Company*~Community*Sustainability*~Security + Company*~Sustainability*~Security,External*~Sustainability*~Security + ~Company*~Community*Sustainability*~Security + Company*~Sustainability*~Security,0.771,0.641,0.289
+teorica,-1,~DES_regulacion,0.8,0.5,10,1+/1-/2n,0+/1-/1n,1+/0-/1n,1+/2-/3n,0+/3-/3n,6,930.0,3.0,1.0,External*~Sustainability*~Security + ~Company*~Community*Sustainability*~Security + Company*~Sustainability*~Security,External*~Sustainability*~Security + ~Company*~Community*Sustainability*~Security + Company*~Sustainability*~Security,0.767,0.637,0.291
+teorica,-1,~DES_regulacion,0.8,0.5,20,1+/1-/2n,0+/2-/0n,0+/1-/0n,1+/1-/2n,0+/2-/2n,3,827.0,2.0,1.0,Company*~Community*~External*~Sustainability*~Security + ~Company*~Community*Sustainability*~Security,Company*~Sustainability*~Security + ~Company*Sustainability*~Security,0.779,0.635,0.247
+teorica,-1,~DES_regulacion,0.8,0.65,5,0+/1-/1n,0+/2-/2n,1+/1-/2n,1+/1-/2n,0+/2-/2n,3,974.0,2.0,1.0,~Community*External*~Sustainability*~Security + ~Company*~Community*~External*Sustainability*~Security,~Community*External*~Sustainability*~Security + ~Company*~Community*~External*Sustainability*~Security,0.819,0.687,0.229
+teorica,-1,~DES_regulacion,0.8,0.65,10,0+/1-/1n,0+/2-/2n,1+/1-/2n,1+/1-/2n,0+/2-/2n,3,930.0,2.0,1.0,~Community*External*~Sustainability*~Security + ~Company*~Community*~External*Sustainability*~Security,~Company*~Community*~External*Sustainability*~Security + ~Community*External*~Sustainability*~Security,0.819,0.687,0.229
+teorica,-1,~DES_regulacion,0.8,0.65,20,0+/1-/1n,0+/1-/0n,0+/1-/1n,1+/0-/1n,0+/1-/1n,1,827.0,1.0,1.0,~Company*~Community*~External*Sustainability*~Security,~Company*~External*Sustainability*~Security,0.828,0.672,0.18
+teorica,-1,~DES_regulacion,0.8,0.7,5,0+/1-/1n,0+/1-/0n,1+/0-/1n,0+/1-/1n,0+/1-/1n,1,974.0,1.0,1.0,~Company*~Community*External*~Sustainability*~Security,~Company*External*~Sustainability*~Security,0.885,0.725,0.104
+teorica,-1,~DES_regulacion,0.8,0.7,10,0+/1-/1n,0+/1-/0n,1+/0-/1n,0+/1-/1n,0+/1-/1n,1,930.0,1.0,1.0,~Company*~Community*External*~Sustainability*~Security,~Company*External*~Sustainability*~Security,0.885,0.725,0.104
+teorica,-1,~DES_regulacion,0.8,0.7,20,,,,,,0,,,,,,,,
+teorica,-1,~DES_regulacion,0.85,0.5,5,0+/0-/0n,0+/1-/1n,1+/0-/1n,0+/1-/1n,0+/1-/1n,2,974.0,1.0,1.0,~Community*External*~Sustainability*~Security,~Community*External*~Sustainability*~Security,0.851,0.69,0.122
+teorica,-1,~DES_regulacion,0.85,0.5,10,0+/0-/0n,0+/1-/1n,1+/0-/1n,0+/1-/1n,0+/1-/1n,2,930.0,1.0,1.0,~Community*External*~Sustainability*~Security,~Community*External*~Sustainability*~Security,0.851,0.69,0.122
+teorica,-1,~DES_regulacion,0.85,0.5,20,,,,,,0,,,,,,,,
+teorica,-1,~DES_regulacion,0.85,0.65,5,0+/0-/0n,0+/1-/1n,1+/0-/1n,0+/1-/1n,0+/1-/1n,2,974.0,1.0,1.0,~Community*External*~Sustainability*~Security,~Community*External*~Sustainability*~Security,0.851,0.69,0.122
+teorica,-1,~DES_regulacion,0.85,0.65,10,0+/0-/0n,0+/1-/1n,1+/0-/1n,0+/1-/1n,0+/1-/1n,2,930.0,1.0,1.0,~Community*External*~Sustainability*~Security,~Community*External*~Sustainability*~Security,0.851,0.69,0.122
+teorica,-1,~DES_regulacion,0.85,0.65,20,,,,,,0,,,,,,,,
+teorica,-1,~DES_regulacion,0.85,0.7,5,0+/1-/1n,0+/1-/0n,1+/0-/1n,0+/1-/1n,0+/1-/1n,1,974.0,1.0,1.0,~Company*~Community*External*~Sustainability*~Security,~Company*External*~Sustainability*~Security,0.885,0.725,0.104
+teorica,-1,~DES_regulacion,0.85,0.7,10,0+/1-/1n,0+/1-/0n,1+/0-/1n,0+/1-/1n,0+/1-/1n,1,930.0,1.0,1.0,~Company*~Community*External*~Sustainability*~Security,~Company*External*~Sustainability*~Security,0.885,0.725,0.104
+teorica,-1,~DES_regulacion,0.85,0.7,20,,,,,,0,,,,,,,,
+teorica,-1,DES_relacional,0.75,0.5,5,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,30,974.0,1.0,1.0,(tautología),(tautología),0.836,0.827,1.0
+teorica,-1,DES_relacional,0.75,0.5,10,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,25,930.0,1.0,1.0,(tautología),(tautología),0.836,0.827,1.0
+teorica,-1,DES_relacional,0.75,0.5,20,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,17,827.0,1.0,1.0,(tautología),(tautología),0.836,0.827,1.0
+teorica,-1,DES_relacional,0.75,0.65,5,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,30,974.0,1.0,1.0,(tautología),(tautología),0.836,0.827,1.0
+teorica,-1,DES_relacional,0.75,0.65,10,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,25,930.0,1.0,1.0,(tautología),(tautología),0.836,0.827,1.0
+teorica,-1,DES_relacional,0.75,0.65,20,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,17,827.0,1.0,1.0,(tautología),(tautología),0.836,0.827,1.0
+teorica,-1,DES_relacional,0.75,0.7,5,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,30,974.0,1.0,1.0,(tautología),(tautología),0.836,0.827,1.0
+teorica,-1,DES_relacional,0.75,0.7,10,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,25,930.0,1.0,1.0,(tautología),(tautología),0.836,0.827,1.0
+teorica,-1,DES_relacional,0.75,0.7,20,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,17,827.0,1.0,1.0,(tautología),(tautología),0.836,0.827,1.0
+teorica,-1,DES_relacional,0.8,0.5,5,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,30,974.0,1.0,1.0,(tautología),(tautología),0.836,0.827,1.0
+teorica,-1,DES_relacional,0.8,0.5,10,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,25,930.0,1.0,1.0,(tautología),(tautología),0.836,0.827,1.0
+teorica,-1,DES_relacional,0.8,0.5,20,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,17,827.0,1.0,1.0,(tautología),(tautología),0.836,0.827,1.0
+teorica,-1,DES_relacional,0.8,0.65,5,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,30,974.0,1.0,1.0,(tautología),(tautología),0.836,0.827,1.0
+teorica,-1,DES_relacional,0.8,0.65,10,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,25,930.0,1.0,1.0,(tautología),(tautología),0.836,0.827,1.0
+teorica,-1,DES_relacional,0.8,0.65,20,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,17,827.0,1.0,1.0,(tautología),(tautología),0.836,0.827,1.0
+teorica,-1,DES_relacional,0.8,0.7,5,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,30,974.0,1.0,1.0,(tautología),(tautología),0.836,0.827,1.0
+teorica,-1,DES_relacional,0.8,0.7,10,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,25,930.0,1.0,1.0,(tautología),(tautología),0.836,0.827,1.0
+teorica,-1,DES_relacional,0.8,0.7,20,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,17,827.0,1.0,1.0,(tautología),(tautología),0.836,0.827,1.0
+teorica,-1,DES_relacional,0.85,0.5,5,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/1n,0+/0-/0n,28,974.0,4.0,1.0,Sustainability + Company + Community + External,Sustainability + Company + Community + External,0.874,0.867,0.915
+teorica,-1,DES_relacional,0.85,0.5,10,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/1n,0+/0-/0n,23,930.0,3.0,1.0,Sustainability + Company + External,Sustainability + Company + External,0.875,0.867,0.899
+teorica,-1,DES_relacional,0.85,0.5,20,1+/0-/1n,0+/0-/0n,0+/0-/0n,1+/0-/1n,0+/0-/0n,15,827.0,2.0,1.0,Sustainability + Company,Sustainability + Company,0.877,0.869,0.885
+teorica,-1,DES_relacional,0.85,0.65,5,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/1n,0+/0-/0n,28,974.0,4.0,1.0,Sustainability + Company + Community + External,Sustainability + Company + Community + External,0.874,0.867,0.915
+teorica,-1,DES_relacional,0.85,0.65,10,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/1n,0+/0-/0n,23,930.0,3.0,1.0,Sustainability + Company + External,Sustainability + Company + External,0.875,0.867,0.899
+teorica,-1,DES_relacional,0.85,0.65,20,1+/0-/1n,0+/0-/0n,0+/0-/0n,1+/0-/1n,0+/0-/0n,15,827.0,2.0,1.0,Sustainability + Company,Sustainability + Company,0.877,0.869,0.885
+teorica,-1,DES_relacional,0.85,0.7,5,1+/0-/1n,1+/0-/1n,1+/0-/1n,1+/0-/1n,0+/0-/0n,28,974.0,4.0,1.0,Sustainability + Company + Community + External,Sustainability + Company + Community + External,0.874,0.867,0.915
+teorica,-1,DES_relacional,0.85,0.7,10,1+/0-/1n,0+/0-/0n,1+/0-/1n,1+/0-/1n,0+/0-/0n,23,930.0,3.0,1.0,Sustainability + Company + External,Sustainability + Company + External,0.875,0.867,0.899
+teorica,-1,DES_relacional,0.85,0.7,20,1+/0-/1n,0+/0-/0n,0+/0-/0n,1+/0-/1n,0+/0-/0n,15,827.0,2.0,1.0,Sustainability + Company,Sustainability + Company,0.877,0.869,0.885
+teorica,-1,~DES_relacional,0.75,0.5,5,,,,,,0,,,,,,,,
+teorica,-1,~DES_relacional,0.75,0.5,10,,,,,,0,,,,,,,,
+teorica,-1,~DES_relacional,0.75,0.5,20,,,,,,0,,,,,,,,
+teorica,-1,~DES_relacional,0.75,0.65,5,,,,,,0,,,,,,,,
+teorica,-1,~DES_relacional,0.75,0.65,10,,,,,,0,,,,,,,,
+teorica,-1,~DES_relacional,0.75,0.65,20,,,,,,0,,,,,,,,
+teorica,-1,~DES_relacional,0.75,0.7,5,,,,,,0,,,,,,,,
+teorica,-1,~DES_relacional,0.75,0.7,10,,,,,,0,,,,,,,,
+teorica,-1,~DES_relacional,0.75,0.7,20,,,,,,0,,,,,,,,
+teorica,-1,~DES_relacional,0.8,0.5,5,,,,,,0,,,,,,,,
+teorica,-1,~DES_relacional,0.8,0.5,10,,,,,,0,,,,,,,,
+teorica,-1,~DES_relacional,0.8,0.5,20,,,,,,0,,,,,,,,
+teorica,-1,~DES_relacional,0.8,0.65,5,,,,,,0,,,,,,,,
+teorica,-1,~DES_relacional,0.8,0.65,10,,,,,,0,,,,,,,,
+teorica,-1,~DES_relacional,0.8,0.65,20,,,,,,0,,,,,,,,
+teorica,-1,~DES_relacional,0.8,0.7,5,,,,,,0,,,,,,,,
+teorica,-1,~DES_relacional,0.8,0.7,10,,,,,,0,,,,,,,,
+teorica,-1,~DES_relacional,0.8,0.7,20,,,,,,0,,,,,,,,
+teorica,-1,~DES_relacional,0.85,0.5,5,,,,,,0,,,,,,,,
+teorica,-1,~DES_relacional,0.85,0.5,10,,,,,,0,,,,,,,,
+teorica,-1,~DES_relacional,0.85,0.5,20,,,,,,0,,,,,,,,
+teorica,-1,~DES_relacional,0.85,0.65,5,,,,,,0,,,,,,,,
+teorica,-1,~DES_relacional,0.85,0.65,10,,,,,,0,,,,,,,,
+teorica,-1,~DES_relacional,0.85,0.65,20,,,,,,0,,,,,,,,
+teorica,-1,~DES_relacional,0.85,0.7,5,,,,,,0,,,,,,,,
+teorica,-1,~DES_relacional,0.85,0.7,10,,,,,,0,,,,,,,,
+teorica,-1,~DES_relacional,0.85,0.7,20,,,,,,0,,,,,,,,
+teorica,-1,DES_agencia,0.75,0.5,5,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,30,974.0,1.0,1.0,(tautología),(tautología),0.856,0.846,1.0
+teorica,-1,DES_agencia,0.75,0.5,10,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,25,930.0,1.0,1.0,(tautología),(tautología),0.856,0.846,1.0
+teorica,-1,DES_agencia,0.75,0.5,20,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,17,827.0,1.0,1.0,(tautología),(tautología),0.856,0.846,1.0
+teorica,-1,DES_agencia,0.75,0.65,5,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,30,974.0,1.0,1.0,(tautología),(tautología),0.856,0.846,1.0
+teorica,-1,DES_agencia,0.75,0.65,10,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,25,930.0,1.0,1.0,(tautología),(tautología),0.856,0.846,1.0
+teorica,-1,DES_agencia,0.75,0.65,20,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,17,827.0,1.0,1.0,(tautología),(tautología),0.856,0.846,1.0
+teorica,-1,DES_agencia,0.75,0.7,5,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,30,974.0,1.0,1.0,(tautología),(tautología),0.856,0.846,1.0
+teorica,-1,DES_agencia,0.75,0.7,10,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,25,930.0,1.0,1.0,(tautología),(tautología),0.856,0.846,1.0
+teorica,-1,DES_agencia,0.75,0.7,20,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,17,827.0,1.0,1.0,(tautología),(tautología),0.856,0.846,1.0
+teorica,-1,DES_agencia,0.8,0.5,5,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,30,974.0,1.0,1.0,(tautología),(tautología),0.856,0.846,1.0
+teorica,-1,DES_agencia,0.8,0.5,10,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,25,930.0,1.0,1.0,(tautología),(tautología),0.856,0.846,1.0
+teorica,-1,DES_agencia,0.8,0.5,20,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,17,827.0,1.0,1.0,(tautología),(tautología),0.856,0.846,1.0
+teorica,-1,DES_agencia,0.8,0.65,5,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,30,974.0,1.0,1.0,(tautología),(tautología),0.856,0.846,1.0
+teorica,-1,DES_agencia,0.8,0.65,10,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,25,930.0,1.0,1.0,(tautología),(tautología),0.856,0.846,1.0
+teorica,-1,DES_agencia,0.8,0.65,20,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,17,827.0,1.0,1.0,(tautología),(tautología),0.856,0.846,1.0
+teorica,-1,DES_agencia,0.8,0.7,5,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,30,974.0,1.0,1.0,(tautología),(tautología),0.856,0.846,1.0
+teorica,-1,DES_agencia,0.8,0.7,10,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,25,930.0,1.0,1.0,(tautología),(tautología),0.856,0.846,1.0
+teorica,-1,DES_agencia,0.8,0.7,20,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,17,827.0,1.0,1.0,(tautología),(tautología),0.856,0.846,1.0
+teorica,-1,DES_agencia,0.85,0.5,5,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,30,974.0,1.0,1.0,(tautología),(tautología),0.856,0.846,1.0
+teorica,-1,DES_agencia,0.85,0.5,10,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,25,930.0,1.0,1.0,(tautología),(tautología),0.856,0.846,1.0
+teorica,-1,DES_agencia,0.85,0.5,20,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,17,827.0,1.0,1.0,(tautología),(tautología),0.856,0.846,1.0
+teorica,-1,DES_agencia,0.85,0.65,5,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,30,974.0,1.0,1.0,(tautología),(tautología),0.856,0.846,1.0
+teorica,-1,DES_agencia,0.85,0.65,10,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,25,930.0,1.0,1.0,(tautología),(tautología),0.856,0.846,1.0
+teorica,-1,DES_agencia,0.85,0.65,20,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,17,827.0,1.0,1.0,(tautología),(tautología),0.856,0.846,1.0
+teorica,-1,DES_agencia,0.85,0.7,5,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,30,974.0,1.0,1.0,(tautología),(tautología),0.856,0.846,1.0
+teorica,-1,DES_agencia,0.85,0.7,10,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,25,930.0,1.0,1.0,(tautología),(tautología),0.856,0.846,1.0
+teorica,-1,DES_agencia,0.85,0.7,20,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,0+/0-/0n,17,827.0,1.0,1.0,(tautología),(tautología),0.856,0.846,1.0
+teorica,-1,~DES_agencia,0.75,0.5,5,,,,,,0,,,,,,,,
+teorica,-1,~DES_agencia,0.75,0.5,10,,,,,,0,,,,,,,,
+teorica,-1,~DES_agencia,0.75,0.5,20,,,,,,0,,,,,,,,
+teorica,-1,~DES_agencia,0.75,0.65,5,,,,,,0,,,,,,,,
+teorica,-1,~DES_agencia,0.75,0.65,10,,,,,,0,,,,,,,,
+teorica,-1,~DES_agencia,0.75,0.65,20,,,,,,0,,,,,,,,
+teorica,-1,~DES_agencia,0.75,0.7,5,,,,,,0,,,,,,,,
+teorica,-1,~DES_agencia,0.75,0.7,10,,,,,,0,,,,,,,,
+teorica,-1,~DES_agencia,0.75,0.7,20,,,,,,0,,,,,,,,
+teorica,-1,~DES_agencia,0.8,0.5,5,,,,,,0,,,,,,,,
+teorica,-1,~DES_agencia,0.8,0.5,10,,,,,,0,,,,,,,,
+teorica,-1,~DES_agencia,0.8,0.5,20,,,,,,0,,,,,,,,
+teorica,-1,~DES_agencia,0.8,0.65,5,,,,,,0,,,,,,,,
+teorica,-1,~DES_agencia,0.8,0.65,10,,,,,,0,,,,,,,,
+teorica,-1,~DES_agencia,0.8,0.65,20,,,,,,0,,,,,,,,
+teorica,-1,~DES_agencia,0.8,0.7,5,,,,,,0,,,,,,,,
+teorica,-1,~DES_agencia,0.8,0.7,10,,,,,,0,,,,,,,,
+teorica,-1,~DES_agencia,0.8,0.7,20,,,,,,0,,,,,,,,
+teorica,-1,~DES_agencia,0.85,0.5,5,,,,,,0,,,,,,,,
+teorica,-1,~DES_agencia,0.85,0.5,10,,,,,,0,,,,,,,,
+teorica,-1,~DES_agencia,0.85,0.5,20,,,,,,0,,,,,,,,
+teorica,-1,~DES_agencia,0.85,0.65,5,,,,,,0,,,,,,,,
+teorica,-1,~DES_agencia,0.85,0.65,10,,,,,,0,,,,,,,,
+teorica,-1,~DES_agencia,0.85,0.65,20,,,,,,0,,,,,,,,
+teorica,-1,~DES_agencia,0.85,0.7,5,,,,,,0,,,,,,,,
+teorica,-1,~DES_agencia,0.85,0.7,10,,,,,,0,,,,,,,,
+teorica,-1,~DES_agencia,0.85,0.7,20,,,,,,0,,,,,,,,

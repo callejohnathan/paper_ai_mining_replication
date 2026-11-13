@@ -13,7 +13,7 @@ tablas ya generadas, solo cambia el formato de salida.
     Figura 3: s06_multilevel.plot_blups sobre
               outputs/tables/blups_DES_estructural_SOS_ambiental.csv.
 
-Salida: outputs/figures/vector/Figure_1.pdf, Figure_2.pdf, Figure_3.pdf
+Salida: submission/resources_policy/Figure_1.pdf, Figure_2.pdf, Figure_3.pdf
 """
 import re
 import subprocess
@@ -33,7 +33,7 @@ import pandas as pd
 import config as cfg
 from _common import compute_composites
 
-OUT = ROOT / "outputs" / "figures" / "vector"
+OUT = ROOT / "submission" / "resources_policy"
 OUT.mkdir(parents=True, exist_ok=True)
 matplotlib.rcParams["pdf.fonttype"] = 42   # fuentes TrueType incrustadas
 matplotlib.rcParams["ps.fonttype"] = 42

@@ -1,0 +1,649 @@
+anclas,resultado,cons,PRI_min,freq,solucion_intermedia,parsimoniosa,sol_consistencia,sol_PRI,sol_cobertura
+2/3.25/4.5,DES_estructural,0.75,0.5,5,Company*External + External*Sustainability + ValueTrust*Sustainability + Company*ValueTrust + ValueTrust*External + Company*Sustainability,Company*External + External*Sustainability + ValueTrust*Sustainability + Company*ValueTrust + ValueTrust*External + Company*Sustainability,0.737,0.686,0.835
+2/3.25/4.5,DES_estructural,0.75,0.5,10,Company*External + External*Sustainability + ValueTrust*Sustainability + Company*ValueTrust + Company*Sustainability,Company*External + External*Sustainability + ValueTrust*Sustainability + Company*ValueTrust + Company*Sustainability,0.739,0.689,0.831
+2/3.25/4.5,DES_estructural,0.75,0.5,20,Company*External + External*Sustainability + ValueTrust*Sustainability + Company*ValueTrust + Company*Sustainability,Company*External + ValueTrust + External*Sustainability + Company*Sustainability,0.739,0.689,0.831
+2/3.25/4.5,DES_estructural,0.75,0.65,5,Company*Sustainability + ValueTrust*Sustainability,Company*Sustainability + ValueTrust*Sustainability,0.768,0.721,0.731
+2/3.25/4.5,DES_estructural,0.75,0.65,10,Company*Sustainability + ValueTrust*Sustainability,Company*Sustainability + ValueTrust*Sustainability,0.768,0.721,0.731
+2/3.25/4.5,DES_estructural,0.75,0.65,20,Company*Sustainability + ValueTrust*Sustainability,~Company*ValueTrust + Company*Sustainability,0.768,0.721,0.731
+2/3.25/4.5,DES_estructural,0.75,0.7,5,ValueTrust*Sustainability,ValueTrust*Sustainability,0.803,0.758,0.584
+2/3.25/4.5,DES_estructural,0.75,0.7,10,ValueTrust*Sustainability,ValueTrust*Sustainability,0.803,0.758,0.584
+2/3.25/4.5,DES_estructural,0.75,0.7,20,ValueTrust*Sustainability,ValueTrust*Sustainability,0.803,0.758,0.584
+2/3.25/4.5,DES_estructural,0.8,0.5,5,Company*External + ValueTrust*Sustainability,Company*External + ValueTrust*Sustainability,0.781,0.732,0.703
+2/3.25/4.5,DES_estructural,0.8,0.5,10,Company*External + ValueTrust*Sustainability,Company*External + ValueTrust*Sustainability,0.781,0.732,0.703
+2/3.25/4.5,DES_estructural,0.8,0.5,20,Company*External + ValueTrust*Sustainability,ValueTrust*Sustainability + Company*External,0.781,0.732,0.703
+2/3.25/4.5,DES_estructural,0.8,0.65,5,Company*External*Sustainability + ValueTrust*Sustainability,Company*External*Sustainability + ValueTrust*Sustainability,0.792,0.744,0.641
+2/3.25/4.5,DES_estructural,0.8,0.65,10,Company*External*Sustainability + ValueTrust*Sustainability,Company*External*Sustainability + ValueTrust*Sustainability,0.792,0.744,0.641
+2/3.25/4.5,DES_estructural,0.8,0.65,20,Company*External*Sustainability + ValueTrust*Sustainability,ValueTrust*Sustainability + Company*External*Sustainability,0.792,0.744,0.641
+2/3.25/4.5,DES_estructural,0.8,0.7,5,ValueTrust*Sustainability,ValueTrust*Sustainability,0.803,0.758,0.584
+2/3.25/4.5,DES_estructural,0.8,0.7,10,ValueTrust*Sustainability,ValueTrust*Sustainability,0.803,0.758,0.584
+2/3.25/4.5,DES_estructural,0.8,0.7,20,ValueTrust*Sustainability,ValueTrust*Sustainability,0.803,0.758,0.584
+2/3.25/4.5,DES_estructural,0.85,0.5,5,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,0.824,0.778,0.526
+2/3.25/4.5,DES_estructural,0.85,0.5,10,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,0.824,0.778,0.526
+2/3.25/4.5,DES_estructural,0.85,0.5,20,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,0.824,0.778,0.526
+2/3.25/4.5,DES_estructural,0.85,0.65,5,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,0.824,0.778,0.526
+2/3.25/4.5,DES_estructural,0.85,0.65,10,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,0.824,0.778,0.526
+2/3.25/4.5,DES_estructural,0.85,0.65,20,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,0.824,0.778,0.526
+2/3.25/4.5,DES_estructural,0.85,0.7,5,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,0.824,0.778,0.526
+2/3.25/4.5,DES_estructural,0.85,0.7,10,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,0.824,0.778,0.526
+2/3.25/4.5,DES_estructural,0.85,0.7,20,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,0.824,0.778,0.526
+2/3.25/4.5,~DES_estructural,0.75,0.5,5,~Company*~External*~Sustainability + ~Company*~ValueTrust*~Sustainability,~Company*~External*~Sustainability + ~Company*~ValueTrust*~Sustainability,0.769,0.67,0.298
+2/3.25/4.5,~DES_estructural,0.75,0.5,10,~Company*~External*~Sustainability + ~Company*~ValueTrust*~Sustainability,~Company*~Sustainability,0.769,0.67,0.298
+2/3.25/4.5,~DES_estructural,0.75,0.5,20,~Company*~ValueTrust*~Sustainability,~Company*~Sustainability,0.793,0.695,0.273
+2/3.25/4.5,~DES_estructural,0.75,0.65,5,~Company*~ValueTrust*~External*~Sustainability,~Company*~ValueTrust*~External*~Sustainability,0.792,0.683,0.253
+2/3.25/4.5,~DES_estructural,0.75,0.65,10,~Company*~ValueTrust*~External*~Sustainability,~Company*~ValueTrust*~External*~Sustainability,0.792,0.683,0.253
+2/3.25/4.5,~DES_estructural,0.75,0.65,20,~Company*~ValueTrust*~External*~Sustainability,~Company*~External*~Sustainability,0.792,0.683,0.253
+2/3.25/4.5,~DES_estructural,0.75,0.7,5,sin solución,,,,
+2/3.25/4.5,~DES_estructural,0.75,0.7,10,sin solución,,,,
+2/3.25/4.5,~DES_estructural,0.75,0.7,20,sin solución,,,,
+2/3.25/4.5,~DES_estructural,0.8,0.5,5,sin solución,,,,
+2/3.25/4.5,~DES_estructural,0.8,0.5,10,sin solución,,,,
+2/3.25/4.5,~DES_estructural,0.8,0.5,20,sin solución,,,,
+2/3.25/4.5,~DES_estructural,0.8,0.65,5,sin solución,,,,
+2/3.25/4.5,~DES_estructural,0.8,0.65,10,sin solución,,,,
+2/3.25/4.5,~DES_estructural,0.8,0.65,20,sin solución,,,,
+2/3.25/4.5,~DES_estructural,0.8,0.7,5,sin solución,,,,
+2/3.25/4.5,~DES_estructural,0.8,0.7,10,sin solución,,,,
+2/3.25/4.5,~DES_estructural,0.8,0.7,20,sin solución,,,,
+2/3.25/4.5,~DES_estructural,0.85,0.5,5,sin solución,,,,
+2/3.25/4.5,~DES_estructural,0.85,0.5,10,sin solución,,,,
+2/3.25/4.5,~DES_estructural,0.85,0.5,20,sin solución,,,,
+2/3.25/4.5,~DES_estructural,0.85,0.65,5,sin solución,,,,
+2/3.25/4.5,~DES_estructural,0.85,0.65,10,sin solución,,,,
+2/3.25/4.5,~DES_estructural,0.85,0.65,20,sin solución,,,,
+2/3.25/4.5,~DES_estructural,0.85,0.7,5,sin solución,,,,
+2/3.25/4.5,~DES_estructural,0.85,0.7,10,sin solución,,,,
+2/3.25/4.5,~DES_estructural,0.85,0.7,20,sin solución,,,,
+2/3.25/4.5,DES_regulacion,0.75,0.5,5,External*Sustainability + ValueTrust*~External + ~Company*ValueTrust,External*Sustainability + ValueTrust*~External + ~Company*ValueTrust,0.772,0.728,0.655
+2/3.25/4.5,DES_regulacion,0.75,0.5,10,External*Sustainability + ValueTrust*~External,External*Sustainability + ValueTrust*~External,0.773,0.73,0.648
+2/3.25/4.5,DES_regulacion,0.75,0.5,20,Company*ValueTrust*~External + External*Sustainability + ValueTrust*Sustainability,External*Sustainability + ValueTrust*~External,0.774,0.733,0.689
+2/3.25/4.5,DES_regulacion,0.75,0.65,5,ValueTrust*Sustainability,ValueTrust*Sustainability,0.8,0.762,0.575
+2/3.25/4.5,DES_regulacion,0.75,0.65,10,ValueTrust*Sustainability,ValueTrust*Sustainability,0.8,0.762,0.575
+2/3.25/4.5,DES_regulacion,0.75,0.65,20,ValueTrust*Sustainability,ValueTrust*Sustainability,0.8,0.762,0.575
+2/3.25/4.5,DES_regulacion,0.75,0.7,5,ValueTrust*Sustainability,ValueTrust*Sustainability,0.8,0.762,0.575
+2/3.25/4.5,DES_regulacion,0.75,0.7,10,ValueTrust*Sustainability,ValueTrust*Sustainability,0.8,0.762,0.575
+2/3.25/4.5,DES_regulacion,0.75,0.7,20,ValueTrust*Sustainability,ValueTrust*Sustainability,0.8,0.762,0.575
+2/3.25/4.5,DES_regulacion,0.8,0.5,5,~Company*ValueTrust*External + ValueTrust*Sustainability,~Company*ValueTrust*External + ValueTrust*Sustainability,0.796,0.757,0.591
+2/3.25/4.5,DES_regulacion,0.8,0.5,10,ValueTrust*Sustainability,ValueTrust*Sustainability,0.8,0.762,0.575
+2/3.25/4.5,DES_regulacion,0.8,0.5,20,ValueTrust*Sustainability,ValueTrust*Sustainability,0.8,0.762,0.575
+2/3.25/4.5,DES_regulacion,0.8,0.65,5,ValueTrust*Sustainability,ValueTrust*Sustainability,0.8,0.762,0.575
+2/3.25/4.5,DES_regulacion,0.8,0.65,10,ValueTrust*Sustainability,ValueTrust*Sustainability,0.8,0.762,0.575
+2/3.25/4.5,DES_regulacion,0.8,0.65,20,ValueTrust*Sustainability,ValueTrust*Sustainability,0.8,0.762,0.575
+2/3.25/4.5,DES_regulacion,0.8,0.7,5,ValueTrust*Sustainability,ValueTrust*Sustainability,0.8,0.762,0.575
+2/3.25/4.5,DES_regulacion,0.8,0.7,10,ValueTrust*Sustainability,ValueTrust*Sustainability,0.8,0.762,0.575
+2/3.25/4.5,DES_regulacion,0.8,0.7,20,ValueTrust*Sustainability,ValueTrust*Sustainability,0.8,0.762,0.575
+2/3.25/4.5,DES_regulacion,0.85,0.5,5,sin solución,,,,
+2/3.25/4.5,DES_regulacion,0.85,0.5,10,sin solución,,,,
+2/3.25/4.5,DES_regulacion,0.85,0.5,20,sin solución,,,,
+2/3.25/4.5,DES_regulacion,0.85,0.65,5,sin solución,,,,
+2/3.25/4.5,DES_regulacion,0.85,0.65,10,sin solución,,,,
+2/3.25/4.5,DES_regulacion,0.85,0.65,20,sin solución,,,,
+2/3.25/4.5,DES_regulacion,0.85,0.7,5,sin solución,,,,
+2/3.25/4.5,DES_regulacion,0.85,0.7,10,sin solución,,,,
+2/3.25/4.5,DES_regulacion,0.85,0.7,20,sin solución,,,,
+2/3.25/4.5,~DES_regulacion,0.75,0.5,5,~Company*~ValueTrust*External*~Sustainability,~Company*~ValueTrust*External*~Sustainability,0.796,0.582,0.134
+2/3.25/4.5,~DES_regulacion,0.75,0.5,10,~Company*~ValueTrust*External*~Sustainability,~Company*External*~Sustainability,0.796,0.582,0.134
+2/3.25/4.5,~DES_regulacion,0.75,0.5,20,~Company*~ValueTrust*External*~Sustainability,~Company*External*~Sustainability,0.796,0.582,0.134
+2/3.25/4.5,~DES_regulacion,0.75,0.65,5,sin solución,,,,
+2/3.25/4.5,~DES_regulacion,0.75,0.65,10,sin solución,,,,
+2/3.25/4.5,~DES_regulacion,0.75,0.65,20,sin solución,,,,
+2/3.25/4.5,~DES_regulacion,0.75,0.7,5,sin solución,,,,
+2/3.25/4.5,~DES_regulacion,0.75,0.7,10,sin solución,,,,
+2/3.25/4.5,~DES_regulacion,0.75,0.7,20,sin solución,,,,
+2/3.25/4.5,~DES_regulacion,0.8,0.5,5,sin solución,,,,
+2/3.25/4.5,~DES_regulacion,0.8,0.5,10,sin solución,,,,
+2/3.25/4.5,~DES_regulacion,0.8,0.5,20,sin solución,,,,
+2/3.25/4.5,~DES_regulacion,0.8,0.65,5,sin solución,,,,
+2/3.25/4.5,~DES_regulacion,0.8,0.65,10,sin solución,,,,
+2/3.25/4.5,~DES_regulacion,0.8,0.65,20,sin solución,,,,
+2/3.25/4.5,~DES_regulacion,0.8,0.7,5,sin solución,,,,
+2/3.25/4.5,~DES_regulacion,0.8,0.7,10,sin solución,,,,
+2/3.25/4.5,~DES_regulacion,0.8,0.7,20,sin solución,,,,
+2/3.25/4.5,~DES_regulacion,0.85,0.5,5,sin solución,,,,
+2/3.25/4.5,~DES_regulacion,0.85,0.5,10,sin solución,,,,
+2/3.25/4.5,~DES_regulacion,0.85,0.5,20,sin solución,,,,
+2/3.25/4.5,~DES_regulacion,0.85,0.65,5,sin solución,,,,
+2/3.25/4.5,~DES_regulacion,0.85,0.65,10,sin solución,,,,
+2/3.25/4.5,~DES_regulacion,0.85,0.65,20,sin solución,,,,
+2/3.25/4.5,~DES_regulacion,0.85,0.7,5,sin solución,,,,
+2/3.25/4.5,~DES_regulacion,0.85,0.7,10,sin solución,,,,
+2/3.25/4.5,~DES_regulacion,0.85,0.7,20,sin solución,,,,
+1.5/3.25/4.5,DES_estructural,0.75,0.5,5,External*Sustainability + Company + ValueTrust,External*Sustainability + Company + ValueTrust,0.734,0.678,0.891
+1.5/3.25/4.5,DES_estructural,0.75,0.5,10,External*Sustainability + Company + ValueTrust,External*Sustainability + Company + ValueTrust,0.734,0.678,0.891
+1.5/3.25/4.5,DES_estructural,0.75,0.5,20,External*Sustainability + Company + ValueTrust*Sustainability,External*Sustainability + Company + ValueTrust,0.742,0.687,0.877
+1.5/3.25/4.5,DES_estructural,0.75,0.65,5,Company*ValueTrust*External + Company*Sustainability + ValueTrust*Sustainability,Company*ValueTrust*External + Company*Sustainability + ValueTrust*Sustainability,0.781,0.728,0.789
+1.5/3.25/4.5,DES_estructural,0.75,0.65,10,Company*ValueTrust*External + Company*Sustainability + ValueTrust*Sustainability,ValueTrust*External + Company*Sustainability + ValueTrust*Sustainability,0.781,0.728,0.789
+1.5/3.25/4.5,DES_estructural,0.75,0.65,20,Company*ValueTrust*External + Company*Sustainability + ValueTrust*Sustainability,ValueTrust*External + ValueTrust*Sustainability + Company*Sustainability,0.781,0.728,0.789
+1.5/3.25/4.5,DES_estructural,0.75,0.7,5,Company*External*Sustainability + ValueTrust*Sustainability,Company*External*Sustainability + ValueTrust*Sustainability,0.809,0.757,0.668
+1.5/3.25/4.5,DES_estructural,0.75,0.7,10,Company*External*Sustainability + ValueTrust*Sustainability,Company*External*Sustainability + ValueTrust*Sustainability,0.809,0.757,0.668
+1.5/3.25/4.5,DES_estructural,0.75,0.7,20,Company*External*Sustainability + ValueTrust*Sustainability,ValueTrust*Sustainability + Company*External*Sustainability,0.809,0.757,0.668
+1.5/3.25/4.5,DES_estructural,0.8,0.5,5,Company*External + External*Sustainability + ValueTrust*Sustainability + Company*ValueTrust + ValueTrust*External + Company*Sustainability,Company*External + External*Sustainability + ValueTrust*Sustainability + Company*ValueTrust + ValueTrust*External + Company*Sustainability,0.755,0.699,0.847
+1.5/3.25/4.5,DES_estructural,0.8,0.5,10,Company*External + External*Sustainability + ValueTrust*Sustainability + Company*ValueTrust + Company*Sustainability,Company*External + External*Sustainability + ValueTrust*Sustainability + Company*ValueTrust + Company*Sustainability,0.757,0.702,0.844
+1.5/3.25/4.5,DES_estructural,0.8,0.5,20,Company*External + External*Sustainability + ValueTrust*Sustainability + Company*ValueTrust + Company*Sustainability,Company*External + ValueTrust + External*Sustainability + Company*Sustainability,0.757,0.702,0.844
+1.5/3.25/4.5,DES_estructural,0.8,0.65,5,Company*ValueTrust*External + Company*Sustainability + ValueTrust*Sustainability,Company*ValueTrust*External + Company*Sustainability + ValueTrust*Sustainability,0.781,0.728,0.789
+1.5/3.25/4.5,DES_estructural,0.8,0.65,10,Company*ValueTrust*External + Company*Sustainability + ValueTrust*Sustainability,ValueTrust*External + Company*Sustainability + ValueTrust*Sustainability,0.781,0.728,0.789
+1.5/3.25/4.5,DES_estructural,0.8,0.65,20,Company*ValueTrust*External + Company*Sustainability + ValueTrust*Sustainability,ValueTrust*External + ValueTrust*Sustainability + Company*Sustainability,0.781,0.728,0.789
+1.5/3.25/4.5,DES_estructural,0.8,0.7,5,Company*External*Sustainability + ValueTrust*Sustainability,Company*External*Sustainability + ValueTrust*Sustainability,0.809,0.757,0.668
+1.5/3.25/4.5,DES_estructural,0.8,0.7,10,Company*External*Sustainability + ValueTrust*Sustainability,Company*External*Sustainability + ValueTrust*Sustainability,0.809,0.757,0.668
+1.5/3.25/4.5,DES_estructural,0.8,0.7,20,Company*External*Sustainability + ValueTrust*Sustainability,ValueTrust*Sustainability + Company*External*Sustainability,0.809,0.757,0.668
+1.5/3.25/4.5,DES_estructural,0.85,0.5,5,ValueTrust*Sustainability,ValueTrust*Sustainability,0.821,0.771,0.613
+1.5/3.25/4.5,DES_estructural,0.85,0.5,10,ValueTrust*Sustainability,ValueTrust*Sustainability,0.821,0.771,0.613
+1.5/3.25/4.5,DES_estructural,0.85,0.5,20,ValueTrust*Sustainability,ValueTrust*Sustainability,0.821,0.771,0.613
+1.5/3.25/4.5,DES_estructural,0.85,0.65,5,ValueTrust*Sustainability,ValueTrust*Sustainability,0.821,0.771,0.613
+1.5/3.25/4.5,DES_estructural,0.85,0.65,10,ValueTrust*Sustainability,ValueTrust*Sustainability,0.821,0.771,0.613
+1.5/3.25/4.5,DES_estructural,0.85,0.65,20,ValueTrust*Sustainability,ValueTrust*Sustainability,0.821,0.771,0.613
+1.5/3.25/4.5,DES_estructural,0.85,0.7,5,ValueTrust*Sustainability,ValueTrust*Sustainability,0.821,0.771,0.613
+1.5/3.25/4.5,DES_estructural,0.85,0.7,10,ValueTrust*Sustainability,ValueTrust*Sustainability,0.821,0.771,0.613
+1.5/3.25/4.5,DES_estructural,0.85,0.7,20,ValueTrust*Sustainability,ValueTrust*Sustainability,0.821,0.771,0.613
+1.5/3.25/4.5,~DES_estructural,0.75,0.5,5,~Company*~ValueTrust*~Sustainability,~Company*~ValueTrust*~Sustainability,0.792,0.663,0.277
+1.5/3.25/4.5,~DES_estructural,0.75,0.5,10,~Company*~ValueTrust*~Sustainability,~Company*~ValueTrust*~Sustainability,0.792,0.663,0.277
+1.5/3.25/4.5,~DES_estructural,0.75,0.5,20,~Company*~ValueTrust*~Sustainability,~Company*~Sustainability,0.792,0.663,0.277
+1.5/3.25/4.5,~DES_estructural,0.75,0.65,5,sin solución,,,,
+1.5/3.25/4.5,~DES_estructural,0.75,0.65,10,sin solución,,,,
+1.5/3.25/4.5,~DES_estructural,0.75,0.65,20,sin solución,,,,
+1.5/3.25/4.5,~DES_estructural,0.75,0.7,5,sin solución,,,,
+1.5/3.25/4.5,~DES_estructural,0.75,0.7,10,sin solución,,,,
+1.5/3.25/4.5,~DES_estructural,0.75,0.7,20,sin solución,,,,
+1.5/3.25/4.5,~DES_estructural,0.8,0.5,5,sin solución,,,,
+1.5/3.25/4.5,~DES_estructural,0.8,0.5,10,sin solución,,,,
+1.5/3.25/4.5,~DES_estructural,0.8,0.5,20,sin solución,,,,
+1.5/3.25/4.5,~DES_estructural,0.8,0.65,5,sin solución,,,,
+1.5/3.25/4.5,~DES_estructural,0.8,0.65,10,sin solución,,,,
+1.5/3.25/4.5,~DES_estructural,0.8,0.65,20,sin solución,,,,
+1.5/3.25/4.5,~DES_estructural,0.8,0.7,5,sin solución,,,,
+1.5/3.25/4.5,~DES_estructural,0.8,0.7,10,sin solución,,,,
+1.5/3.25/4.5,~DES_estructural,0.8,0.7,20,sin solución,,,,
+1.5/3.25/4.5,~DES_estructural,0.85,0.5,5,sin solución,,,,
+1.5/3.25/4.5,~DES_estructural,0.85,0.5,10,sin solución,,,,
+1.5/3.25/4.5,~DES_estructural,0.85,0.5,20,sin solución,,,,
+1.5/3.25/4.5,~DES_estructural,0.85,0.65,5,sin solución,,,,
+1.5/3.25/4.5,~DES_estructural,0.85,0.65,10,sin solución,,,,
+1.5/3.25/4.5,~DES_estructural,0.85,0.65,20,sin solución,,,,
+1.5/3.25/4.5,~DES_estructural,0.85,0.7,5,sin solución,,,,
+1.5/3.25/4.5,~DES_estructural,0.85,0.7,10,sin solución,,,,
+1.5/3.25/4.5,~DES_estructural,0.85,0.7,20,sin solución,,,,
+1.5/3.25/4.5,DES_regulacion,0.75,0.5,5,Company*External + ValueTrust + External*Sustainability + Company*Sustainability,Company*External + ValueTrust + External*Sustainability + Company*Sustainability,0.739,0.692,0.839
+1.5/3.25/4.5,DES_regulacion,0.75,0.5,10,Company*External + ValueTrust + External*Sustainability + Company*Sustainability,Company*External + ValueTrust + External*Sustainability + Company*Sustainability,0.739,0.692,0.839
+1.5/3.25/4.5,DES_regulacion,0.75,0.5,20,Company*External + External*Sustainability + ValueTrust*Sustainability + Company*ValueTrust + Company*Sustainability,Company*External + ValueTrust + External*Sustainability + Company*Sustainability,0.744,0.696,0.82
+1.5/3.25/4.5,DES_regulacion,0.75,0.65,5,Company*ValueTrust*~External + ~Company*ValueTrust*External + External*Sustainability + ValueTrust*Sustainability,Company*ValueTrust*~External + ~Company*ValueTrust*External + External*Sustainability + ValueTrust*Sustainability,0.79,0.745,0.717
+1.5/3.25/4.5,DES_regulacion,0.75,0.65,10,Company*ValueTrust*~External + External*Sustainability + ValueTrust*Sustainability,Company*ValueTrust*~External + External*Sustainability + ValueTrust*Sustainability,0.792,0.747,0.712
+1.5/3.25/4.5,DES_regulacion,0.75,0.65,20,Company*ValueTrust*~External + External*Sustainability + ValueTrust*Sustainability,External*Sustainability + ValueTrust*~External,0.792,0.747,0.712
+1.5/3.25/4.5,DES_regulacion,0.75,0.7,5,ValueTrust*Sustainability,ValueTrust*Sustainability,0.817,0.774,0.603
+1.5/3.25/4.5,DES_regulacion,0.75,0.7,10,ValueTrust*Sustainability,ValueTrust*Sustainability,0.817,0.774,0.603
+1.5/3.25/4.5,DES_regulacion,0.75,0.7,20,ValueTrust*Sustainability,ValueTrust*Sustainability,0.817,0.774,0.603
+1.5/3.25/4.5,DES_regulacion,0.8,0.5,5,External*Sustainability + ValueTrust*~External + ~Company*ValueTrust,External*Sustainability + ValueTrust*~External + ~Company*ValueTrust,0.793,0.743,0.668
+1.5/3.25/4.5,DES_regulacion,0.8,0.5,10,External*Sustainability + ValueTrust*~External,External*Sustainability + ValueTrust*~External,0.795,0.745,0.661
+1.5/3.25/4.5,DES_regulacion,0.8,0.5,20,Company*ValueTrust*~External + External*Sustainability + ValueTrust*Sustainability,External*Sustainability + ValueTrust*~External,0.792,0.747,0.712
+1.5/3.25/4.5,DES_regulacion,0.8,0.65,5,Company*ValueTrust*~External + ~Company*ValueTrust*External + External*Sustainability + ValueTrust*Sustainability,Company*ValueTrust*~External + ~Company*ValueTrust*External + External*Sustainability + ValueTrust*Sustainability,0.79,0.745,0.717
+1.5/3.25/4.5,DES_regulacion,0.8,0.65,10,Company*ValueTrust*~External + External*Sustainability + ValueTrust*Sustainability,Company*ValueTrust*~External + External*Sustainability + ValueTrust*Sustainability,0.792,0.747,0.712
+1.5/3.25/4.5,DES_regulacion,0.8,0.65,20,Company*ValueTrust*~External + External*Sustainability + ValueTrust*Sustainability,External*Sustainability + ValueTrust*~External,0.792,0.747,0.712
+1.5/3.25/4.5,DES_regulacion,0.8,0.7,5,ValueTrust*Sustainability,ValueTrust*Sustainability,0.817,0.774,0.603
+1.5/3.25/4.5,DES_regulacion,0.8,0.7,10,ValueTrust*Sustainability,ValueTrust*Sustainability,0.817,0.774,0.603
+1.5/3.25/4.5,DES_regulacion,0.8,0.7,20,ValueTrust*Sustainability,ValueTrust*Sustainability,0.817,0.774,0.603
+1.5/3.25/4.5,DES_regulacion,0.85,0.5,5,~Company*ValueTrust*External + ValueTrust*Sustainability,~Company*ValueTrust*External + ValueTrust*Sustainability,0.814,0.769,0.619
+1.5/3.25/4.5,DES_regulacion,0.85,0.5,10,ValueTrust*Sustainability,ValueTrust*Sustainability,0.817,0.774,0.603
+1.5/3.25/4.5,DES_regulacion,0.85,0.5,20,ValueTrust*Sustainability,ValueTrust*Sustainability,0.817,0.774,0.603
+1.5/3.25/4.5,DES_regulacion,0.85,0.65,5,~Company*ValueTrust*External + ValueTrust*Sustainability,~Company*ValueTrust*External + ValueTrust*Sustainability,0.814,0.769,0.619
+1.5/3.25/4.5,DES_regulacion,0.85,0.65,10,ValueTrust*Sustainability,ValueTrust*Sustainability,0.817,0.774,0.603
+1.5/3.25/4.5,DES_regulacion,0.85,0.65,20,ValueTrust*Sustainability,ValueTrust*Sustainability,0.817,0.774,0.603
+1.5/3.25/4.5,DES_regulacion,0.85,0.7,5,ValueTrust*Sustainability,ValueTrust*Sustainability,0.817,0.774,0.603
+1.5/3.25/4.5,DES_regulacion,0.85,0.7,10,ValueTrust*Sustainability,ValueTrust*Sustainability,0.817,0.774,0.603
+1.5/3.25/4.5,DES_regulacion,0.85,0.7,20,ValueTrust*Sustainability,ValueTrust*Sustainability,0.817,0.774,0.603
+1.5/3.25/4.5,~DES_regulacion,0.75,0.5,5,~Company*~ValueTrust*External*~Sustainability,~Company*~ValueTrust*External*~Sustainability,0.783,0.503,0.16
+1.5/3.25/4.5,~DES_regulacion,0.75,0.5,10,~Company*~ValueTrust*External*~Sustainability,~Company*External*~Sustainability,0.783,0.503,0.16
+1.5/3.25/4.5,~DES_regulacion,0.75,0.5,20,~Company*~ValueTrust*External*~Sustainability,~Company*External*~Sustainability,0.783,0.503,0.16
+1.5/3.25/4.5,~DES_regulacion,0.75,0.65,5,sin solución,,,,
+1.5/3.25/4.5,~DES_regulacion,0.75,0.65,10,sin solución,,,,
+1.5/3.25/4.5,~DES_regulacion,0.75,0.65,20,sin solución,,,,
+1.5/3.25/4.5,~DES_regulacion,0.75,0.7,5,sin solución,,,,
+1.5/3.25/4.5,~DES_regulacion,0.75,0.7,10,sin solución,,,,
+1.5/3.25/4.5,~DES_regulacion,0.75,0.7,20,sin solución,,,,
+1.5/3.25/4.5,~DES_regulacion,0.8,0.5,5,sin solución,,,,
+1.5/3.25/4.5,~DES_regulacion,0.8,0.5,10,sin solución,,,,
+1.5/3.25/4.5,~DES_regulacion,0.8,0.5,20,sin solución,,,,
+1.5/3.25/4.5,~DES_regulacion,0.8,0.65,5,sin solución,,,,
+1.5/3.25/4.5,~DES_regulacion,0.8,0.65,10,sin solución,,,,
+1.5/3.25/4.5,~DES_regulacion,0.8,0.65,20,sin solución,,,,
+1.5/3.25/4.5,~DES_regulacion,0.8,0.7,5,sin solución,,,,
+1.5/3.25/4.5,~DES_regulacion,0.8,0.7,10,sin solución,,,,
+1.5/3.25/4.5,~DES_regulacion,0.8,0.7,20,sin solución,,,,
+1.5/3.25/4.5,~DES_regulacion,0.85,0.5,5,sin solución,,,,
+1.5/3.25/4.5,~DES_regulacion,0.85,0.5,10,sin solución,,,,
+1.5/3.25/4.5,~DES_regulacion,0.85,0.5,20,sin solución,,,,
+1.5/3.25/4.5,~DES_regulacion,0.85,0.65,5,sin solución,,,,
+1.5/3.25/4.5,~DES_regulacion,0.85,0.65,10,sin solución,,,,
+1.5/3.25/4.5,~DES_regulacion,0.85,0.65,20,sin solución,,,,
+1.5/3.25/4.5,~DES_regulacion,0.85,0.7,5,sin solución,,,,
+1.5/3.25/4.5,~DES_regulacion,0.85,0.7,10,sin solución,,,,
+1.5/3.25/4.5,~DES_regulacion,0.85,0.7,20,sin solución,,,,
+2/3.1/4.5,DES_estructural,0.75,0.5,5,Company*External + External*Sustainability + ValueTrust*Sustainability + Company*ValueTrust + Company*Sustainability,Company*External + External*Sustainability + ValueTrust*Sustainability + Company*ValueTrust + Company*Sustainability,0.75,0.703,0.849
+2/3.1/4.5,DES_estructural,0.75,0.5,10,Company*External + External*Sustainability + ValueTrust*Sustainability + Company*ValueTrust + Company*Sustainability,Company*External + External*Sustainability + ValueTrust*Sustainability + Company*ValueTrust + Company*Sustainability,0.75,0.703,0.849
+2/3.1/4.5,DES_estructural,0.75,0.5,20,Company*External + External*Sustainability + ValueTrust*Sustainability + Company*ValueTrust + Company*Sustainability,External + ValueTrust + Company*Sustainability,0.75,0.703,0.849
+2/3.1/4.5,DES_estructural,0.75,0.65,5,Company*Sustainability + ValueTrust*Sustainability,Company*Sustainability + ValueTrust*Sustainability,0.777,0.734,0.746
+2/3.1/4.5,DES_estructural,0.75,0.65,10,Company*Sustainability + ValueTrust*Sustainability,Company*Sustainability + ValueTrust*Sustainability,0.777,0.734,0.746
+2/3.1/4.5,DES_estructural,0.75,0.65,20,Company*Sustainability + ValueTrust*Sustainability,ValueTrust*Sustainability + Company*Sustainability,0.777,0.734,0.746
+2/3.1/4.5,DES_estructural,0.75,0.7,5,ValueTrust*Sustainability,ValueTrust*Sustainability,0.812,0.771,0.6
+2/3.1/4.5,DES_estructural,0.75,0.7,10,ValueTrust*Sustainability,ValueTrust*Sustainability,0.812,0.771,0.6
+2/3.1/4.5,DES_estructural,0.75,0.7,20,ValueTrust*Sustainability,ValueTrust*Sustainability,0.812,0.771,0.6
+2/3.1/4.5,DES_estructural,0.8,0.5,5,Company*ValueTrust*External + Company*External*Sustainability + ValueTrust*Sustainability,Company*ValueTrust*External + Company*External*Sustainability + ValueTrust*Sustainability,0.796,0.751,0.703
+2/3.1/4.5,DES_estructural,0.8,0.5,10,Company*ValueTrust*External + Company*External*Sustainability + ValueTrust*Sustainability,ValueTrust*External + Company*External*Sustainability + ValueTrust*Sustainability,0.796,0.751,0.703
+2/3.1/4.5,DES_estructural,0.8,0.5,20,Company*ValueTrust*External + Company*External*Sustainability + ValueTrust*Sustainability,ValueTrust*Sustainability + ValueTrust*External + Company*External*Sustainability,0.796,0.751,0.703
+2/3.1/4.5,DES_estructural,0.8,0.65,5,Company*External*Sustainability + ValueTrust*Sustainability,Company*External*Sustainability + ValueTrust*Sustainability,0.802,0.758,0.659
+2/3.1/4.5,DES_estructural,0.8,0.65,10,Company*External*Sustainability + ValueTrust*Sustainability,Company*External*Sustainability + ValueTrust*Sustainability,0.802,0.758,0.659
+2/3.1/4.5,DES_estructural,0.8,0.65,20,Company*External*Sustainability + ValueTrust*Sustainability,ValueTrust*Sustainability + Company*External*Sustainability,0.802,0.758,0.659
+2/3.1/4.5,DES_estructural,0.8,0.7,5,ValueTrust*Sustainability,ValueTrust*Sustainability,0.812,0.771,0.6
+2/3.1/4.5,DES_estructural,0.8,0.7,10,ValueTrust*Sustainability,ValueTrust*Sustainability,0.812,0.771,0.6
+2/3.1/4.5,DES_estructural,0.8,0.7,20,ValueTrust*Sustainability,ValueTrust*Sustainability,0.812,0.771,0.6
+2/3.1/4.5,DES_estructural,0.85,0.5,5,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,0.832,0.791,0.548
+2/3.1/4.5,DES_estructural,0.85,0.5,10,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,0.832,0.791,0.548
+2/3.1/4.5,DES_estructural,0.85,0.5,20,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,ValueTrust*External*Sustainability + Company*ValueTrust*Sustainability,0.832,0.791,0.548
+2/3.1/4.5,DES_estructural,0.85,0.65,5,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,0.832,0.791,0.548
+2/3.1/4.5,DES_estructural,0.85,0.65,10,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,0.832,0.791,0.548
+2/3.1/4.5,DES_estructural,0.85,0.65,20,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,ValueTrust*External*Sustainability + Company*ValueTrust*Sustainability,0.832,0.791,0.548
+2/3.1/4.5,DES_estructural,0.85,0.7,5,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,0.832,0.791,0.548
+2/3.1/4.5,DES_estructural,0.85,0.7,10,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,0.832,0.791,0.548
+2/3.1/4.5,DES_estructural,0.85,0.7,20,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,ValueTrust*External*Sustainability + Company*ValueTrust*Sustainability,0.832,0.791,0.548
+2/3.1/4.5,~DES_estructural,0.75,0.5,5,~Company*~Sustainability,~Company*~Sustainability,0.769,0.657,0.297
+2/3.1/4.5,~DES_estructural,0.75,0.5,10,~Company*~External*~Sustainability + ~Company*~ValueTrust*~Sustainability,~Company*~Sustainability,0.776,0.665,0.289
+2/3.1/4.5,~DES_estructural,0.75,0.5,20,~Company*~ValueTrust*~External*~Sustainability,~Company*~Sustainability,0.797,0.675,0.245
+2/3.1/4.5,~DES_estructural,0.75,0.65,5,~Company*~ValueTrust*~External*~Sustainability,~Company*~ValueTrust*~External*~Sustainability,0.797,0.675,0.245
+2/3.1/4.5,~DES_estructural,0.75,0.65,10,~Company*~ValueTrust*~External*~Sustainability,~Company*~ValueTrust*~External*~Sustainability,0.797,0.675,0.245
+2/3.1/4.5,~DES_estructural,0.75,0.65,20,~Company*~ValueTrust*~External*~Sustainability,~Company*~Sustainability,0.797,0.675,0.245
+2/3.1/4.5,~DES_estructural,0.75,0.7,5,sin solución,,,,
+2/3.1/4.5,~DES_estructural,0.75,0.7,10,sin solución,,,,
+2/3.1/4.5,~DES_estructural,0.75,0.7,20,sin solución,,,,
+2/3.1/4.5,~DES_estructural,0.8,0.5,5,~Company*~ValueTrust*External*~Sustainability,~Company*~ValueTrust*External*~Sustainability,0.8,0.591,0.137
+2/3.1/4.5,~DES_estructural,0.8,0.5,10,~Company*~ValueTrust*External*~Sustainability,~Company*External*~Sustainability,0.8,0.591,0.137
+2/3.1/4.5,~DES_estructural,0.8,0.5,20,sin solución,,,,
+2/3.1/4.5,~DES_estructural,0.8,0.65,5,sin solución,,,,
+2/3.1/4.5,~DES_estructural,0.8,0.65,10,sin solución,,,,
+2/3.1/4.5,~DES_estructural,0.8,0.65,20,sin solución,,,,
+2/3.1/4.5,~DES_estructural,0.8,0.7,5,sin solución,,,,
+2/3.1/4.5,~DES_estructural,0.8,0.7,10,sin solución,,,,
+2/3.1/4.5,~DES_estructural,0.8,0.7,20,sin solución,,,,
+2/3.1/4.5,~DES_estructural,0.85,0.5,5,sin solución,,,,
+2/3.1/4.5,~DES_estructural,0.85,0.5,10,sin solución,,,,
+2/3.1/4.5,~DES_estructural,0.85,0.5,20,sin solución,,,,
+2/3.1/4.5,~DES_estructural,0.85,0.65,5,sin solución,,,,
+2/3.1/4.5,~DES_estructural,0.85,0.65,10,sin solución,,,,
+2/3.1/4.5,~DES_estructural,0.85,0.65,20,sin solución,,,,
+2/3.1/4.5,~DES_estructural,0.85,0.7,5,sin solución,,,,
+2/3.1/4.5,~DES_estructural,0.85,0.7,10,sin solución,,,,
+2/3.1/4.5,~DES_estructural,0.85,0.7,20,sin solución,,,,
+2/3.1/4.5,DES_regulacion,0.75,0.5,5,External*Sustainability + ValueTrust*~External + ~Company*ValueTrust,External*Sustainability + ValueTrust*~External + ~Company*ValueTrust,0.776,0.734,0.665
+2/3.1/4.5,DES_regulacion,0.75,0.5,10,External*Sustainability + ValueTrust*~External,External*Sustainability + ValueTrust*~External,0.777,0.735,0.658
+2/3.1/4.5,DES_regulacion,0.75,0.5,20,Company*ValueTrust*~External + External*Sustainability + ValueTrust*Sustainability,External*Sustainability + ValueTrust*~External,0.777,0.739,0.704
+2/3.1/4.5,DES_regulacion,0.75,0.65,5,ValueTrust*Sustainability,ValueTrust*Sustainability,0.804,0.769,0.59
+2/3.1/4.5,DES_regulacion,0.75,0.65,10,ValueTrust*Sustainability,ValueTrust*Sustainability,0.804,0.769,0.59
+2/3.1/4.5,DES_regulacion,0.75,0.65,20,ValueTrust*Sustainability,ValueTrust*Sustainability,0.804,0.769,0.59
+2/3.1/4.5,DES_regulacion,0.75,0.7,5,ValueTrust*Sustainability,ValueTrust*Sustainability,0.804,0.769,0.59
+2/3.1/4.5,DES_regulacion,0.75,0.7,10,ValueTrust*Sustainability,ValueTrust*Sustainability,0.804,0.769,0.59
+2/3.1/4.5,DES_regulacion,0.75,0.7,20,ValueTrust*Sustainability,ValueTrust*Sustainability,0.804,0.769,0.59
+2/3.1/4.5,DES_regulacion,0.8,0.5,5,~Company*ValueTrust*External + ValueTrust*Sustainability,~Company*ValueTrust*External + ValueTrust*Sustainability,0.8,0.764,0.607
+2/3.1/4.5,DES_regulacion,0.8,0.5,10,ValueTrust*Sustainability,ValueTrust*Sustainability,0.804,0.769,0.59
+2/3.1/4.5,DES_regulacion,0.8,0.5,20,ValueTrust*Sustainability,ValueTrust*Sustainability,0.804,0.769,0.59
+2/3.1/4.5,DES_regulacion,0.8,0.65,5,ValueTrust*Sustainability,ValueTrust*Sustainability,0.804,0.769,0.59
+2/3.1/4.5,DES_regulacion,0.8,0.65,10,ValueTrust*Sustainability,ValueTrust*Sustainability,0.804,0.769,0.59
+2/3.1/4.5,DES_regulacion,0.8,0.65,20,ValueTrust*Sustainability,ValueTrust*Sustainability,0.804,0.769,0.59
+2/3.1/4.5,DES_regulacion,0.8,0.7,5,ValueTrust*Sustainability,ValueTrust*Sustainability,0.804,0.769,0.59
+2/3.1/4.5,DES_regulacion,0.8,0.7,10,ValueTrust*Sustainability,ValueTrust*Sustainability,0.804,0.769,0.59
+2/3.1/4.5,DES_regulacion,0.8,0.7,20,ValueTrust*Sustainability,ValueTrust*Sustainability,0.804,0.769,0.59
+2/3.1/4.5,DES_regulacion,0.85,0.5,5,sin solución,,,,
+2/3.1/4.5,DES_regulacion,0.85,0.5,10,sin solución,,,,
+2/3.1/4.5,DES_regulacion,0.85,0.5,20,sin solución,,,,
+2/3.1/4.5,DES_regulacion,0.85,0.65,5,sin solución,,,,
+2/3.1/4.5,DES_regulacion,0.85,0.65,10,sin solución,,,,
+2/3.1/4.5,DES_regulacion,0.85,0.65,20,sin solución,,,,
+2/3.1/4.5,DES_regulacion,0.85,0.7,5,sin solución,,,,
+2/3.1/4.5,DES_regulacion,0.85,0.7,10,sin solución,,,,
+2/3.1/4.5,DES_regulacion,0.85,0.7,20,sin solución,,,,
+2/3.1/4.5,~DES_regulacion,0.75,0.5,5,~Company*~ValueTrust*External*~Sustainability,~Company*~ValueTrust*External*~Sustainability,0.793,0.566,0.138
+2/3.1/4.5,~DES_regulacion,0.75,0.5,10,~Company*~ValueTrust*External*~Sustainability,~Company*External*~Sustainability,0.793,0.566,0.138
+2/3.1/4.5,~DES_regulacion,0.75,0.5,20,sin solución,,,,
+2/3.1/4.5,~DES_regulacion,0.75,0.65,5,sin solución,,,,
+2/3.1/4.5,~DES_regulacion,0.75,0.65,10,sin solución,,,,
+2/3.1/4.5,~DES_regulacion,0.75,0.65,20,sin solución,,,,
+2/3.1/4.5,~DES_regulacion,0.75,0.7,5,sin solución,,,,
+2/3.1/4.5,~DES_regulacion,0.75,0.7,10,sin solución,,,,
+2/3.1/4.5,~DES_regulacion,0.75,0.7,20,sin solución,,,,
+2/3.1/4.5,~DES_regulacion,0.8,0.5,5,sin solución,,,,
+2/3.1/4.5,~DES_regulacion,0.8,0.5,10,sin solución,,,,
+2/3.1/4.5,~DES_regulacion,0.8,0.5,20,sin solución,,,,
+2/3.1/4.5,~DES_regulacion,0.8,0.65,5,sin solución,,,,
+2/3.1/4.5,~DES_regulacion,0.8,0.65,10,sin solución,,,,
+2/3.1/4.5,~DES_regulacion,0.8,0.65,20,sin solución,,,,
+2/3.1/4.5,~DES_regulacion,0.8,0.7,5,sin solución,,,,
+2/3.1/4.5,~DES_regulacion,0.8,0.7,10,sin solución,,,,
+2/3.1/4.5,~DES_regulacion,0.8,0.7,20,sin solución,,,,
+2/3.1/4.5,~DES_regulacion,0.85,0.5,5,sin solución,,,,
+2/3.1/4.5,~DES_regulacion,0.85,0.5,10,sin solución,,,,
+2/3.1/4.5,~DES_regulacion,0.85,0.5,20,sin solución,,,,
+2/3.1/4.5,~DES_regulacion,0.85,0.65,5,sin solución,,,,
+2/3.1/4.5,~DES_regulacion,0.85,0.65,10,sin solución,,,,
+2/3.1/4.5,~DES_regulacion,0.85,0.65,20,sin solución,,,,
+2/3.1/4.5,~DES_regulacion,0.85,0.7,5,sin solución,,,,
+2/3.1/4.5,~DES_regulacion,0.85,0.7,10,sin solución,,,,
+2/3.1/4.5,~DES_regulacion,0.85,0.7,20,sin solución,,,,
+2.5/3.75/4.75,DES_estructural,0.75,0.5,5,Company*External + Company*Sustainability + ValueTrust*Sustainability,Company*External + Company*Sustainability + ValueTrust*Sustainability,0.705,0.627,0.691
+2.5/3.75/4.75,DES_estructural,0.75,0.5,10,Company*External + Company*Sustainability + ValueTrust*Sustainability,External*~Sustainability + ValueTrust*Sustainability + Company*Sustainability,0.705,0.627,0.691
+2.5/3.75/4.75,DES_estructural,0.75,0.5,20,Company*ValueTrust*External + Company*Sustainability + ValueTrust*Sustainability,External + Company*Sustainability + ValueTrust*Sustainability,0.707,0.629,0.673
+2.5/3.75/4.75,DES_estructural,0.75,0.65,5,ValueTrust*Sustainability,ValueTrust*Sustainability,0.744,0.672,0.499
+2.5/3.75/4.75,DES_estructural,0.75,0.65,10,ValueTrust*Sustainability,ValueTrust*Sustainability,0.744,0.672,0.499
+2.5/3.75/4.75,DES_estructural,0.75,0.65,20,ValueTrust*Sustainability,ValueTrust*Sustainability,0.744,0.672,0.499
+2.5/3.75/4.75,DES_estructural,0.75,0.7,5,Company*ValueTrust*Sustainability,Company*ValueTrust*Sustainability,0.783,0.701,0.387
+2.5/3.75/4.75,DES_estructural,0.75,0.7,10,Company*ValueTrust*Sustainability,Company*ValueTrust*Sustainability,0.783,0.701,0.387
+2.5/3.75/4.75,DES_estructural,0.75,0.7,20,Company*ValueTrust*Sustainability,Company*ValueTrust*Sustainability,0.783,0.701,0.387
+2.5/3.75/4.75,DES_estructural,0.8,0.5,5,Company*ValueTrust*~External*Sustainability + ~Company*ValueTrust*External*Sustainability,Company*ValueTrust*~External*Sustainability + ~Company*ValueTrust*External,0.802,0.708,0.332
+2.5/3.75/4.75,DES_estructural,0.8,0.5,10,Company*ValueTrust*~External*Sustainability + ~Company*ValueTrust*External*Sustainability,Company*ValueTrust*~External*Sustainability + ~Company*ValueTrust*External,0.802,0.708,0.332
+2.5/3.75/4.75,DES_estructural,0.8,0.5,20,Company*ValueTrust*~External*Sustainability + ~Company*ValueTrust*External*Sustainability,Company*ValueTrust*~External*Sustainability + ~Company*External,0.802,0.708,0.332
+2.5/3.75/4.75,DES_estructural,0.8,0.65,5,Company*ValueTrust*~External*Sustainability + ~Company*ValueTrust*External*Sustainability,Company*ValueTrust*~External*Sustainability + ~Company*ValueTrust*External,0.802,0.708,0.332
+2.5/3.75/4.75,DES_estructural,0.8,0.65,10,Company*ValueTrust*~External*Sustainability + ~Company*ValueTrust*External*Sustainability,Company*ValueTrust*~External*Sustainability + ~Company*ValueTrust*External,0.802,0.708,0.332
+2.5/3.75/4.75,DES_estructural,0.8,0.65,20,Company*ValueTrust*~External*Sustainability + ~Company*ValueTrust*External*Sustainability,Company*ValueTrust*~External*Sustainability + ~Company*External,0.802,0.708,0.332
+2.5/3.75/4.75,DES_estructural,0.8,0.7,5,Company*ValueTrust*~External*Sustainability,Company*ValueTrust*~External*Sustainability,0.817,0.721,0.302
+2.5/3.75/4.75,DES_estructural,0.8,0.7,10,Company*ValueTrust*~External*Sustainability,Company*ValueTrust*~External*Sustainability,0.817,0.721,0.302
+2.5/3.75/4.75,DES_estructural,0.8,0.7,20,Company*ValueTrust*~External*Sustainability,Company*ValueTrust*~External*Sustainability,0.817,0.721,0.302
+2.5/3.75/4.75,DES_estructural,0.85,0.5,5,sin solución,,,,
+2.5/3.75/4.75,DES_estructural,0.85,0.5,10,sin solución,,,,
+2.5/3.75/4.75,DES_estructural,0.85,0.5,20,sin solución,,,,
+2.5/3.75/4.75,DES_estructural,0.85,0.65,5,sin solución,,,,
+2.5/3.75/4.75,DES_estructural,0.85,0.65,10,sin solución,,,,
+2.5/3.75/4.75,DES_estructural,0.85,0.65,20,sin solución,,,,
+2.5/3.75/4.75,DES_estructural,0.85,0.7,5,sin solución,,,,
+2.5/3.75/4.75,DES_estructural,0.85,0.7,10,sin solución,,,,
+2.5/3.75/4.75,DES_estructural,0.85,0.7,20,sin solución,,,,
+2.5/3.75/4.75,~DES_estructural,0.75,0.5,5,~Company*~ValueTrust*External + ~Company*~External*~Sustainability,~Company*~ValueTrust*External + ~Company*~Sustainability,0.758,0.672,0.417
+2.5/3.75/4.75,~DES_estructural,0.75,0.5,10,~Company*~ValueTrust*External + ~Company*~External*~Sustainability,~Company*~ValueTrust*External + ~Company*~Sustainability,0.758,0.672,0.417
+2.5/3.75/4.75,~DES_estructural,0.75,0.5,20,~Company*~External*~Sustainability,~Company*~Sustainability,0.77,0.689,0.352
+2.5/3.75/4.75,~DES_estructural,0.75,0.65,5,~Company*~ValueTrust*~External*~Sustainability,~Company*~ValueTrust*~External*~Sustainability,0.793,0.717,0.327
+2.5/3.75/4.75,~DES_estructural,0.75,0.65,10,~Company*~ValueTrust*~External*~Sustainability,~Company*~ValueTrust*~Sustainability,0.793,0.717,0.327
+2.5/3.75/4.75,~DES_estructural,0.75,0.65,20,~Company*~ValueTrust*~External*~Sustainability,~Company*~ValueTrust*~Sustainability,0.793,0.717,0.327
+2.5/3.75/4.75,~DES_estructural,0.75,0.7,5,~Company*~ValueTrust*~External*~Sustainability,~Company*~ValueTrust*~External*~Sustainability,0.793,0.717,0.327
+2.5/3.75/4.75,~DES_estructural,0.75,0.7,10,~Company*~ValueTrust*~External*~Sustainability,~Company*~ValueTrust*~Sustainability,0.793,0.717,0.327
+2.5/3.75/4.75,~DES_estructural,0.75,0.7,20,~Company*~ValueTrust*~External*~Sustainability,~Company*~ValueTrust*~Sustainability,0.793,0.717,0.327
+2.5/3.75/4.75,~DES_estructural,0.8,0.5,5,~Company*~ValueTrust*External*~Sustainability,~Company*External*~Sustainability,0.818,0.615,0.106
+2.5/3.75/4.75,~DES_estructural,0.8,0.5,10,sin solución,,,,
+2.5/3.75/4.75,~DES_estructural,0.8,0.5,20,sin solución,,,,
+2.5/3.75/4.75,~DES_estructural,0.8,0.65,5,sin solución,,,,
+2.5/3.75/4.75,~DES_estructural,0.8,0.65,10,sin solución,,,,
+2.5/3.75/4.75,~DES_estructural,0.8,0.65,20,sin solución,,,,
+2.5/3.75/4.75,~DES_estructural,0.8,0.7,5,sin solución,,,,
+2.5/3.75/4.75,~DES_estructural,0.8,0.7,10,sin solución,,,,
+2.5/3.75/4.75,~DES_estructural,0.8,0.7,20,sin solución,,,,
+2.5/3.75/4.75,~DES_estructural,0.85,0.5,5,sin solución,,,,
+2.5/3.75/4.75,~DES_estructural,0.85,0.5,10,sin solución,,,,
+2.5/3.75/4.75,~DES_estructural,0.85,0.5,20,sin solución,,,,
+2.5/3.75/4.75,~DES_estructural,0.85,0.65,5,sin solución,,,,
+2.5/3.75/4.75,~DES_estructural,0.85,0.65,10,sin solución,,,,
+2.5/3.75/4.75,~DES_estructural,0.85,0.65,20,sin solución,,,,
+2.5/3.75/4.75,~DES_estructural,0.85,0.7,5,sin solución,,,,
+2.5/3.75/4.75,~DES_estructural,0.85,0.7,10,sin solución,,,,
+2.5/3.75/4.75,~DES_estructural,0.85,0.7,20,sin solución,,,,
+2.5/3.75/4.75,DES_regulacion,0.75,0.5,5,External*Sustainability + ValueTrust*Sustainability,External*Sustainability + ValueTrust*Sustainability,0.746,0.68,0.553
+2.5/3.75/4.75,DES_regulacion,0.75,0.5,10,External*Sustainability + ValueTrust*Sustainability,External*Sustainability + ValueTrust*Sustainability,0.746,0.68,0.553
+2.5/3.75/4.75,DES_regulacion,0.75,0.5,20,Company*External*Sustainability + ValueTrust*Sustainability,~ValueTrust*External + ValueTrust*Sustainability,0.752,0.686,0.533
+2.5/3.75/4.75,DES_regulacion,0.75,0.65,5,ValueTrust*~External*Sustainability + Company*ValueTrust*Sustainability,ValueTrust*~External*Sustainability + Company*ValueTrust*Sustainability,0.775,0.711,0.464
+2.5/3.75/4.75,DES_regulacion,0.75,0.65,10,ValueTrust*~External*Sustainability + Company*ValueTrust*Sustainability,ValueTrust*~External*Sustainability + Company*ValueTrust*Sustainability,0.775,0.711,0.464
+2.5/3.75/4.75,DES_regulacion,0.75,0.65,20,ValueTrust*~External*Sustainability + Company*ValueTrust*Sustainability,ValueTrust*~External*Sustainability + Company*ValueTrust*Sustainability,0.775,0.711,0.464
+2.5/3.75/4.75,DES_regulacion,0.75,0.7,5,ValueTrust*~External*Sustainability,ValueTrust*~External*Sustainability,0.79,0.718,0.378
+2.5/3.75/4.75,DES_regulacion,0.75,0.7,10,ValueTrust*~External*Sustainability,ValueTrust*~External*Sustainability,0.79,0.718,0.378
+2.5/3.75/4.75,DES_regulacion,0.75,0.7,20,ValueTrust*~External*Sustainability,ValueTrust*~External*Sustainability,0.79,0.718,0.378
+2.5/3.75/4.75,DES_regulacion,0.8,0.5,5,ValueTrust*~External*Sustainability,ValueTrust*~External*Sustainability,0.79,0.718,0.378
+2.5/3.75/4.75,DES_regulacion,0.8,0.5,10,ValueTrust*~External*Sustainability,ValueTrust*~External*Sustainability,0.79,0.718,0.378
+2.5/3.75/4.75,DES_regulacion,0.8,0.5,20,ValueTrust*~External*Sustainability,ValueTrust*~External*Sustainability,0.79,0.718,0.378
+2.5/3.75/4.75,DES_regulacion,0.8,0.65,5,ValueTrust*~External*Sustainability,ValueTrust*~External*Sustainability,0.79,0.718,0.378
+2.5/3.75/4.75,DES_regulacion,0.8,0.65,10,ValueTrust*~External*Sustainability,ValueTrust*~External*Sustainability,0.79,0.718,0.378
+2.5/3.75/4.75,DES_regulacion,0.8,0.65,20,ValueTrust*~External*Sustainability,ValueTrust*~External*Sustainability,0.79,0.718,0.378
+2.5/3.75/4.75,DES_regulacion,0.8,0.7,5,ValueTrust*~External*Sustainability,ValueTrust*~External*Sustainability,0.79,0.718,0.378
+2.5/3.75/4.75,DES_regulacion,0.8,0.7,10,ValueTrust*~External*Sustainability,ValueTrust*~External*Sustainability,0.79,0.718,0.378
+2.5/3.75/4.75,DES_regulacion,0.8,0.7,20,ValueTrust*~External*Sustainability,ValueTrust*~External*Sustainability,0.79,0.718,0.378
+2.5/3.75/4.75,DES_regulacion,0.85,0.5,5,sin solución,,,,
+2.5/3.75/4.75,DES_regulacion,0.85,0.5,10,sin solución,,,,
+2.5/3.75/4.75,DES_regulacion,0.85,0.5,20,sin solución,,,,
+2.5/3.75/4.75,DES_regulacion,0.85,0.65,5,sin solución,,,,
+2.5/3.75/4.75,DES_regulacion,0.85,0.65,10,sin solución,,,,
+2.5/3.75/4.75,DES_regulacion,0.85,0.65,20,sin solución,,,,
+2.5/3.75/4.75,DES_regulacion,0.85,0.7,5,sin solución,,,,
+2.5/3.75/4.75,DES_regulacion,0.85,0.7,10,sin solución,,,,
+2.5/3.75/4.75,DES_regulacion,0.85,0.7,20,sin solución,,,,
+2.5/3.75/4.75,~DES_regulacion,0.75,0.5,5,External*~Sustainability,External*~Sustainability,0.74,0.579,0.165
+2.5/3.75/4.75,~DES_regulacion,0.75,0.5,10,External*~Sustainability,External*~Sustainability,0.74,0.579,0.165
+2.5/3.75/4.75,~DES_regulacion,0.75,0.5,20,External*~Sustainability,External*~Sustainability,0.74,0.579,0.165
+2.5/3.75/4.75,~DES_regulacion,0.75,0.65,5,~Company*~ValueTrust*External*~Sustainability,~Company*External*~Sustainability,0.839,0.669,0.113
+2.5/3.75/4.75,~DES_regulacion,0.75,0.65,10,sin solución,,,,
+2.5/3.75/4.75,~DES_regulacion,0.75,0.65,20,sin solución,,,,
+2.5/3.75/4.75,~DES_regulacion,0.75,0.7,5,sin solución,,,,
+2.5/3.75/4.75,~DES_regulacion,0.75,0.7,10,sin solución,,,,
+2.5/3.75/4.75,~DES_regulacion,0.75,0.7,20,sin solución,,,,
+2.5/3.75/4.75,~DES_regulacion,0.8,0.5,5,~Company*~ValueTrust*External*~Sustainability,~Company*External*~Sustainability,0.839,0.669,0.113
+2.5/3.75/4.75,~DES_regulacion,0.8,0.5,10,sin solución,,,,
+2.5/3.75/4.75,~DES_regulacion,0.8,0.5,20,sin solución,,,,
+2.5/3.75/4.75,~DES_regulacion,0.8,0.65,5,~Company*~ValueTrust*External*~Sustainability,~Company*External*~Sustainability,0.839,0.669,0.113
+2.5/3.75/4.75,~DES_regulacion,0.8,0.65,10,sin solución,,,,
+2.5/3.75/4.75,~DES_regulacion,0.8,0.65,20,sin solución,,,,
+2.5/3.75/4.75,~DES_regulacion,0.8,0.7,5,sin solución,,,,
+2.5/3.75/4.75,~DES_regulacion,0.8,0.7,10,sin solución,,,,
+2.5/3.75/4.75,~DES_regulacion,0.8,0.7,20,sin solución,,,,
+2.5/3.75/4.75,~DES_regulacion,0.85,0.5,5,sin solución,,,,
+2.5/3.75/4.75,~DES_regulacion,0.85,0.5,10,sin solución,,,,
+2.5/3.75/4.75,~DES_regulacion,0.85,0.5,20,sin solución,,,,
+2.5/3.75/4.75,~DES_regulacion,0.85,0.65,5,sin solución,,,,
+2.5/3.75/4.75,~DES_regulacion,0.85,0.65,10,sin solución,,,,
+2.5/3.75/4.75,~DES_regulacion,0.85,0.65,20,sin solución,,,,
+2.5/3.75/4.75,~DES_regulacion,0.85,0.7,5,sin solución,,,,
+2.5/3.75/4.75,~DES_regulacion,0.85,0.7,10,sin solución,,,,
+2.5/3.75/4.75,~DES_regulacion,0.85,0.7,20,sin solución,,,,
+2/3.4/4.8,DES_estructural,0.75,0.5,5,Company + ValueTrust*Sustainability,Company + ValueTrust*Sustainability,0.721,0.651,0.836
+2/3.4/4.8,DES_estructural,0.75,0.5,10,Company + ValueTrust*Sustainability,Company + ValueTrust*Sustainability,0.721,0.651,0.836
+2/3.4/4.8,DES_estructural,0.75,0.5,20,Company + ValueTrust*Sustainability,Company + ValueTrust*Sustainability,0.721,0.651,0.836
+2/3.4/4.8,DES_estructural,0.75,0.65,5,ValueTrust*Sustainability,ValueTrust*Sustainability,0.792,0.728,0.567
+2/3.4/4.8,DES_estructural,0.75,0.65,10,ValueTrust*Sustainability,ValueTrust*Sustainability,0.792,0.728,0.567
+2/3.4/4.8,DES_estructural,0.75,0.65,20,ValueTrust*Sustainability,ValueTrust*Sustainability,0.792,0.728,0.567
+2/3.4/4.8,DES_estructural,0.75,0.7,5,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,0.817,0.75,0.503
+2/3.4/4.8,DES_estructural,0.75,0.7,10,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,0.817,0.75,0.503
+2/3.4/4.8,DES_estructural,0.75,0.7,20,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,Company*ValueTrust*Sustainability + ~Company*External,0.817,0.75,0.503
+2/3.4/4.8,DES_estructural,0.8,0.5,5,Company*External + ValueTrust*Sustainability,Company*External + ValueTrust*Sustainability,0.771,0.701,0.678
+2/3.4/4.8,DES_estructural,0.8,0.5,10,Company*External + ValueTrust*Sustainability,Company*External + ValueTrust*Sustainability,0.771,0.701,0.678
+2/3.4/4.8,DES_estructural,0.8,0.5,20,Company*External + ValueTrust*Sustainability,External + ValueTrust*Sustainability,0.771,0.701,0.678
+2/3.4/4.8,DES_estructural,0.8,0.65,5,ValueTrust*Sustainability,ValueTrust*Sustainability,0.792,0.728,0.567
+2/3.4/4.8,DES_estructural,0.8,0.65,10,ValueTrust*Sustainability,ValueTrust*Sustainability,0.792,0.728,0.567
+2/3.4/4.8,DES_estructural,0.8,0.65,20,ValueTrust*Sustainability,ValueTrust*Sustainability,0.792,0.728,0.567
+2/3.4/4.8,DES_estructural,0.8,0.7,5,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,0.817,0.75,0.503
+2/3.4/4.8,DES_estructural,0.8,0.7,10,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,0.817,0.75,0.503
+2/3.4/4.8,DES_estructural,0.8,0.7,20,Company*ValueTrust*Sustainability + ValueTrust*External*Sustainability,Company*ValueTrust*Sustainability + ~Company*External,0.817,0.75,0.503
+2/3.4/4.8,DES_estructural,0.85,0.5,5,Company*ValueTrust*~External*Sustainability + ~Company*ValueTrust*External*Sustainability,Company*ValueTrust*~External*Sustainability + ~Company*ValueTrust*External,0.849,0.769,0.375
+2/3.4/4.8,DES_estructural,0.85,0.5,10,Company*ValueTrust*~External*Sustainability + ~Company*ValueTrust*External*Sustainability,Company*ValueTrust*~External*Sustainability + ~Company*ValueTrust*External,0.849,0.769,0.375
+2/3.4/4.8,DES_estructural,0.85,0.5,20,Company*ValueTrust*~External*Sustainability + ~Company*ValueTrust*External*Sustainability,Company*ValueTrust*~External*Sustainability + ~Company*External,0.849,0.769,0.375
+2/3.4/4.8,DES_estructural,0.85,0.65,5,Company*ValueTrust*~External*Sustainability + ~Company*ValueTrust*External*Sustainability,Company*ValueTrust*~External*Sustainability + ~Company*ValueTrust*External,0.849,0.769,0.375
+2/3.4/4.8,DES_estructural,0.85,0.65,10,Company*ValueTrust*~External*Sustainability + ~Company*ValueTrust*External*Sustainability,Company*ValueTrust*~External*Sustainability + ~Company*ValueTrust*External,0.849,0.769,0.375
+2/3.4/4.8,DES_estructural,0.85,0.65,20,Company*ValueTrust*~External*Sustainability + ~Company*ValueTrust*External*Sustainability,Company*ValueTrust*~External*Sustainability + ~Company*External,0.849,0.769,0.375
+2/3.4/4.8,DES_estructural,0.85,0.7,5,Company*ValueTrust*~External*Sustainability + ~Company*ValueTrust*External*Sustainability,Company*ValueTrust*~External*Sustainability + ~Company*ValueTrust*External,0.849,0.769,0.375
+2/3.4/4.8,DES_estructural,0.85,0.7,10,Company*ValueTrust*~External*Sustainability + ~Company*ValueTrust*External*Sustainability,Company*ValueTrust*~External*Sustainability + ~Company*ValueTrust*External,0.849,0.769,0.375
+2/3.4/4.8,DES_estructural,0.85,0.7,20,Company*ValueTrust*~External*Sustainability + ~Company*ValueTrust*External*Sustainability,Company*ValueTrust*~External*Sustainability + ~Company*External,0.849,0.769,0.375
+2/3.4/4.8,~DES_estructural,0.75,0.5,5,~Company*~ValueTrust*External + ~Company*~External*~Sustainability,~Company*~ValueTrust*External + ~Company*~Sustainability,0.766,0.635,0.421
+2/3.4/4.8,~DES_estructural,0.75,0.5,10,~Company*~ValueTrust*External + ~Company*~External*~Sustainability,~Company*~ValueTrust*External + ~Company*~Sustainability,0.766,0.635,0.421
+2/3.4/4.8,~DES_estructural,0.75,0.5,20,~Company*~External*~Sustainability,~Company*~Sustainability,0.788,0.667,0.334
+2/3.4/4.8,~DES_estructural,0.75,0.65,5,~Company*~ValueTrust*~External*~Sustainability,~Company*~ValueTrust*~External*~Sustainability,0.812,0.694,0.31
+2/3.4/4.8,~DES_estructural,0.75,0.65,10,~Company*~ValueTrust*~External*~Sustainability,~Company*~ValueTrust*~External*~Sustainability,0.812,0.694,0.31
+2/3.4/4.8,~DES_estructural,0.75,0.65,20,~Company*~ValueTrust*~External*~Sustainability,~Company*~ValueTrust*~Sustainability,0.812,0.694,0.31
+2/3.4/4.8,~DES_estructural,0.75,0.7,5,sin solución,,,,
+2/3.4/4.8,~DES_estructural,0.75,0.7,10,sin solución,,,,
+2/3.4/4.8,~DES_estructural,0.75,0.7,20,sin solución,,,,
+2/3.4/4.8,~DES_estructural,0.8,0.5,5,~Company*~ValueTrust*~Sustainability,~Company*~ValueTrust*~Sustainability,0.812,0.702,0.327
+2/3.4/4.8,~DES_estructural,0.8,0.5,10,~Company*~ValueTrust*~Sustainability,~Company*~ValueTrust*~Sustainability,0.812,0.702,0.327
+2/3.4/4.8,~DES_estructural,0.8,0.5,20,~Company*~ValueTrust*~External*~Sustainability,~Company*~ValueTrust*~Sustainability,0.812,0.694,0.31
+2/3.4/4.8,~DES_estructural,0.8,0.65,5,~Company*~ValueTrust*~External*~Sustainability,~Company*~ValueTrust*~External*~Sustainability,0.812,0.694,0.31
+2/3.4/4.8,~DES_estructural,0.8,0.65,10,~Company*~ValueTrust*~External*~Sustainability,~Company*~ValueTrust*~External*~Sustainability,0.812,0.694,0.31
+2/3.4/4.8,~DES_estructural,0.8,0.65,20,~Company*~ValueTrust*~External*~Sustainability,~Company*~ValueTrust*~Sustainability,0.812,0.694,0.31
+2/3.4/4.8,~DES_estructural,0.8,0.7,5,sin solución,,,,
+2/3.4/4.8,~DES_estructural,0.8,0.7,10,sin solución,,,,
+2/3.4/4.8,~DES_estructural,0.8,0.7,20,sin solución,,,,
+2/3.4/4.8,~DES_estructural,0.85,0.5,5,sin solución,,,,
+2/3.4/4.8,~DES_estructural,0.85,0.5,10,sin solución,,,,
+2/3.4/4.8,~DES_estructural,0.85,0.5,20,sin solución,,,,
+2/3.4/4.8,~DES_estructural,0.85,0.65,5,sin solución,,,,
+2/3.4/4.8,~DES_estructural,0.85,0.65,10,sin solución,,,,
+2/3.4/4.8,~DES_estructural,0.85,0.65,20,sin solución,,,,
+2/3.4/4.8,~DES_estructural,0.85,0.7,5,sin solución,,,,
+2/3.4/4.8,~DES_estructural,0.85,0.7,10,sin solución,,,,
+2/3.4/4.8,~DES_estructural,0.85,0.7,20,sin solución,,,,
+2/3.4/4.8,DES_regulacion,0.75,0.5,5,External*Sustainability + ValueTrust*~External,External*Sustainability + ValueTrust*~External,0.767,0.705,0.64
+2/3.4/4.8,DES_regulacion,0.75,0.5,10,External*Sustainability + ValueTrust*~External,External*Sustainability + ValueTrust*~External,0.767,0.705,0.64
+2/3.4/4.8,DES_regulacion,0.75,0.5,20,Company*External*Sustainability + ValueTrust*~External + ValueTrust*Sustainability,External*Sustainability + ValueTrust*~External,0.765,0.707,0.664
+2/3.4/4.8,DES_regulacion,0.75,0.65,5,ValueTrust*Sustainability,ValueTrust*Sustainability,0.793,0.738,0.557
+2/3.4/4.8,DES_regulacion,0.75,0.65,10,ValueTrust*Sustainability,ValueTrust*Sustainability,0.793,0.738,0.557
+2/3.4/4.8,DES_regulacion,0.75,0.65,20,ValueTrust*Sustainability,ValueTrust*Sustainability,0.793,0.738,0.557
+2/3.4/4.8,DES_regulacion,0.75,0.7,5,ValueTrust*~External*Sustainability + Company*ValueTrust*Sustainability,ValueTrust*~External*Sustainability + Company*ValueTrust*Sustainability,0.806,0.749,0.522
+2/3.4/4.8,DES_regulacion,0.75,0.7,10,ValueTrust*~External*Sustainability + Company*ValueTrust*Sustainability,ValueTrust*~External*Sustainability + Company*ValueTrust*Sustainability,0.806,0.749,0.522
+2/3.4/4.8,DES_regulacion,0.75,0.7,20,ValueTrust*~External*Sustainability + Company*ValueTrust*Sustainability,ValueTrust*~External*Sustainability + Company*ValueTrust*Sustainability,0.806,0.749,0.522
+2/3.4/4.8,DES_regulacion,0.8,0.5,5,ValueTrust*Sustainability + ~Company*External*Sustainability,ValueTrust*Sustainability + ~Company*External*Sustainability,0.787,0.728,0.589
+2/3.4/4.8,DES_regulacion,0.8,0.5,10,ValueTrust*Sustainability + ~Company*External*Sustainability,ValueTrust*Sustainability + ~Company*External*Sustainability,0.787,0.728,0.589
+2/3.4/4.8,DES_regulacion,0.8,0.5,20,ValueTrust*Sustainability,ValueTrust*Sustainability,0.793,0.738,0.557
+2/3.4/4.8,DES_regulacion,0.8,0.65,5,ValueTrust*Sustainability,ValueTrust*Sustainability,0.793,0.738,0.557
+2/3.4/4.8,DES_regulacion,0.8,0.65,10,ValueTrust*Sustainability,ValueTrust*Sustainability,0.793,0.738,0.557
+2/3.4/4.8,DES_regulacion,0.8,0.65,20,ValueTrust*Sustainability,ValueTrust*Sustainability,0.793,0.738,0.557
+2/3.4/4.8,DES_regulacion,0.8,0.7,5,ValueTrust*~External*Sustainability + Company*ValueTrust*Sustainability,ValueTrust*~External*Sustainability + Company*ValueTrust*Sustainability,0.806,0.749,0.522
+2/3.4/4.8,DES_regulacion,0.8,0.7,10,ValueTrust*~External*Sustainability + Company*ValueTrust*Sustainability,ValueTrust*~External*Sustainability + Company*ValueTrust*Sustainability,0.806,0.749,0.522
+2/3.4/4.8,DES_regulacion,0.8,0.7,20,ValueTrust*~External*Sustainability + Company*ValueTrust*Sustainability,ValueTrust*~External*Sustainability + Company*ValueTrust*Sustainability,0.806,0.749,0.522
+2/3.4/4.8,DES_regulacion,0.85,0.5,5,sin solución,,,,
+2/3.4/4.8,DES_regulacion,0.85,0.5,10,sin solución,,,,
+2/3.4/4.8,DES_regulacion,0.85,0.5,20,sin solución,,,,
+2/3.4/4.8,DES_regulacion,0.85,0.65,5,sin solución,,,,
+2/3.4/4.8,DES_regulacion,0.85,0.65,10,sin solución,,,,
+2/3.4/4.8,DES_regulacion,0.85,0.65,20,sin solución,,,,
+2/3.4/4.8,DES_regulacion,0.85,0.7,5,sin solución,,,,
+2/3.4/4.8,DES_regulacion,0.85,0.7,10,sin solución,,,,
+2/3.4/4.8,DES_regulacion,0.85,0.7,20,sin solución,,,,
+2/3.4/4.8,~DES_regulacion,0.75,0.5,5,External*~Sustainability,External*~Sustainability,0.719,0.523,0.237
+2/3.4/4.8,~DES_regulacion,0.75,0.5,10,External*~Sustainability,External*~Sustainability,0.719,0.523,0.237
+2/3.4/4.8,~DES_regulacion,0.75,0.5,20,External*~Sustainability,External*~Sustainability,0.719,0.523,0.237
+2/3.4/4.8,~DES_regulacion,0.75,0.65,5,sin solución,,,,
+2/3.4/4.8,~DES_regulacion,0.75,0.65,10,sin solución,,,,
+2/3.4/4.8,~DES_regulacion,0.75,0.65,20,sin solución,,,,
+2/3.4/4.8,~DES_regulacion,0.75,0.7,5,sin solución,,,,
+2/3.4/4.8,~DES_regulacion,0.75,0.7,10,sin solución,,,,
+2/3.4/4.8,~DES_regulacion,0.75,0.7,20,sin solución,,,,
+2/3.4/4.8,~DES_regulacion,0.8,0.5,5,~Company*~ValueTrust*External*~Sustainability,~Company*External*~Sustainability,0.842,0.622,0.167
+2/3.4/4.8,~DES_regulacion,0.8,0.5,10,~Company*~ValueTrust*External*~Sustainability,~Company*External*~Sustainability,0.842,0.622,0.167
+2/3.4/4.8,~DES_regulacion,0.8,0.5,20,sin solución,,,,
+2/3.4/4.8,~DES_regulacion,0.8,0.65,5,sin solución,,,,
+2/3.4/4.8,~DES_regulacion,0.8,0.65,10,sin solución,,,,
+2/3.4/4.8,~DES_regulacion,0.8,0.65,20,sin solución,,,,
+2/3.4/4.8,~DES_regulacion,0.8,0.7,5,sin solución,,,,
+2/3.4/4.8,~DES_regulacion,0.8,0.7,10,sin solución,,,,
+2/3.4/4.8,~DES_regulacion,0.8,0.7,20,sin solución,,,,
+2/3.4/4.8,~DES_regulacion,0.85,0.5,5,sin solución,,,,
+2/3.4/4.8,~DES_regulacion,0.85,0.5,10,sin solución,,,,
+2/3.4/4.8,~DES_regulacion,0.85,0.5,20,sin solución,,,,
+2/3.4/4.8,~DES_regulacion,0.85,0.65,5,sin solución,,,,
+2/3.4/4.8,~DES_regulacion,0.85,0.65,10,sin solución,,,,
+2/3.4/4.8,~DES_regulacion,0.85,0.65,20,sin solución,,,,
+2/3.4/4.8,~DES_regulacion,0.85,0.7,5,sin solución,,,,
+2/3.4/4.8,~DES_regulacion,0.85,0.7,10,sin solución,,,,
+2/3.4/4.8,~DES_regulacion,0.85,0.7,20,sin solución,,,,
+p10-50-90,DES_estructural,0.75,0.5,5,Company*ValueTrust*External + Company*Sustainability + ValueTrust*Sustainability,Company*ValueTrust*External + Company*Sustainability + ValueTrust*Sustainability,0.687,0.541,0.703
+p10-50-90,DES_estructural,0.75,0.5,10,Company*ValueTrust*External + Company*Sustainability + ValueTrust*Sustainability,Company*ValueTrust*External + Company*Sustainability + ValueTrust*Sustainability,0.687,0.541,0.703
+p10-50-90,DES_estructural,0.75,0.5,20,Company*ValueTrust*External + Company*Sustainability + ValueTrust*Sustainability,Company*ValueTrust*External + Company*Sustainability + ValueTrust*Sustainability,0.687,0.541,0.703
+p10-50-90,DES_estructural,0.75,0.65,5,sin solución,,,,
+p10-50-90,DES_estructural,0.75,0.65,10,sin solución,,,,
+p10-50-90,DES_estructural,0.75,0.65,20,sin solución,,,,
+p10-50-90,DES_estructural,0.75,0.7,5,sin solución,,,,
+p10-50-90,DES_estructural,0.75,0.7,10,sin solución,,,,
+p10-50-90,DES_estructural,0.75,0.7,20,sin solución,,,,
+p10-50-90,DES_estructural,0.8,0.5,5,ValueTrust*External*Sustainability + Company*ValueTrust*External + Company*Sustainability,ValueTrust*External*Sustainability + Company*ValueTrust*External + Company*Sustainability,0.704,0.554,0.659
+p10-50-90,DES_estructural,0.8,0.5,10,ValueTrust*External*Sustainability + Company*ValueTrust*External + Company*Sustainability,ValueTrust*External*Sustainability + Company*ValueTrust*External + Company*Sustainability,0.704,0.554,0.659
+p10-50-90,DES_estructural,0.8,0.5,20,ValueTrust*External*Sustainability + Company*ValueTrust*External + Company*Sustainability,ValueTrust*External*Sustainability + Company*ValueTrust*External + Company*Sustainability,0.704,0.554,0.659
+p10-50-90,DES_estructural,0.8,0.65,5,sin solución,,,,
+p10-50-90,DES_estructural,0.8,0.65,10,sin solución,,,,
+p10-50-90,DES_estructural,0.8,0.65,20,sin solución,,,,
+p10-50-90,DES_estructural,0.8,0.7,5,sin solución,,,,
+p10-50-90,DES_estructural,0.8,0.7,10,sin solución,,,,
+p10-50-90,DES_estructural,0.8,0.7,20,sin solución,,,,
+p10-50-90,DES_estructural,0.85,0.5,5,sin solución,,,,
+p10-50-90,DES_estructural,0.85,0.5,10,sin solución,,,,
+p10-50-90,DES_estructural,0.85,0.5,20,sin solución,,,,
+p10-50-90,DES_estructural,0.85,0.65,5,sin solución,,,,
+p10-50-90,DES_estructural,0.85,0.65,10,sin solución,,,,
+p10-50-90,DES_estructural,0.85,0.65,20,sin solución,,,,
+p10-50-90,DES_estructural,0.85,0.7,5,sin solución,,,,
+p10-50-90,DES_estructural,0.85,0.7,10,sin solución,,,,
+p10-50-90,DES_estructural,0.85,0.7,20,sin solución,,,,
+p10-50-90,~DES_estructural,0.75,0.5,5,~Company*~Sustainability + ~External*~Sustainability + ~Company*~ValueTrust,~Company*~Sustainability + ~External*~Sustainability + ~Company*~ValueTrust,0.741,0.635,0.684
+p10-50-90,~DES_estructural,0.75,0.5,10,~Company*~Sustainability + ~External*~Sustainability + ~Company*~ValueTrust,~Company*~Sustainability + ~External*~Sustainability + ~Company*~ValueTrust,0.741,0.635,0.684
+p10-50-90,~DES_estructural,0.75,0.5,20,~Company*~Sustainability + ~External*~Sustainability + ~Company*~ValueTrust,~Company*~Sustainability + ~External*~Sustainability + ~Company*~ValueTrust,0.741,0.635,0.684
+p10-50-90,~DES_estructural,0.75,0.65,5,~Company*~ValueTrust*~Sustainability,~Company*~ValueTrust*~Sustainability,0.832,0.736,0.383
+p10-50-90,~DES_estructural,0.75,0.65,10,~Company*~ValueTrust*~Sustainability,~Company*~ValueTrust*~Sustainability,0.832,0.736,0.383
+p10-50-90,~DES_estructural,0.75,0.65,20,~Company*~ValueTrust*~Sustainability,~Company*~ValueTrust*~Sustainability,0.832,0.736,0.383
+p10-50-90,~DES_estructural,0.75,0.7,5,~Company*~ValueTrust*~External*~Sustainability,~Company*~ValueTrust*~External*~Sustainability,0.847,0.749,0.322
+p10-50-90,~DES_estructural,0.75,0.7,10,~Company*~ValueTrust*~External*~Sustainability,~Company*~ValueTrust*~External*~Sustainability,0.847,0.749,0.322
+p10-50-90,~DES_estructural,0.75,0.7,20,~Company*~ValueTrust*~External*~Sustainability,~Company*~ValueTrust*~External*~Sustainability,0.847,0.749,0.322
+p10-50-90,~DES_estructural,0.8,0.5,5,~Company*~ValueTrust*External + ~Company*~Sustainability + ~External*~Sustainability,~Company*~ValueTrust*External + ~Company*~Sustainability + ~External*~Sustainability,0.753,0.638,0.607
+p10-50-90,~DES_estructural,0.8,0.5,10,~Company*~ValueTrust*External + ~Company*~Sustainability + ~External*~Sustainability,~Company*~ValueTrust*External + ~Company*~Sustainability + ~External*~Sustainability,0.753,0.638,0.607
+p10-50-90,~DES_estructural,0.8,0.5,20,~Company*~ValueTrust*External + ~Company*~Sustainability + ~External*~Sustainability,~Company*~ValueTrust*External + ~Company*~Sustainability + ~External*~Sustainability,0.753,0.638,0.607
+p10-50-90,~DES_estructural,0.8,0.65,5,~Company*~ValueTrust*~Sustainability,~Company*~ValueTrust*~Sustainability,0.832,0.736,0.383
+p10-50-90,~DES_estructural,0.8,0.65,10,~Company*~ValueTrust*~Sustainability,~Company*~ValueTrust*~Sustainability,0.832,0.736,0.383
+p10-50-90,~DES_estructural,0.8,0.65,20,~Company*~ValueTrust*~Sustainability,~Company*~ValueTrust*~Sustainability,0.832,0.736,0.383
+p10-50-90,~DES_estructural,0.8,0.7,5,~Company*~ValueTrust*~External*~Sustainability,~Company*~ValueTrust*~External*~Sustainability,0.847,0.749,0.322
+p10-50-90,~DES_estructural,0.8,0.7,10,~Company*~ValueTrust*~External*~Sustainability,~Company*~ValueTrust*~External*~Sustainability,0.847,0.749,0.322
+p10-50-90,~DES_estructural,0.8,0.7,20,~Company*~ValueTrust*~External*~Sustainability,~Company*~ValueTrust*~External*~Sustainability,0.847,0.749,0.322
+p10-50-90,~DES_estructural,0.85,0.5,5,sin solución,,,,
+p10-50-90,~DES_estructural,0.85,0.5,10,sin solución,,,,
+p10-50-90,~DES_estructural,0.85,0.5,20,sin solución,,,,
+p10-50-90,~DES_estructural,0.85,0.65,5,sin solución,,,,
+p10-50-90,~DES_estructural,0.85,0.65,10,sin solución,,,,
+p10-50-90,~DES_estructural,0.85,0.65,20,sin solución,,,,
+p10-50-90,~DES_estructural,0.85,0.7,5,sin solución,,,,
+p10-50-90,~DES_estructural,0.85,0.7,10,sin solución,,,,
+p10-50-90,~DES_estructural,0.85,0.7,20,sin solución,,,,
+p10-50-90,DES_regulacion,0.75,0.5,5,External*Sustainability + ValueTrust*~External + ~Company*ValueTrust,External*Sustainability + ValueTrust*~External + ~Company*ValueTrust,0.689,0.548,0.702
+p10-50-90,DES_regulacion,0.75,0.5,10,External*Sustainability + ValueTrust*~External + ~Company*ValueTrust,External*Sustainability + ValueTrust*~External + ~Company*ValueTrust,0.689,0.548,0.702
+p10-50-90,DES_regulacion,0.75,0.5,20,External*Sustainability + ValueTrust*~External + ~Company*ValueTrust,External*Sustainability + ValueTrust*~External + ~Company*ValueTrust,0.689,0.548,0.702
+p10-50-90,DES_regulacion,0.75,0.65,5,sin solución,,,,
+p10-50-90,DES_regulacion,0.75,0.65,10,sin solución,,,,
+p10-50-90,DES_regulacion,0.75,0.65,20,sin solución,,,,
+p10-50-90,DES_regulacion,0.75,0.7,5,sin solución,,,,
+p10-50-90,DES_regulacion,0.75,0.7,10,sin solución,,,,
+p10-50-90,DES_regulacion,0.75,0.7,20,sin solución,,,,
+p10-50-90,DES_regulacion,0.8,0.5,5,Company*ValueTrust*~External + ~Company*ValueTrust*Sustainability + ~ValueTrust*External*Sustainability + ~Company*ValueTrust*External,Company*ValueTrust*~External + ~Company*ValueTrust*Sustainability + ~ValueTrust*External*Sustainability + ~Company*ValueTrust*External,0.724,0.558,0.556
+p10-50-90,DES_regulacion,0.8,0.5,10,Company*ValueTrust*~External + ~Company*ValueTrust*Sustainability + ~ValueTrust*External*Sustainability + ~Company*ValueTrust*External,Company*ValueTrust*~External + ~Company*ValueTrust*Sustainability + ~ValueTrust*External*Sustainability + ~Company*ValueTrust*External,0.724,0.558,0.556
+p10-50-90,DES_regulacion,0.8,0.5,20,Company*ValueTrust*~External + ~Company*ValueTrust*Sustainability + ~ValueTrust*External*Sustainability + ~Company*ValueTrust*External,Company*ValueTrust*~External + ~Company*ValueTrust*Sustainability + ~ValueTrust*External*Sustainability + ~Company*ValueTrust*External,0.724,0.558,0.556
+p10-50-90,DES_regulacion,0.8,0.65,5,sin solución,,,,
+p10-50-90,DES_regulacion,0.8,0.65,10,sin solución,,,,
+p10-50-90,DES_regulacion,0.8,0.65,20,sin solución,,,,
+p10-50-90,DES_regulacion,0.8,0.7,5,sin solución,,,,
+p10-50-90,DES_regulacion,0.8,0.7,10,sin solución,,,,
+p10-50-90,DES_regulacion,0.8,0.7,20,sin solución,,,,
+p10-50-90,DES_regulacion,0.85,0.5,5,sin solución,,,,
+p10-50-90,DES_regulacion,0.85,0.5,10,sin solución,,,,
+p10-50-90,DES_regulacion,0.85,0.5,20,sin solución,,,,
+p10-50-90,DES_regulacion,0.85,0.65,5,sin solución,,,,
+p10-50-90,DES_regulacion,0.85,0.65,10,sin solución,,,,
+p10-50-90,DES_regulacion,0.85,0.65,20,sin solución,,,,
+p10-50-90,DES_regulacion,0.85,0.7,5,sin solución,,,,
+p10-50-90,DES_regulacion,0.85,0.7,10,sin solución,,,,
+p10-50-90,DES_regulacion,0.85,0.7,20,sin solución,,,,
+p10-50-90,~DES_regulacion,0.75,0.5,5,~ValueTrust*~External + ~ValueTrust*~Sustainability,~ValueTrust*~External + ~ValueTrust*~Sustainability,0.72,0.589,0.609
+p10-50-90,~DES_regulacion,0.75,0.5,10,~ValueTrust*~External + ~ValueTrust*~Sustainability,~ValueTrust*~External + ~ValueTrust*~Sustainability,0.72,0.589,0.609
+p10-50-90,~DES_regulacion,0.75,0.5,20,~ValueTrust*~External + ~ValueTrust*~Sustainability,~ValueTrust*~External + ~ValueTrust*~Sustainability,0.72,0.589,0.609
+p10-50-90,~DES_regulacion,0.75,0.65,5,sin solución,,,,
+p10-50-90,~DES_regulacion,0.75,0.65,10,sin solución,,,,
+p10-50-90,~DES_regulacion,0.75,0.65,20,sin solución,,,,
+p10-50-90,~DES_regulacion,0.75,0.7,5,sin solución,,,,
+p10-50-90,~DES_regulacion,0.75,0.7,10,sin solución,,,,
+p10-50-90,~DES_regulacion,0.75,0.7,20,sin solución,,,,
+p10-50-90,~DES_regulacion,0.8,0.5,5,~ValueTrust*External*~Sustainability + Company*~ValueTrust*~External,~ValueTrust*External*~Sustainability + Company*~ValueTrust*~External,0.766,0.577,0.401
+p10-50-90,~DES_regulacion,0.8,0.5,10,~ValueTrust*External*~Sustainability + Company*~ValueTrust*~External,~ValueTrust*External*~Sustainability + Company*~ValueTrust*~External,0.766,0.577,0.401
+p10-50-90,~DES_regulacion,0.8,0.5,20,~ValueTrust*External*~Sustainability + Company*~ValueTrust*~External,~ValueTrust*External*~Sustainability + Company*~ValueTrust*~External,0.766,0.577,0.401
+p10-50-90,~DES_regulacion,0.8,0.65,5,sin solución,,,,
+p10-50-90,~DES_regulacion,0.8,0.65,10,sin solución,,,,
+p10-50-90,~DES_regulacion,0.8,0.65,20,sin solución,,,,
+p10-50-90,~DES_regulacion,0.8,0.7,5,sin solución,,,,
+p10-50-90,~DES_regulacion,0.8,0.7,10,sin solución,,,,
+p10-50-90,~DES_regulacion,0.8,0.7,20,sin solución,,,,
+p10-50-90,~DES_regulacion,0.85,0.5,5,sin solución,,,,
+p10-50-90,~DES_regulacion,0.85,0.5,10,sin solución,,,,
+p10-50-90,~DES_regulacion,0.85,0.5,20,sin solución,,,,
+p10-50-90,~DES_regulacion,0.85,0.65,5,sin solución,,,,
+p10-50-90,~DES_regulacion,0.85,0.65,10,sin solución,,,,
+p10-50-90,~DES_regulacion,0.85,0.65,20,sin solución,,,,
+p10-50-90,~DES_regulacion,0.85,0.7,5,sin solución,,,,
+p10-50-90,~DES_regulacion,0.85,0.7,10,sin solución,,,,
+p10-50-90,~DES_regulacion,0.85,0.7,20,sin solución,,,,

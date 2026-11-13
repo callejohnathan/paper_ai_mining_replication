@@ -1,0 +1,5 @@
+resultado,termino,consistencia,PRI,cobertura_bruta,cobertura_unica,nucleo,periferica,sol_consistencia,sol_PRI,sol_cobertura,filas_positivas,modelos_alternativos
+DES_estructural,ValueTrust*Sustainability,0.803,0.758,0.584,0.584,ValueTrust; Sustainability,,0.803,0.758,0.584,4.0,1.0
+~DES_estructural,ninguna configuración supera los umbrales,,,,,,,,,,,
+DES_regulacion,ValueTrust*Sustainability,0.8,0.762,0.575,0.575,ValueTrust; Sustainability,,0.8,0.762,0.575,4.0,1.0
+~DES_regulacion,ninguna configuración supera los umbrales,,,,,,,,,,,

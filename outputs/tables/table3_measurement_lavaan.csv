@@ -1,0 +1,9 @@
+"construct_es","construct_en","n_items","loading_min","loading_max","CR","AVE","below_threshold","htmt_max_con_otros"
+"GOB_empresa","Company Trust",5,0.611,0.864,0.872,0.581,FALSE,0.504
+"GOB_confianza","Perceived Value of Trust and Transparency",2,0.978,0.99,0.984,0.969,FALSE,0.491
+"GOB_externo","External Institution Trust",3,0.446,0.699,0.545,0.296,TRUE,0.491
+"SOS_ambiental","Environmental Sustainability",3,0.655,0.938,0.88,0.714,FALSE,0.36
+"DES_relacional","Relational Performance",3,0.946,0.978,0.976,0.933,FALSE,0.349
+"DES_regulacion","Ecological Regulation",3,0.679,0.964,0.906,0.766,FALSE,0.349
+"DES_estructural","Structural Performance",2,0.59,0.625,0.54,0.37,TRUE,0.504
+"DES_agencia","Individual Agency",2,0.566,0.979,0.768,0.639,FALSE,0.349

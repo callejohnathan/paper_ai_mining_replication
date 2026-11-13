@@ -24,7 +24,7 @@ Composite scores are the simple mean of their items (`scripts/_common.py`).
 | Code | Construct in the paper | Items |
 |---|---|---|
 | `GOB_empresa` | Company Trust | `GOB_1`, `GOB_6`, `GOB_11`, `GOB_12`, `GOB_13` |
-| `GOB_confianza` | Community Trust | `GOB_9`, `GOB_10` |
+| `GOB_confianza` | Perceived Value of Trust and Transparency | `GOB_9`, `GOB_10` |
 | `GOB_externo` | External Institution Trust | `GOB_2`, `GOB_7`, `GOB_8` |
 | `SOS_ambiental` | Environmental Sustainability | `SOS_3`, `SOS_4`, `SOS_5` |
 | `DES_relacional` | Relational Performance | `DES_5`, `DES_6`, `DES_7` |

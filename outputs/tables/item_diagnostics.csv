@@ -1,8 +1,8 @@
 bloque,item,media,sd,asimetria,%min,%max,%punto_medio_3,r_item_total_corr,excluido,motivo_exclusion
 GOB,GOB_1,3.56,1.16,-0.55,8.5,25.2,36.1,0.578,False,
 GOB,GOB_2,3.15,0.68,0.56,3.0,6.9,81.1,0.306,False,
-GOB,GOB_3,3.21,0.62,1.44,0.8,7.0,81.2,0.364,True,81.2% de respuestas en el punto medio (3) — probable 'no conozco este programa de la empresa' usado como respuesta por defecto
-GOB,GOB_4,3.3,0.79,0.61,2.0,11.7,70.3,0.518,True,"70.3% de respuestas en el punto medio (3) — mismo patrón que GOB_3, otro programa específico de la empresa"
+GOB,GOB_3,3.21,0.62,1.44,0.8,7.0,81.2,0.364,True,81.2% de respuestas en el punto medio (3) — probable 'no conozco este programa (Bosques de Agua)' usado como respuesta por defecto
+GOB,GOB_4,3.3,0.79,0.61,2.0,11.7,70.3,0.518,True,"70.3% de respuestas en el punto medio (3) — mismo patrón que GOB_3, programa 'Juntos somos comunidad'"
 GOB,GOB_5,3.15,0.85,0.23,4.7,10.2,69.5,0.402,False,
 GOB,GOB_6,3.28,1.38,-0.37,18.3,24.3,29.8,0.59,False,
 GOB,GOB_7,2.92,1.45,-0.12,28.8,15.6,22.9,0.447,False,

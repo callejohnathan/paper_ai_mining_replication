@@ -1,16 +1,16 @@
 cff-version: 1.2.0
 message: "If you use these materials, please cite this deposit and the associated article."
-title: "Replication materials for: Fragmented Trust, Uneven Returns: A Mixed-Methods Analysis of Water Governance and Socio-Ecological System Performance in Gold-Mining Territories"
-version: 1.0.0
-date-released: 2026-10-20
-doi: 10.5281/zenodo.23504944
+title: "Replication materials for: Water Governance Perceptions and Socio-Ecological Performance Across Gold-Mining Communities: A Multilevel Mixed-Methods Analysis of Territorial Heterogeneity"
+version: 2.0.0
+date-released: 2026-11-13
+doi: 10.5281/zenodo.23504943
 identifiers:
   - type: doi
     value: 10.5281/zenodo.23504943
     description: Concept DOI (all versions, resolves to the latest)
   - type: doi
     value: 10.5281/zenodo.23504944
-    description: Version 1.0.0
+    description: Version 1.0.0 (originally submitted manuscript)
 license: MIT
 repository-code: "https://github.com/callejohnathan/paper_ai_mining_replication"
 authors:
@@ -29,6 +29,6 @@ keywords:
   - social-ecological systems
   - CB-SEM
   - fsQCA
-  - necessary condition analysis
   - multilevel models
+  - territorial heterogeneity
   - Colombia

@@ -61,7 +61,7 @@ def main():
     y = df[cfg.NCA_OUTCOME].values
 
     label_map = {
-        "GOB_empresa": "Company Trust", "GOB_confianza": "Community Trust",
+        "GOB_empresa": "Company Trust", "GOB_confianza": "Perceived Value of Trust and Transparency",
         "GOB_externo": "External Institution Trust",
         "SOS_ambiental": "Environmental Sustainability",
         "seguridad_hidrica": "Water-Source Security",
@@ -93,7 +93,7 @@ def plot_ceiling_lines(df: pd.DataFrame, y: np.ndarray):
     S_MIN, S_MAX = 10, 700
 
     for ax, cond, label in [
-        (axes[0], "GOB_confianza", "Community Trust"),
+        (axes[0], "GOB_confianza", "Perceived Value of Trust and Transparency"),
         (axes[1], "seguridad_hidrica", "Water-Source Security"),
     ]:
         x = df[cond].values

@@ -1,0 +1,7 @@
+resultado,solucion,modelo,termino,consistencia,PRI,cobertura_bruta,cobertura_unica,nucleo,sol_consistencia,sol_PRI,sol_cobertura
+DES_estructural,ninguna fila supera los umbrales,,,,,,,,,,
+~DES_estructural,compleja,1.0,~Company*~Community*~External*~Sustainability*Security,0.844,0.726,0.284,0.284,,0.844,0.726,0.284
+~DES_estructural,parsimoniosa,1.0,~Company*~Community*~External*~Sustainability,0.847,0.749,0.322,0.322,,0.847,0.749,0.322
+~DES_estructural,intermedia,1.0,~Company*~Community*~External*~Sustainability,0.847,0.749,0.322,0.322,~Company=núcleo; ~Community=núcleo; ~External=núcleo; ~Sustainability=núcleo,0.847,0.749,0.322
+DES_regulacion,ninguna fila supera los umbrales,,,,,,,,,,
+~DES_regulacion,ninguna fila supera los umbrales,,,,,,,,,,

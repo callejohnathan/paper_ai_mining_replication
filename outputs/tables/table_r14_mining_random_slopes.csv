@@ -1,0 +1,17 @@
+outcome,slope,LR_sin_mining,LR_con_mining,p_sin_mining,p_con_mining,pendiente_fija_sin_mining,pendiente_fija_con_mining,heterogenea_sin_mining,heterogenea_con_mining,heterogenea_BH_sin_mining,heterogenea_BH_con_mining
+DES_agencia,GOB_confianza,0.2309,0.2638,0.7609,0.742,0.0921,0.0936,False,False,False,False
+DES_agencia,GOB_empresa,3.6479,3.7107,0.1088,0.1052,0.1817,0.1814,False,False,False,False
+DES_agencia,GOB_externo,0.0,0.3739,1.0,0.6852,0.1133,0.1324,False,False,False,False
+DES_agencia,SOS_ambiental,9.3729,9.3796,0.0057,0.0057,0.1348,0.1344,True,True,True,True
+DES_estructural,GOB_confianza,9.7991,9.8232,0.0046,0.0045,0.1442,0.1437,True,True,True,True
+DES_estructural,GOB_empresa,2.5421,2.5423,0.1957,0.1957,0.2282,0.2282,False,False,False,False
+DES_estructural,GOB_externo,1.1029,1.0982,0.4349,0.4361,0.1506,0.1503,False,False,False,False
+DES_estructural,SOS_ambiental,8.4444,8.4988,0.0092,0.0089,0.1859,0.1862,True,True,True,True
+DES_regulacion,GOB_confianza,0.7215,0.5618,0.5464,0.6043,0.138,0.1358,False,False,False,False
+DES_regulacion,GOB_empresa,0.1173,0.1114,0.8375,0.8422,-0.0688,-0.0705,False,False,False,False
+DES_regulacion,GOB_externo,6.915,6.6615,0.02,0.0228,0.0947,0.095,True,True,True,False
+DES_regulacion,SOS_ambiental,12.1551,12.1491,0.0014,0.0014,0.1152,0.1147,True,True,True,True
+DES_relacional,GOB_confianza,4.581,4.4392,0.0668,0.0719,0.164,0.1655,False,False,False,False
+DES_relacional,GOB_empresa,20.0089,20.26,0.0,0.0,0.2914,0.2916,True,True,True,True
+DES_relacional,GOB_externo,11.4138,11.5988,0.002,0.0018,0.0969,0.0967,True,True,True,True
+DES_relacional,SOS_ambiental,3.0563,3.4346,0.1487,0.1217,0.0953,0.0963,False,False,False,False

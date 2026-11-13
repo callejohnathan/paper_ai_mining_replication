@@ -94,6 +94,19 @@ def fmt_beta(b: float) -> str:
     return t.replace("0.", ".", 1) if t.startswith("0.") else t.replace("-0.", "-.", 1)
 
 
+def box_label(x: float, cy: float, name: str) -> str:
+    """Etiqueta de caja; si no cabe en una línea (~28 caracteres a 14px en 210px),
+    se parte en dos por el espacio más cercano al centro (ronda 20: la etiqueta
+    'Perceived Value of Trust and Transparency' no cabe en una línea)."""
+    if len(name) <= 28 or " " not in name:
+        return f'<text x="{x:.1f}" y="{cy:.1f}" class="box-label">{name}</text>'
+    mid = len(name) / 2
+    cut = min((i for i, ch in enumerate(name) if ch == " "), key=lambda i: abs(i - mid))
+    l1, l2 = name[:cut], name[cut + 1:]
+    return (f'<text x="{x:.1f}" y="{cy - 9:.1f}" class="box-label">'
+            f'<tspan x="{x:.1f}" dy="0">{l1}</tspan><tspan x="{x:.1f}" dy="18">{l2}</tspan></text>')
+
+
 def build_svg(df: pd.DataFrame) -> str:
     predictors = list(dict.fromkeys(df["predictor_en"]))
     outcomes = list(dict.fromkeys(df["outcome_en"]))
@@ -120,11 +133,11 @@ def build_svg(df: pd.DataFrame) -> str:
     for name, y in pred_y.items():
         cy = y + BOX_H / 2
         boxes.append(f'<rect x="{PRED_X}" y="{y:.1f}" width="{BOX_W}" height="{BOX_H}" rx="8" class="box box-pred"/>'
-                      f'<text x="{PRED_X + BOX_W/2:.1f}" y="{cy:.1f}" class="box-label">{name}</text>')
+                      + box_label(PRED_X + BOX_W/2, cy, name))
     for name, y in out_y.items():
         cy = y + BOX_H / 2
         boxes.append(f'<rect x="{OUT_X}" y="{y:.1f}" width="{BOX_W}" height="{BOX_H}" rx="8" class="box box-out"/>'
-                      f'<text x="{OUT_X + BOX_W/2:.1f}" y="{cy:.1f}" class="box-label">{name}</text>')
+                      + box_label(OUT_X + BOX_W/2, cy, name))
 
     rows = sorted(df.iterrows(), key=lambda kv: kv[1]["sig"] == "")  # no-sig primero (fondo)
     paths, labels = [], []
@@ -229,11 +242,17 @@ def render_png(html_path: Path, png_path: Path) -> bool:
               " y volvé a correr este script.")
         return False
     uri = html_path.resolve().as_uri()
-    subprocess.run([
-        browser, "--headless", "--disable-gpu", "--no-sandbox",
-        "--force-device-scale-factor=2", "--window-size=1300,1100",
-        f"--screenshot={png_path}", uri,
-    ], capture_output=True, timeout=60)
+    # Se borra el PNG anterior: si el navegador falla (p. ej. Edge abierto con el
+    # perfil del usuario), no debe quedar la figura vieja haciéndose pasar por nueva.
+    png_path.unlink(missing_ok=True)
+    import tempfile
+    with tempfile.TemporaryDirectory() as perfil:
+        subprocess.run([
+            browser, "--headless", "--disable-gpu", "--no-sandbox",
+            f"--user-data-dir={perfil}",
+            "--force-device-scale-factor=2", "--window-size=1300,1100",
+            f"--screenshot={png_path}", uri,
+        ], capture_output=True, timeout=60)
     if png_path.exists():
         # recorta el blanco sobrante (la ventana headless es mas alta que el contenido)
         from PIL import Image, ImageChops

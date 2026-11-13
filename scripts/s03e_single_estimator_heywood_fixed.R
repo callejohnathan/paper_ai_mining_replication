@@ -1,5 +1,22 @@
 # s03e_single_estimator_heywood_fixed.R
 #
+# CORREGIDO 2026-11-10 (docs/ronda15_tabla4_corregida.md, rama `reformulacion`).
+#
+# En lavaan un predictor OBSERVADO exogeno no se correlaciona con los
+# factores LATENTES exogenos: esa covarianza queda fijada en 0 sin aviso.
+# La version anterior de este script suponia, por eso, que
+# vulnerabilidad_hidrica no estaba correlacionada con Company, Community,
+# External ni Sustainability (los datos lo rechazan: Delta chi2 ~ 96, 4 gl;
+# ver docs/ronda14_mineria_covariable.md). Ahora vulnerabilidad_hidrica entra
+# como latente de un solo indicador (phantom: carga 1, varianza residual 0),
+# con lo que lavaan libera sus covarianzas con los demas factores exogenos.
+# En las tablas de salida se sigue llamando `vulnerabilidad_hidrica`.
+# La version anterior se recupera con el tag `enviado-resources-policy`.
+#
+# Advertencia esperada: lavaan avisa que la vcov "no parece definida
+# positiva" con un autovalor minimo del orden de -1e-13. Es cero numerico,
+# causado por la varianza residual 0 del indicador phantom.
+#
 # CORREGIDO 2026-10-15 (docs/decisiones_auditoria_20261015.md, punto 4).
 #
 # La Tabla 4 del manuscrito mezclaba dos estimaciones distintas: los beta
@@ -45,10 +62,14 @@ model <- '
   DES_agencia =~ DES_2 + DES_9
   DES_2 ~~ 0.05*DES_2
 
-  DES_relacional ~ GOB_empresa + GOB_confianza + GOB_externo + SOS_ambiental + vulnerabilidad_hidrica
-  DES_regulacion ~ GOB_empresa + GOB_confianza + GOB_externo + SOS_ambiental + vulnerabilidad_hidrica
-  DES_estructural ~ GOB_empresa + GOB_confianza + GOB_externo + SOS_ambiental + vulnerabilidad_hidrica
-  DES_agencia ~ GOB_empresa + GOB_confianza + GOB_externo + SOS_ambiental + vulnerabilidad_hidrica
+  # phantom: vulnerabilidad como latente de un indicador, covarianzas libres
+  VUL =~ 1*vulnerabilidad_hidrica
+  vulnerabilidad_hidrica ~~ 0*vulnerabilidad_hidrica
+
+  DES_relacional ~ GOB_empresa + GOB_confianza + GOB_externo + SOS_ambiental + VUL
+  DES_regulacion ~ GOB_empresa + GOB_confianza + GOB_externo + SOS_ambiental + VUL
+  DES_estructural ~ GOB_empresa + GOB_confianza + GOB_externo + SOS_ambiental + VUL
+  DES_agencia ~ GOB_empresa + GOB_confianza + GOB_externo + SOS_ambiental + VUL
 '
 
 fit_naive <- sem(model, data = df, std.lv = FALSE)
@@ -58,7 +79,8 @@ stopifnot(lavInspect(fit_naive, "converged"))
 
 # --- Tabla de coeficientes -------------------------------------------------
 LATENT_EN <- c(
-  GOB_empresa = "Company Trust", GOB_confianza = "Community Trust",
+  # D10 (2026-11-12): la escala comunitaria se renombra; ver docs/ronda20_paso_F.md
+  GOB_empresa = "Company Trust", GOB_confianza = "Perceived Value of Trust and Transparency",
   GOB_externo = "External Institution Trust", SOS_ambiental = "Environmental Sustainability",
   vulnerabilidad_hidrica = "Water-Source Vulnerability",
   DES_relacional = "Relational Performance", DES_regulacion = "Ecological Regulation",
@@ -68,8 +90,13 @@ LATENT_EN <- c(
 outcomes <- c("DES_relacional", "DES_regulacion", "DES_estructural", "DES_agencia")
 predictors <- c("GOB_empresa", "GOB_confianza", "GOB_externo", "SOS_ambiental", "vulnerabilidad_hidrica")
 
+stopifnot(lavInspect(fit_cluster, "converged"))
+
 pe_n <- parameterEstimates(fit_naive, standardized = TRUE)
 pe_c <- parameterEstimates(fit_cluster, standardized = TRUE)
+# el phantom VUL se reporta con el nombre de la variable observada
+pe_n$rhs[pe_n$rhs == "VUL"] <- "vulnerabilidad_hidrica"
+pe_c$rhs[pe_c$rhs == "VUL"] <- "vulnerabilidad_hidrica"
 
 sn <- pe_n[pe_n$op == "~" & pe_n$lhs %in% outcomes & pe_n$rhs %in% predictors,
            c("lhs", "rhs", "std.all", "se", "pvalue")]
@@ -83,10 +110,16 @@ m$sig <- ifelse(m$p_cluster_t14 < .001, "***",
           ifelse(m$p_cluster_t14 < .01, "**",
           ifelse(m$p_cluster_t14 < .05, "*", "")))
 
+# F2 (2026-11-12): el SEM se reporta como exploratorio, con correccion por
+# multiplicidad sobre las 20 rutas (Benjamini-Hochberg y Holm), igual que el
+# multinivel ya corrige sus 16 pruebas de pendientes aleatorias.
+m$q_bh <- p.adjust(m$p_cluster_t14, method = "BH")
+m$p_holm <- p.adjust(m$p_cluster_t14, method = "holm")
+
 m$outcome_en <- LATENT_EN[m$lhs]
 m$predictor_en <- LATENT_EN[m$rhs]
 m <- m[, c("lhs", "rhs", "outcome_en", "predictor_en", "std.all",
-           "pvalue_naive", "pvalue_cluster", "p_cluster_t14", "sig")]
+           "pvalue_naive", "pvalue_cluster", "p_cluster_t14", "sig", "q_bh", "p_holm")]
 names(m)[names(m) == "std.all"] <- "beta"
 m$beta <- round(m$beta, 3)
 m <- m[order(m$lhs, -abs(m$beta)), ]

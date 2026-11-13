@@ -1,0 +1,21 @@
+anclas,empuje_0.5,resultado,prop_Y_dentro,solucion,parsimoniosa,sol_consistencia,sol_PRI,sol_cobertura
+2/3.25/4.5,1,DES_estructural,0.62,Community*Sustainability*Security,Community*Sustainability,0.839,0.797,0.545
+2/3.25/4.5,1,DES_regulacion,0.65,Community*Sustainability*Security,Community*Sustainability,0.826,0.789,0.529
+2/3.25/4.5,-1,DES_estructural,0.62,Community*Sustainability*Security,Community*Sustainability*Security,0.84,0.797,0.544
+2/3.25/4.5,-1,DES_regulacion,0.65,Community*Sustainability*Security,Community*Sustainability*Security,0.827,0.789,0.529
+1.5/3.25/4.5,1,DES_estructural,0.62,Community*Sustainability*Security + Company*External*Sustainability*Security + Company*Community*External*Security,Company*External*Sustainability + Community*External + Community*Sustainability,0.842,0.792,0.661
+1.5/3.25/4.5,1,DES_regulacion,0.65,Community*Sustainability*Security,Community*Sustainability,0.844,0.802,0.558
+1.5/3.25/4.5,-1,DES_estructural,0.62,Community*Sustainability*Security + Company*External*Sustainability*Security + Company*Community*External*Security + Company*Community*~External*Sustainability,~Company*Community*Security + Community*External*Security + External*Sustainability*Security + Company*Community*~External*Sustainability,0.841,0.791,0.666
+1.5/3.25/4.5,-1,DES_regulacion,0.65,Community*Sustainability*Security,Community*Sustainability*Security,0.844,0.802,0.558
+2/3.1/4.5,1,DES_estructural,0.62,Community*Sustainability*Security,Community*Sustainability,0.848,0.809,0.558
+2/3.1/4.5,1,DES_regulacion,0.65,Community*Sustainability*Security,Community*Sustainability,0.829,0.794,0.542
+2/3.1/4.5,-1,DES_estructural,0.62,Community*Sustainability*Security,Community*Sustainability*Security,0.848,0.809,0.558
+2/3.1/4.5,-1,DES_regulacion,0.65,Community*Sustainability*Security,Community*Sustainability*Security,0.829,0.794,0.542
+2.5/3.75/4.75,1,DES_estructural,0.54,Community*External*Sustainability*Security + Company*Community*Sustainability*Security,Community*External*Sustainability + Company*Community*Sustainability,0.806,0.729,0.397
+2.5/3.75/4.75,1,DES_regulacion,0.57,Company*Community*Sustainability*Security + Community*~External*Sustainability*Security,Community*~External*Sustainability + Company*Community*Sustainability,0.791,0.725,0.436
+2.5/3.75/4.75,-1,DES_estructural,0.54,Community*External*Sustainability*Security + Company*Community*Sustainability*Security,Company*Community*Sustainability*Security + ~Company*External,0.806,0.729,0.397
+2.5/3.75/4.75,-1,DES_regulacion,0.57,Company*Community*Sustainability*Security + Community*~External*Sustainability*Security,Company*Community*Sustainability*Security + Community*~External*Sustainability*Security,0.791,0.725,0.436
+2/3.4/4.8,1,DES_estructural,0.62,Community*External*Sustainability*Security + Company*Community*Sustainability*Security,~Company*Community*External + Company*Community*Sustainability,0.848,0.786,0.479
+2/3.4/4.8,1,DES_regulacion,0.61,Company*Community*Sustainability*Security + Community*~External*Sustainability*Security,Community*~External*Sustainability + Company*Community*Sustainability,0.822,0.764,0.487
+2/3.4/4.8,-1,DES_estructural,0.62,Community*External*Sustainability*Security + Company*Community*Sustainability*Security,Company*Community*Sustainability*Security + ~Company*Community*External,0.848,0.786,0.479
+2/3.4/4.8,-1,DES_regulacion,0.61,Company*Community*Sustainability*Security + Community*~External*Sustainability*Security,Company*Community*Sustainability*Security + Community*~External*Sustainability*Security,0.822,0.764,0.487

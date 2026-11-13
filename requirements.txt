@@ -8,3 +8,4 @@ factor_analyzer==0.5.1
 # factor_analyzer 0.5.1 is incompatible with newer scikit-learn releases
 scikit-learn==1.5.2
 openpyxl
+python-docx   # s18: Supplementary Material document

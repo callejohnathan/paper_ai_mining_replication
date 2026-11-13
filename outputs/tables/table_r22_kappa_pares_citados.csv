@@ -1,0 +1,5 @@
+par,pct_identicas,pct_esperado_marginales,kappa
+DES_5-DES_7,93.9,51.5,0.874
+GOB_2-GOB_7,32.0,22.6,0.122
+GOB_2-GOB_8,16.9,11.9,0.057
+GOB_7-GOB_8,34.7,23.2,0.149

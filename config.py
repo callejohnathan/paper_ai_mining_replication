@@ -11,7 +11,6 @@ from pathlib import Path
 # Rutas
 # ---------------------------------------------------------------------------
 ROOT = Path(__file__).resolve().parent
-# Los datos no se distribuyen con este repositorio (ver README.md, "Data availability").
 DATA_RAW = ROOT / "data" / "raw" / "Datos Mineria objetivo 2.xlsx"
 DATA_PROCESSED = ROOT / "data" / "processed"
 OUT_TABLES = ROOT / "outputs" / "tables"
@@ -23,7 +22,7 @@ for _p in (DATA_PROCESSED, OUT_TABLES, OUT_FIGURES):
 RANDOM_SEED = 42
 
 # ---------------------------------------------------------------------------
-# Bloques de ítems originales del cuestionario (34 ítems, ver DATA_DICTIONARY.md)
+# Bloques de ítems originales del cuestionario (34 ítems, ver docs/Cuestionario_Preguntas_Etiquetas.md)
 # ---------------------------------------------------------------------------
 GOB_ITEMS = [f"GOB_{i}" for i in range(1, 15)]
 SOS_ITEMS = [f"SOS_{i}" for i in range(1, 6)]
@@ -41,9 +40,9 @@ EXCLUDED_ITEMS = {
     "DES_8": "varianza casi nula (SD=.14, 98.7% responde el máximo)",
     "DES_15": "r item-total negativo (-.028); ítem 'global/puente', no reflectivo del resto",
     "GOB_3": "81.2% de respuestas en el punto medio (3) — probable 'no conozco este "
-             "programa de la empresa' usado como respuesta por defecto",
+             "programa (Bosques de Agua)' usado como respuesta por defecto",
     "GOB_4": "70.3% de respuestas en el punto medio (3) — mismo patrón que GOB_3, "
-             "otro programa específico de la empresa",
+             "programa 'Juntos somos comunidad'",
 }
 
 # ---------------------------------------------------------------------------
@@ -58,7 +57,7 @@ MEASUREMENT_MODEL = {
     },
     "GOB_confianza": {
         "items": ["GOB_9", "GOB_10"],
-        "label_en": "Community Trust",
+        "label_en": "Perceived Value of Trust and Transparency",
     },
     "GOB_externo": {
         "items": ["GOB_2", "GOB_7", "GOB_8"],
@@ -110,7 +109,7 @@ FUENTE_VULNERABILIDAD_MAP = {
 STRUCTURAL_PREDICTORS_ES = GOVERNANCE_FACTORS + ["SOS_ambiental", "vulnerabilidad_hidrica"]
 STRUCTURAL_PREDICTORS_EN = {
     "GOB_empresa": "Company Trust",
-    "GOB_confianza": "Community Trust",
+    "GOB_confianza": "Perceived Value of Trust and Transparency",
     "GOB_externo": "External Institution Trust",
     "SOS_ambiental": "Environmental Sustainability",
     "vulnerabilidad_hidrica": "Water-Source Vulnerability",
