@@ -24,7 +24,7 @@ manuscript (*Fragmented Trust, Uneven Returns*); see "Changes from version 1.0.0
 config.py              Central pipeline decisions: paths, excluded items, construct mapping
 scripts/               Analysis pipeline (Python + R)
 outputs/tables/        CSV for every table and supplementary analysis
-outputs/figures/       Figures of the revised manuscript and supplementary Figure S1
+outputs/figures/       Figures of the revised manuscript (figure1_path_diagram.pdf is vector) and supplementary Figure S1
 outputs/figures/vector Figure 2 as vector PDF
 DATA_DICTIONARY.md     Variables the pipeline expects in the (non-distributed) dataset
 ```
