@@ -14,7 +14,7 @@ multiple testing, multilevel models with random slopes, and fuzzy-set qualitativ
 comparative analysis (fsQCA) as a robustness check, on a household survey (N = 980)
 in 15 veredas (rural districts) of a gold-mining territory in Antioquia, Colombia.
 
-**Version 2.0.0** accompanies the revised manuscript. Version 1.0.0
+**Version 2.0.0** (https://doi.org/10.5281/zenodo.24203973) accompanies the revised manuscript. Version 1.0.0
 (https://doi.org/10.5281/zenodo.23504944) accompanies the originally submitted
 manuscript (*Fragmented Trust, Uneven Returns*); see "Changes from version 1.0.0".
 
@@ -147,8 +147,8 @@ Please cite both this deposit and the article:
 > Polanco, J.-A., Calle Gallego, J. M., & Hernández-Díaz, P. M. (2026).
 > *Replication materials for: Water Governance Perceptions and Socio-Ecological
 > Performance Across Gold-Mining Communities* (Version 2.0.0) [Software]. Zenodo.
-> https://doi.org/10.5281/zenodo.23504943
+> https://doi.org/10.5281/zenodo.24203973
 
-`10.5281/zenodo.23504943` (concept DOI) always resolves to the latest version.
-Zenodo assigns a version-specific DOI to each release; version 1.0.0 is
-`10.5281/zenodo.23504944`. See also `CITATION.cff`.
+`10.5281/zenodo.24203973` identifies version 2.0.0; `10.5281/zenodo.23504944`
+identifies version 1.0.0; `10.5281/zenodo.23504943` (concept DOI) always resolves
+to the latest version. See also `CITATION.cff`.

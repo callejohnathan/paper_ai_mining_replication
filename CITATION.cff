@@ -3,11 +3,14 @@ message: "If you use these materials, please cite this deposit and the associate
 title: "Replication materials for: Water Governance Perceptions and Socio-Ecological Performance Across Gold-Mining Communities: A Multilevel Mixed-Methods Analysis of Territorial Heterogeneity"
 version: 2.0.0
 date-released: 2026-11-13
-doi: 10.5281/zenodo.23504943
+doi: 10.5281/zenodo.24203973
 identifiers:
   - type: doi
     value: 10.5281/zenodo.23504943
     description: Concept DOI (all versions, resolves to the latest)
+  - type: doi
+    value: 10.5281/zenodo.24203973
+    description: Version 2.0.0 (revised manuscript)
   - type: doi
     value: 10.5281/zenodo.23504944
     description: Version 1.0.0 (originally submitted manuscript)
